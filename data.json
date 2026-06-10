@@ -1,5 +1,247 @@
 {
-  "generatedAt": null,
-  "theatres": [],
-  "ott": []
+  "generatedAt": "2026-06-10T04:36:03.383Z",
+  "theatres": [
+    {
+      "title": "Obsession",
+      "platform": "Theatres",
+      "genre": "Horror",
+      "language": "English",
+      "released": "2026-05-29",
+      "review": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon…",
+      "scores": [
+        {
+          "source": "TMDB",
+          "score": "7.9/10"
+        }
+      ],
+      "verdict": "Must watch",
+      "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
+    },
+    {
+      "title": "Peddi",
+      "platform": "Theatres",
+      "genre": "Action / Drama",
+      "language": "Telugu",
+      "released": "2026-06-04",
+      "review": "In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rival.",
+      "scores": [
+        {
+          "source": "TMDB",
+          "score": "5.9/10"
+        }
+      ],
+      "verdict": "Decent one-time watch",
+      "poster": "https://image.tmdb.org/t/p/w342/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg"
+    },
+    {
+      "title": "Hai Jawani Toh Ishq Hona Hai",
+      "platform": "Theatres",
+      "genre": "Romance / Comedy",
+      "language": "Hindi",
+      "released": "2026-06-05",
+      "review": "When Jass leaves his marriage over conflicting priorities, a new romance abroad is upended by shocking revelations, forcing him to confront love, loyalty, and…",
+      "scores": [
+        {
+          "source": "TMDB",
+          "score": "5.1/10"
+        }
+      ],
+      "verdict": "Skip unless curious",
+      "poster": "https://image.tmdb.org/t/p/w342/vmlJvz6qVzYgei2V74GvnmcuQfW.jpg"
+    },
+    {
+      "title": "The Mandalorian and Grogu",
+      "platform": "Theatres",
+      "genre": "Action / Adventure",
+      "language": "English",
+      "released": "2026-05-22",
+      "review": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the…",
+      "scores": [
+        {
+          "source": "TMDB",
+          "score": "6.8/10"
+        }
+      ],
+      "verdict": "Worth a watch",
+      "poster": "https://image.tmdb.org/t/p/w342/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg"
+    },
+    {
+      "title": "Backrooms",
+      "platform": "Theatres",
+      "genre": "Horror / Mystery",
+      "language": "English",
+      "released": "2026-06-12",
+      "review": "A strange doorway appears in the basement of a furniture showroom.",
+      "scores": [
+        {
+          "source": "TMDB",
+          "score": "6.8/10"
+        }
+      ],
+      "verdict": "Worth a watch",
+      "poster": "https://image.tmdb.org/t/p/w342/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
+    }
+  ],
+  "ott": [
+    {
+      "title": "FROM",
+      "platform": "Amazon Prime Video",
+      "genre": "Mystery / Drama",
+      "language": "English",
+      "released": "2022-02-20",
+      "review": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and…",
+      "scores": [
+        {
+          "source": "TMDB",
+          "score": "8.5/10"
+        }
+      ],
+      "verdict": "Must watch",
+      "poster": "https://image.tmdb.org/t/p/w342/pRtJagIxpfODzzb0T0NAvZSzErC.jpg"
+    },
+    {
+      "title": "Off Campus",
+      "platform": "Amazon Prime Video",
+      "genre": "Drama",
+      "language": "English",
+      "released": "2026-05-13",
+      "review": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean,…",
+      "scores": [
+        {
+          "source": "TMDB",
+          "score": "9.0/10"
+        }
+      ],
+      "verdict": "Must watch",
+      "poster": "https://image.tmdb.org/t/p/w342/cbODFqkcmRgrYH8NkG4Q4Hcg8Z1.jpg"
+    },
+    {
+      "title": "The Boys",
+      "platform": "Amazon Prime Video",
+      "genre": "Sci-Fi & Fantasy / Action & Adventure",
+      "language": "English",
+      "released": "2019-07-25",
+      "review": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight…",
+      "scores": [
+        {
+          "source": "TMDB",
+          "score": "8.5/10"
+        }
+      ],
+      "verdict": "Must watch",
+      "poster": "https://image.tmdb.org/t/p/w342/in1R2dDc421JxsoRWaIIAqVI2KE.jpg"
+    },
+    {
+      "title": "Teach You a Lesson",
+      "platform": "Netflix",
+      "genre": "Action & Adventure / Drama",
+      "language": "Korean",
+      "released": "2026-06-05",
+      "review": "When respect collapses in schools, unconventional inspectors arrive to set things right — with sharp, no-nonsense lessons you won't find in textbooks.",
+      "scores": [
+        {
+          "source": "TMDB",
+          "score": "9.2/10"
+        }
+      ],
+      "verdict": "Must watch",
+      "poster": "https://image.tmdb.org/t/p/w342/wd14C18cey46iCj9pedMSM4kXE6.jpg"
+    },
+    {
+      "title": "Spider-Noir",
+      "platform": "Amazon Prime Video",
+      "genre": "Drama / Mystery",
+      "language": "English",
+      "released": "2026-05-25",
+      "review": "Ben Reilly, an aging and down on his luck private investigator in 1930s New York, is forced to grapple with his past life as the city's one and only superhero.",
+      "scores": [
+        {
+          "source": "TMDB",
+          "score": "8.7/10"
+        }
+      ],
+      "verdict": "Must watch",
+      "poster": "https://image.tmdb.org/t/p/w342/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg"
+    },
+    {
+      "title": "Office Romance",
+      "platform": "Netflix",
+      "genre": "Romance / Comedy",
+      "language": "English",
+      "released": "2026-06-04",
+      "review": "Jackie, President and CEO of Air Cruz, runs a tight ship in her business, including a rigid anti-fraternization policy for all her employees. When a new sexy…",
+      "scores": [
+        {
+          "source": "TMDB",
+          "score": "6.6/10"
+        }
+      ],
+      "verdict": "Worth a watch",
+      "poster": "https://image.tmdb.org/t/p/w342/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg"
+    },
+    {
+      "title": "Euphoria",
+      "platform": "JioHotstar",
+      "genre": "Drama",
+      "language": "English",
+      "released": "2019-06-16",
+      "review": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
+      "scores": [
+        {
+          "source": "TMDB",
+          "score": "8.3/10"
+        }
+      ],
+      "verdict": "Must watch",
+      "poster": "https://image.tmdb.org/t/p/w342/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg"
+    },
+    {
+      "title": "Dutton Ranch",
+      "platform": "JioHotstar",
+      "genre": "Western / Drama",
+      "language": "English",
+      "released": "2026-05-15",
+      "review": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly…",
+      "scores": [
+        {
+          "source": "TMDB",
+          "score": "9.3/10"
+        }
+      ],
+      "verdict": "Must watch",
+      "poster": "https://image.tmdb.org/t/p/w342/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg"
+    },
+    {
+      "title": "Rick and Morty",
+      "platform": "Netflix",
+      "genre": "Animation / Comedy",
+      "language": "English",
+      "released": "2013-12-02",
+      "review": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+      "scores": [
+        {
+          "source": "TMDB",
+          "score": "8.7/10"
+        }
+      ],
+      "verdict": "Must watch",
+      "poster": "https://image.tmdb.org/t/p/w342/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg"
+    },
+    {
+      "title": "Hoppers",
+      "platform": "JioHotstar",
+      "genre": "Adventure / Animation",
+      "language": "English",
+      "released": "2026-03-04",
+      "review": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover…",
+      "scores": [
+        {
+          "source": "TMDB",
+          "score": "8.2/10"
+        }
+      ],
+      "verdict": "Must watch",
+      "poster": "https://image.tmdb.org/t/p/w342/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
+    }
+  ]
 }

@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ReelRadar — Latest Movie & OTT Releases with Reviews, Updated Weekly</title>
+<meta name="description" content="ReelRadar scans the latest theatre releases and new OTT releases on Netflix, Prime Video, JioHotstar and more — with ratings and verdicts, auto-updated every week.">
+<meta name="keywords" content="latest movie releases, new OTT releases, what to watch this week, new on Netflix India, new on Prime Video, movie reviews">
+<link rel="canonical" href="https://YOUR-USERNAME.github.io/reelradar/">
+<meta property="og:title" content="ReelRadar — What's worth watching this week">
+<meta property="og:description" content="Top 5 theatre releases + Top 10 OTT releases with ratings and verdicts. Auto-updated weekly.">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #0D0B14; --panel: #161320; --marquee: #F5C518; --velvet: #C04B5E;
+    --paper: #F3EDE3; --mute: #8B8597; --line: #2A2438;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: var(--ink); color: var(--paper); font-family: 'Inter', sans-serif; min-height: 100vh; }
+  header { border-bottom: 1px solid var(--line); padding: 56px 24px 40px; text-align: center; position: relative; overflow: hidden; }
+  header::before { content: ''; position: absolute; top: -120px; left: 50%; transform: translateX(-50%);
+    width: 600px; height: 280px; background: radial-gradient(ellipse at center top, rgba(245,197,24,0.13), transparent 70%); pointer-events: none; }
+  .logo { font-family: 'Anton', sans-serif; font-size: clamp(44px, 8vw, 76px); letter-spacing: 2px; line-height: 1; }
+  .logo span { color: var(--marquee); }
+  .tagline { margin-top: 12px; color: var(--mute); font-size: 14px; letter-spacing: 3px; text-transform: uppercase; }
+  .updated { margin: 24px auto 0; display: inline-flex; align-items: center; gap: 10px; background: var(--panel);
+    border: 1px solid var(--line); border-radius: 999px; padding: 10px 22px; font-size: 13px; color: var(--mute); }
+  .dot { width: 8px; height: 8px; border-radius: 50%; background: #5BC97B; }
+  main { max-width: 1060px; margin: 0 auto; padding: 48px 24px 80px; }
+  section { margin-bottom: 64px; }
+  .section-head { display: flex; align-items: baseline; gap: 14px; margin-bottom: 26px; border-bottom: 1px solid var(--line); padding-bottom: 14px; }
+  .section-head h2 { font-family: 'Anton', sans-serif; font-size: 26px; letter-spacing: 1.5px; text-transform: uppercase; }
+  .section-head .count { color: var(--marquee); font-family: 'Anton', sans-serif; font-size: 26px; }
+  .section-head .sub { color: var(--mute); font-size: 13px; margin-left: auto; }
+  .grid { display: grid; grid-template-columns: 1fr; gap: 16px; }
+  .card { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 22px 24px;
+    display: grid; grid-template-columns: 52px 76px 1fr; gap: 18px; transition: border-color .2s, transform .2s; }
+  .card.no-poster { grid-template-columns: 52px 1fr; }
+  .card:hover { border-color: rgba(245,197,24,0.45); transform: translateY(-2px); }
+  @media (prefers-reduced-motion: reduce) { .card:hover { transform: none; } }
+  .rank { font-family: 'Anton', sans-serif; font-size: 30px; color: var(--line); line-height: 1; padding-top: 2px; }
+  .grid .card:first-child .rank { color: var(--marquee); }
+  .poster { width: 76px; border-radius: 6px; align-self: start; }
+  .title-row { display: flex; flex-wrap: wrap; align-items: baseline; gap: 10px; }
+  .card h3 { font-size: 19px; font-weight: 700; }
+  .platform { font-size: 11px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--ink);
+    background: var(--marquee); border-radius: 4px; padding: 3px 9px; font-weight: 700; }
+  .meta { color: var(--mute); font-size: 13px; margin-top: 5px; }
+  .review { margin-top: 12px; font-size: 14.5px; line-height: 1.65; color: #CFC9DA; }
+  .scores { margin-top: 12px; display: flex; flex-wrap: wrap; gap: 8px; }
+  .score { font-size: 12px; border: 1px solid var(--line); border-radius: 6px; padding: 4px 10px; color: var(--mute); }
+  .score b { color: var(--paper); }
+  .verdict { margin-top: 12px; font-size: 13px; color: var(--marquee); font-weight: 600; }
+  .verdict::before { content: '▸ '; }
+  .error-box { background: var(--panel); border: 1px solid var(--velvet); border-radius: 10px; padding: 24px;
+    text-align: center; color: var(--mute); font-size: 14px; }
+  footer { border-top: 1px solid var(--line); text-align: center; padding: 28px; color: var(--mute); font-size: 12.5px; line-height: 1.8; }
+  footer span { color: var(--marquee); }
+  footer a { color: var(--mute); }
+  @media (min-width: 720px) { .grid.ott { grid-template-columns: 1fr 1fr; } }
+  @media (max-width: 480px) { .card, .card.no-poster { grid-template-columns: 1fr; } .rank { font-size: 22px; } .poster { display: none; } }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">REEL<span>RADAR</span></div>
+  <div class="tagline">Fresh releases · reviewed · updated every week</div>
+  <div class="updated"><div class="dot"></div><span id="lastScan">Loading this week's scan…</span></div>
+</header>
+
+<main>
+  <section>
+    <div class="section-head">
+      <h2>In Theatres</h2><span class="count">TOP 5</span>
+      <span class="sub">Latest big-screen releases</span>
+    </div>
+    <div class="grid" id="moviesGrid"></div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <h2>Streaming Now</h2><span class="count">TOP 10</span>
+      <span class="sub">New on Netflix, Prime, JioHotstar &amp; more</span>
+    </div>
+    <div class="grid ott" id="ottGrid"></div>
+  </section>
+</main>
+
+<footer>
+  <span>ReelRadar</span> rescans automatically every Friday.<br>
+  Film data and ratings from <a href="https://www.themoviedb.org" rel="noopener" target="_blank">TMDB</a>. This product uses the TMDB API but is not endorsed or certified by TMDB.
+</footer>
+
+<script>
+function esc(s) { const d = document.createElement('div'); d.textContent = s == null ? '' : String(s); return d.innerHTML; }
+
+function card(item, i) {
+  const scores = (item.scores || []).map(s => `<div class="score">${esc(s.source)}: <b>${esc(s.score)}</b></div>`).join('');
+  const poster = item.poster ? `<img class="poster" src="${esc(item.poster)}" alt="${esc(item.title)} poster" loading="lazy">` : '';
+  return `<div class="card${item.poster ? '' : ' no-poster'}">
+    <div class="rank">${String(i + 1).padStart(2, '0')}</div>
+    ${poster}
+    <div>
+      <div class="title-row"><h3>${esc(item.title)}</h3><span class="platform">${esc(item.platform)}</span></div>
+      <div class="meta">${esc(item.genre || '')}${item.language ? ' · ' + esc(item.language) : ''}${item.released ? ' · ' + esc(item.released) : ''}</div>
+      <div class="review">${esc(item.review || '')}</div>
+      <div class="scores">${scores}</div>
+      ${item.verdict ? `<div class="verdict">${esc(item.verdict)}</div>` : ''}
+    </div>
+  </div>`;
+}
+
+fetch('data.json?v=' + Date.now())
+  .then(r => r.json())
+  .then(data => {
+    document.getElementById('moviesGrid').innerHTML = (data.theatres || []).map(card).join('') || '<div class="error-box">No data yet — first scan pending.</div>';
+    document.getElementById('ottGrid').innerHTML = (data.ott || []).map(card).join('') || '<div class="error-box">No data yet — first scan pending.</div>';
+    const d = new Date(data.generatedAt);
+    document.getElementById('lastScan').textContent = 'Last scanned: ' + d.toLocaleDateString('en-IN', { day: 'numeric', month: 'long', year: 'numeric' });
+  })
+  .catch(() => {
+    document.getElementById('lastScan').textContent = 'First scan has not run yet — run the workflow once on GitHub.';
+  });
+</script>
+</body>
+</html>

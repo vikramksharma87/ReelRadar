@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-06-10T09:11:24.744Z",
- "pick": "Mortal Kombat II",
+ "generatedAt": "2026-06-12T08:06:04.512Z",
+ "pick": "Teach You a Lesson",
  "theatres": [
   {
    "title": "Obsession",
-   "genre": "Horror",
+   "genre": "Horror / Thriller",
    "language": "English",
    "released": "2026-05-29",
    "review": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon…",
@@ -15,7 +15,7 @@
      "score": "7.9/10"
     }
    ],
-   "votes": 652,
+   "votes": 692,
    "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
    "isNew": false,
@@ -42,14 +42,14 @@
    "language": "Telugu",
    "released": "2026-06-04",
    "review": "In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rival.",
-   "rating": 5.9,
+   "rating": 6.5,
    "scores": [
     {
      "source": "TMDB",
-     "score": "5.9/10"
+     "score": "6.5/10"
     }
    ],
-   "votes": 25,
+   "votes": 29,
    "verdict": "Decent one-time watch",
    "poster": "https://image.tmdb.org/t/p/w342/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
    "isNew": false,
@@ -76,14 +76,14 @@
    "language": "Hindi",
    "released": "2026-06-05",
    "review": "When Jass leaves his marriage over conflicting priorities, a new romance abroad is upended by shocking revelations, forcing him to confront love, loyalty, and…",
-   "rating": 5.5,
+   "rating": 5.4,
    "scores": [
     {
      "source": "TMDB",
-     "score": "5.5/10"
+     "score": "5.4/10"
     }
    ],
-   "votes": 13,
+   "votes": 14,
    "verdict": "Skip unless curious",
    "poster": "https://image.tmdb.org/t/p/w342/vmlJvz6qVzYgei2V74GvnmcuQfW.jpg",
    "isNew": false,
@@ -105,6 +105,40 @@
    "fullReview": "When Jass leaves his marriage over conflicting priorities, a new romance abroad is upended by shocking revelations, forcing him to confront love, loyalty, and the true meaning of commitment."
   },
   {
+   "title": "Mortal Kombat II",
+   "genre": "Action / Fantasy",
+   "language": "English",
+   "released": "2026-05-15",
+   "review": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark…",
+   "rating": 7.9,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "7.9/10"
+    }
+   ],
+   "votes": 979,
+   "verdict": "Must watch",
+   "poster": "https://image.tmdb.org/t/p/w342/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
+   "isNew": false,
+   "kind": "movie",
+   "tmdbId": 931285,
+   "platform": "Theatres",
+   "cert": "A",
+   "trailer": "https://www.youtube.com/watch?v=zva2PQ-ud5Y",
+   "providers": [],
+   "cast": [
+    "Karl Urban",
+    "Adeline Rudolph",
+    "Jessica McNamee",
+    "Josh Lawson"
+   ],
+   "director": "Simon McQuoid",
+   "runtime": 116,
+   "backdrop": "https://image.tmdb.org/t/p/w780/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+   "fullReview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders."
+  },
+  {
    "title": "The Mandalorian and Grogu",
    "genre": "Action / Adventure",
    "language": "English",
@@ -117,7 +151,7 @@
      "score": "6.8/10"
     }
    ],
-   "votes": 428,
+   "votes": 446,
    "verdict": "Worth a watch",
    "poster": "https://image.tmdb.org/t/p/w342/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
    "isNew": false,
@@ -137,40 +171,6 @@
    "runtime": 132,
    "backdrop": "https://image.tmdb.org/t/p/w780/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
    "fullReview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu."
-  },
-  {
-   "title": "Mortal Kombat II",
-   "genre": "Action / Fantasy",
-   "language": "English",
-   "released": "2026-05-15",
-   "review": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark…",
-   "rating": 7.9,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "7.9/10"
-    }
-   ],
-   "votes": 789,
-   "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
-   "isNew": true,
-   "kind": "movie",
-   "tmdbId": 931285,
-   "platform": "Theatres",
-   "cert": "A",
-   "trailer": "https://www.youtube.com/watch?v=zva2PQ-ud5Y",
-   "providers": [],
-   "cast": [
-    "Karl Urban",
-    "Adeline Rudolph",
-    "Jessica McNamee",
-    "Josh Lawson"
-   ],
-   "director": "Simon McQuoid",
-   "runtime": 116,
-   "backdrop": "https://image.tmdb.org/t/p/w780/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
-   "fullReview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders."
   }
  ],
  "ott": [
@@ -187,7 +187,7 @@
      "score": "8.5/10"
     }
    ],
-   "votes": 3564,
+   "votes": 3587,
    "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
    "isNew": false,
@@ -224,7 +224,7 @@
      "score": "9.0/10"
     }
    ],
-   "votes": 413,
+   "votes": 426,
    "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/cbODFqkcmRgrYH8NkG4Q4Hcg8Z1.jpg",
    "isNew": false,
@@ -249,6 +249,42 @@
    "platform": "Amazon Prime Video"
   },
   {
+   "title": "Teach You a Lesson",
+   "genre": "Action & Adventure / Drama",
+   "language": "Korean",
+   "released": "2026-06-05",
+   "review": "When respect collapses in schools, unconventional inspectors arrive to set things right — with sharp, no-nonsense lessons you won't find in textbooks.",
+   "rating": 9.4,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "9.4/10"
+    }
+   ],
+   "votes": 169,
+   "verdict": "Must watch",
+   "poster": "https://image.tmdb.org/t/p/w342/wd14C18cey46iCj9pedMSM4kXE6.jpg",
+   "isNew": false,
+   "kind": "tv",
+   "tmdbId": 276161,
+   "cert": "A",
+   "trailer": "https://www.youtube.com/watch?v=LdezlX84py0",
+   "providers": [
+    "Netflix"
+   ],
+   "cast": [
+    "Kim Moo-yul",
+    "Lee Sung-min",
+    "Jin Ki-joo",
+    "Pyo Ji-hoon"
+   ],
+   "director": "Hong Jong-chan",
+   "runtime": null,
+   "backdrop": "https://image.tmdb.org/t/p/w780/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
+   "fullReview": "When respect collapses in schools, unconventional inspectors arrive to set things right — with sharp, no-nonsense lessons you won't find in textbooks.",
+   "platform": "Netflix"
+  },
+  {
    "title": "The Boys",
    "genre": "Sci-Fi & Fantasy / Action & Adventure",
    "language": "English",
@@ -261,7 +297,7 @@
      "score": "8.5/10"
     }
    ],
-   "votes": 12877,
+   "votes": 12895,
    "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
    "isNew": false,
@@ -286,39 +322,39 @@
    "platform": "Amazon Prime Video"
   },
   {
-   "title": "Teach You a Lesson",
-   "genre": "Action & Adventure / Drama",
-   "language": "Korean",
-   "released": "2026-06-05",
-   "review": "When respect collapses in schools, unconventional inspectors arrive to set things right — with sharp, no-nonsense lessons you won't find in textbooks.",
-   "rating": 9.2,
+   "title": "Office Romance",
+   "genre": "Romance / Comedy",
+   "language": "English",
+   "released": "2026-06-04",
+   "review": "Jackie, President and CEO of Air Cruz, runs a tight ship in her business, including a rigid anti-fraternization policy for all her employees. When a new sexy…",
+   "rating": 6.5,
    "scores": [
     {
      "source": "TMDB",
-     "score": "9.2/10"
+     "score": "6.5/10"
     }
    ],
-   "votes": 108,
-   "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/wd14C18cey46iCj9pedMSM4kXE6.jpg",
+   "votes": 158,
+   "verdict": "Worth a watch",
+   "poster": "https://image.tmdb.org/t/p/w342/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
    "isNew": false,
-   "kind": "tv",
-   "tmdbId": 276161,
+   "kind": "movie",
+   "tmdbId": 1358005,
    "cert": "A",
-   "trailer": "https://www.youtube.com/watch?v=LdezlX84py0",
+   "trailer": "https://www.youtube.com/watch?v=11gcNa-TBRA",
    "providers": [
     "Netflix"
    ],
    "cast": [
-    "Kim Moo-yul",
-    "Lee Sung-min",
-    "Jin Ki-joo",
-    "Pyo Ji-hoon"
+    "Jennifer Lopez",
+    "Brett Goldstein",
+    "Betty Gilpin",
+    "Edward James Olmos"
    ],
-   "director": "Hong Jong-chan",
-   "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
-   "fullReview": "When respect collapses in schools, unconventional inspectors arrive to set things right — with sharp, no-nonsense lessons you won't find in textbooks.",
+   "director": "Ol Parker",
+   "runtime": 115,
+   "backdrop": "https://image.tmdb.org/t/p/w780/1N5yz1IDw6Ci8le1YgeM6xtBijA.jpg",
+   "fullReview": "Jackie, President and CEO of Air Cruz, runs a tight ship in her business, including a rigid anti-fraternization policy for all her employees. When a new sexy lawyer begins working for her, that policy becomes very tested.",
    "platform": "Netflix"
   },
   {
@@ -334,7 +370,7 @@
      "score": "8.6/10"
     }
    ],
-   "votes": 460,
+   "votes": 484,
    "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
    "isNew": false,
@@ -359,42 +395,6 @@
    "platform": "Amazon Prime Video"
   },
   {
-   "title": "Office Romance",
-   "genre": "Romance / Comedy",
-   "language": "English",
-   "released": "2026-06-04",
-   "review": "Jackie, President and CEO of Air Cruz, runs a tight ship in her business, including a rigid anti-fraternization policy for all her employees. When a new sexy…",
-   "rating": 6.6,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "6.6/10"
-    }
-   ],
-   "votes": 134,
-   "verdict": "Worth a watch",
-   "poster": "https://image.tmdb.org/t/p/w342/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
-   "isNew": false,
-   "kind": "movie",
-   "tmdbId": 1358005,
-   "cert": "A",
-   "trailer": "https://www.youtube.com/watch?v=11gcNa-TBRA",
-   "providers": [
-    "Netflix"
-   ],
-   "cast": [
-    "Jennifer Lopez",
-    "Brett Goldstein",
-    "Betty Gilpin",
-    "Edward James Olmos"
-   ],
-   "director": "Ol Parker",
-   "runtime": 115,
-   "backdrop": "https://image.tmdb.org/t/p/w780/erkh3hHfGh06qPQIuFpV0PoQeV8.jpg",
-   "fullReview": "Jackie, President and CEO of Air Cruz, runs a tight ship in her business, including a rigid anti-fraternization policy for all her employees. When a new sexy lawyer begins working for her, that policy becomes very tested.",
-   "platform": "Netflix"
-  },
-  {
    "title": "Euphoria",
    "genre": "Drama",
    "language": "English",
@@ -407,7 +407,7 @@
      "score": "8.3/10"
     }
    ],
-   "votes": 10839,
+   "votes": 10851,
    "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
    "isNew": false,
@@ -432,42 +432,6 @@
    "platform": "JioHotstar"
   },
   {
-   "title": "Dutton Ranch",
-   "genre": "Western / Drama",
-   "language": "English",
-   "released": "2026-05-15",
-   "review": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly…",
-   "rating": 9.3,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "9.3/10"
-    }
-   ],
-   "votes": 232,
-   "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
-   "isNew": false,
-   "kind": "tv",
-   "tmdbId": 299167,
-   "cert": null,
-   "trailer": "https://www.youtube.com/watch?v=k6cjKNZBQ1M",
-   "providers": [
-    "JioHotstar"
-   ],
-   "cast": [
-    "Kelly Reilly",
-    "Cole Hauser",
-    "Finn Little",
-    "Juan Pablo Raba"
-   ],
-   "director": "Chad Feehan",
-   "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
-   "fullReview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
-   "platform": "JioHotstar"
-  },
-  {
    "title": "Rick and Morty",
    "genre": "Animation / Comedy",
    "language": "English",
@@ -480,7 +444,7 @@
      "score": "8.7/10"
     }
    ],
-   "votes": 10947,
+   "votes": 10956,
    "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
    "isNew": false,
@@ -504,39 +468,76 @@
    "platform": "Netflix"
   },
   {
-   "title": "Hoppers",
-   "genre": "Adventure / Animation",
+   "title": "Every Year After",
+   "genre": "Drama",
    "language": "English",
-   "released": "2026-03-04",
-   "review": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover…",
-   "rating": 8.2,
+   "released": "2026-06-10",
+   "review": "Six summers to fall in love. One moment to fall apart. A week to get it right. A fun, sweeping, romantic story that asks the question, what if your first love…",
+   "rating": null,
    "scores": [
     {
      "source": "TMDB",
-     "score": "8.2/10"
+     "score": "New release"
     }
    ],
-   "votes": 1505,
+   "votes": 9,
+   "verdict": "Too new for a verdict",
+   "poster": "https://image.tmdb.org/t/p/w342/nZGf0jnSJNXLf8o7iSzzX8qxHX9.jpg",
+   "isNew": true,
+   "kind": "tv",
+   "tmdbId": 260592,
+   "cert": "A",
+   "trailer": "https://www.youtube.com/watch?v=F5SpqQ8dNa8",
+   "providers": [
+    "Amazon Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "cast": [
+    "Sadie Soverall",
+    "Matt Cornett",
+    "Aurora Perrineau",
+    "Abigail Cowen"
+   ],
+   "director": null,
+   "runtime": null,
+   "backdrop": "https://image.tmdb.org/t/p/w780/to5eI3AWbT4spz1K58mIK5HQRbD.jpg",
+   "fullReview": "Six summers to fall in love. One moment to fall apart. A week to get it right. A fun, sweeping, romantic story that asks the question, what if your first love actually was your soulmate?",
+   "platform": "Amazon Prime Video"
+  },
+  {
+   "title": "Dutton Ranch",
+   "genre": "Western / Drama",
+   "language": "English",
+   "released": "2026-05-15",
+   "review": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly…",
+   "rating": 9.3,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "9.3/10"
+    }
+   ],
+   "votes": 242,
    "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
    "isNew": false,
-   "kind": "movie",
-   "tmdbId": 1327819,
-   "cert": "U/A 7+",
-   "trailer": "https://www.youtube.com/watch?v=PypDSyIRRSs",
+   "kind": "tv",
+   "tmdbId": 299167,
+   "cert": null,
+   "trailer": "https://www.youtube.com/watch?v=k6cjKNZBQ1M",
    "providers": [
     "JioHotstar"
    ],
    "cast": [
-    "Piper Curda",
-    "Bobby Moynihan",
-    "Jon Hamm",
-    "Kathy Najimy"
+    "Kelly Reilly",
+    "Cole Hauser",
+    "Finn Little",
+    "Juan Pablo Raba"
    ],
-   "director": "Daniel Chong",
-   "runtime": 104,
-   "backdrop": "https://image.tmdb.org/t/p/w780/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
-   "fullReview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+   "director": "Chad Feehan",
+   "runtime": null,
+   "backdrop": "https://image.tmdb.org/t/p/w780/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
+   "fullReview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
    "platform": "JioHotstar"
   }
  ],
@@ -555,7 +556,7 @@
    "genre": "Romance / Comedy",
    "language": "Hindi",
    "review": "After a decade together, Diya and Kunal's relationship is shaken when Ally, an old friend, re-enters their lives. What…",
-   "poster": "https://image.tmdb.org/t/p/w342/vwbApQreTMPhsn9dH6rtI0dtsYF.jpg"
+   "poster": "https://image.tmdb.org/t/p/w342/bW1tdWzyFusyuJJT1IOdjWtKCb8.jpg"
   },
   {
    "title": "Maa Inti Bangaram",
@@ -574,20 +575,20 @@
    "poster": "https://image.tmdb.org/t/p/w342/boKxdR9tgXfkazf6yWgiDdleBy0.jpg"
   },
   {
-   "title": "Nooru Saami",
-   "released": "2026-06-19",
-   "genre": "Drama / Family",
-   "language": "Tamil",
-   "review": "A widowed mother who single-handedly raises her two sons decides to remarry. Her decision faces resistance from the…",
-   "poster": "https://image.tmdb.org/t/p/w342/r9mX5R4jsrospJlWrOE8WqzktnH.jpg"
-  },
-  {
    "title": "Chaali Din",
    "released": "2026-06-19",
    "genre": "",
    "language": "English",
    "review": "Chaali Din is an adaption of best selling punjabi novel of the same name. This gripping story by Gurpreet Dhugga delves…",
    "poster": "https://image.tmdb.org/t/p/w342/oz8IvAKgWnxF6bkNClF5j9bh0c0.jpg"
+  },
+  {
+   "title": "Nooru Saami",
+   "released": "2026-06-19",
+   "genre": "Drama / Family",
+   "language": "Tamil",
+   "review": "A widowed mother who single-handedly raises her two sons decides to remarry. Her decision faces resistance from the…",
+   "poster": "https://image.tmdb.org/t/p/w342/r9mX5R4jsrospJlWrOE8WqzktnH.jpg"
   },
   {
    "title": "Ananthan Kaadu",

@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-06-12T08:06:04.512Z",
- "pick": "Teach You a Lesson",
+ "generatedAt": "2026-06-19T08:43:28.494Z",
+ "pick": "Your Fault: London",
  "theatres": [
   {
    "title": "Obsession",
@@ -15,7 +15,7 @@
      "score": "7.9/10"
     }
    ],
-   "votes": 692,
+   "votes": 838,
    "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
    "isNew": false,
@@ -33,8 +33,79 @@
    ],
    "director": "Curry Barker",
    "runtime": 108,
-   "backdrop": "https://image.tmdb.org/t/p/w780/4k99kV4R1bbbrsnjR205v91Xbin.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
    "fullReview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price."
+  },
+  {
+   "title": "Mortal Kombat II",
+   "genre": "Action / Fantasy",
+   "language": "English",
+   "released": "2026-05-15",
+   "review": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark…",
+   "rating": 8,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "8.0/10"
+    }
+   ],
+   "votes": 1443,
+   "verdict": "Must watch",
+   "poster": "https://image.tmdb.org/t/p/w342/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
+   "isNew": false,
+   "kind": "movie",
+   "tmdbId": 931285,
+   "platform": "Theatres",
+   "cert": "A",
+   "trailer": "https://www.youtube.com/watch?v=zva2PQ-ud5Y",
+   "providers": [],
+   "cast": [
+    "Karl Urban",
+    "Adeline Rudolph",
+    "Ludi Lin",
+    "Jessica McNamee"
+   ],
+   "director": "Simon McQuoid",
+   "runtime": 116,
+   "backdrop": "https://image.tmdb.org/t/p/w780/laR2dpcNpbv83jdlRUNAYPPjH90.jpg",
+   "fullReview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders."
+  },
+  {
+   "title": "Karuppu",
+   "genre": "Action / Fantasy",
+   "language": "Tamil",
+   "released": "2026-05-15",
+   "review": "In a world where justice falters, guardian deity Vettai Karuppu takes the guise of a lawyer to battle a corrupt legal system preying on the powerless.",
+   "rating": 7.1,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "7.1/10"
+    }
+   ],
+   "votes": 17,
+   "verdict": "Worth a watch",
+   "poster": "https://image.tmdb.org/t/p/w342/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg",
+   "isNew": true,
+   "kind": "movie",
+   "tmdbId": 1367220,
+   "platform": "Theatres",
+   "cert": "U/A 13+",
+   "trailer": "https://www.youtube.com/watch?v=vH0Q5t_JUng",
+   "providers": [
+    "Amazon Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "cast": [
+    "Suriya",
+    "Trisha Krishnan",
+    "RJ Balaji",
+    "Indrans"
+   ],
+   "director": "RJ Balaji",
+   "runtime": 152,
+   "backdrop": "https://image.tmdb.org/t/p/w780/1eAuwNBy34kkM3xkl202z4f1NiI.jpg",
+   "fullReview": "In a world where justice falters, guardian deity Vettai Karuppu takes the guise of a lawyer to battle a corrupt legal system preying on the powerless."
   },
   {
    "title": "Peddi",
@@ -49,7 +120,7 @@
      "score": "6.5/10"
     }
    ],
-   "votes": 29,
+   "votes": 45,
    "verdict": "Decent one-time watch",
    "poster": "https://image.tmdb.org/t/p/w342/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
    "isNew": false,
@@ -71,79 +142,11 @@
    "fullReview": "In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rival."
   },
   {
-   "title": "Hai Jawani Toh Ishq Hona Hai",
-   "genre": "Romance / Comedy",
-   "language": "Hindi",
-   "released": "2026-06-05",
-   "review": "When Jass leaves his marriage over conflicting priorities, a new romance abroad is upended by shocking revelations, forcing him to confront love, loyalty, and…",
-   "rating": 5.4,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "5.4/10"
-    }
-   ],
-   "votes": 14,
-   "verdict": "Skip unless curious",
-   "poster": "https://image.tmdb.org/t/p/w342/vmlJvz6qVzYgei2V74GvnmcuQfW.jpg",
-   "isNew": false,
-   "kind": "movie",
-   "tmdbId": 1308553,
-   "platform": "Theatres",
-   "cert": "U/A 16+",
-   "trailer": null,
-   "providers": [],
-   "cast": [
-    "Varun Dhawan",
-    "Mrunal Thakur",
-    "Pooja Hegde",
-    "Maniesh Paul"
-   ],
-   "director": "David Dhawan",
-   "runtime": 136,
-   "backdrop": "https://image.tmdb.org/t/p/w780/l5QgEvlfK6eHPM4YPEk7AArXmh8.jpg",
-   "fullReview": "When Jass leaves his marriage over conflicting priorities, a new romance abroad is upended by shocking revelations, forcing him to confront love, loyalty, and the true meaning of commitment."
-  },
-  {
-   "title": "Mortal Kombat II",
-   "genre": "Action / Fantasy",
+   "title": "Disclosure Day",
+   "genre": "Thriller / Science Fiction",
    "language": "English",
-   "released": "2026-05-15",
-   "review": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark…",
-   "rating": 7.9,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "7.9/10"
-    }
-   ],
-   "votes": 979,
-   "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
-   "isNew": false,
-   "kind": "movie",
-   "tmdbId": 931285,
-   "platform": "Theatres",
-   "cert": "A",
-   "trailer": "https://www.youtube.com/watch?v=zva2PQ-ud5Y",
-   "providers": [],
-   "cast": [
-    "Karl Urban",
-    "Adeline Rudolph",
-    "Jessica McNamee",
-    "Josh Lawson"
-   ],
-   "director": "Simon McQuoid",
-   "runtime": 116,
-   "backdrop": "https://image.tmdb.org/t/p/w780/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
-   "fullReview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders."
-  },
-  {
-   "title": "The Mandalorian and Grogu",
-   "genre": "Action / Adventure",
-   "language": "English",
-   "released": "2026-05-22",
-   "review": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the…",
+   "released": "2026-06-12",
+   "review": "If you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you?",
    "rating": 6.8,
    "scores": [
     {
@@ -151,26 +154,26 @@
      "score": "6.8/10"
     }
    ],
-   "votes": 446,
+   "votes": 497,
    "verdict": "Worth a watch",
-   "poster": "https://image.tmdb.org/t/p/w342/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
-   "isNew": false,
+   "poster": "https://image.tmdb.org/t/p/w342/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
+   "isNew": true,
    "kind": "movie",
-   "tmdbId": 1228710,
+   "tmdbId": 1275779,
    "platform": "Theatres",
-   "cert": "U/A 16+",
-   "trailer": "https://www.youtube.com/watch?v=uwild1rw7Aw",
+   "cert": null,
+   "trailer": "https://www.youtube.com/watch?v=icDuEHSxE-w",
    "providers": [],
    "cast": [
-    "Pedro Pascal",
-    "Jeremy Allen White",
-    "Sigourney Weaver",
-    "Brendan Wayne"
+    "Emily Blunt",
+    "Josh O'Connor",
+    "Colin Firth",
+    "Colman Domingo"
    ],
-   "director": "Jon Favreau",
-   "runtime": 132,
-   "backdrop": "https://image.tmdb.org/t/p/w780/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
-   "fullReview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu."
+   "director": "Steven Spielberg",
+   "runtime": 145,
+   "backdrop": "https://image.tmdb.org/t/p/w780/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
+   "fullReview": "If you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you?"
   }
  ],
  "ott": [
@@ -187,7 +190,7 @@
      "score": "8.5/10"
     }
    ],
-   "votes": 3587,
+   "votes": 3678,
    "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
    "isNew": false,
@@ -207,7 +210,7 @@
    ],
    "director": "John Griffin",
    "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w780/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
    "fullReview": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
    "platform": "Amazon Prime Video"
   },
@@ -224,7 +227,7 @@
      "score": "9.0/10"
     }
    ],
-   "votes": 426,
+   "votes": 479,
    "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/cbODFqkcmRgrYH8NkG4Q4Hcg8Z1.jpg",
    "isNew": false,
@@ -249,42 +252,6 @@
    "platform": "Amazon Prime Video"
   },
   {
-   "title": "Teach You a Lesson",
-   "genre": "Action & Adventure / Drama",
-   "language": "Korean",
-   "released": "2026-06-05",
-   "review": "When respect collapses in schools, unconventional inspectors arrive to set things right — with sharp, no-nonsense lessons you won't find in textbooks.",
-   "rating": 9.4,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "9.4/10"
-    }
-   ],
-   "votes": 169,
-   "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/wd14C18cey46iCj9pedMSM4kXE6.jpg",
-   "isNew": false,
-   "kind": "tv",
-   "tmdbId": 276161,
-   "cert": "A",
-   "trailer": "https://www.youtube.com/watch?v=LdezlX84py0",
-   "providers": [
-    "Netflix"
-   ],
-   "cast": [
-    "Kim Moo-yul",
-    "Lee Sung-min",
-    "Jin Ki-joo",
-    "Pyo Ji-hoon"
-   ],
-   "director": "Hong Jong-chan",
-   "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
-   "fullReview": "When respect collapses in schools, unconventional inspectors arrive to set things right — with sharp, no-nonsense lessons you won't find in textbooks.",
-   "platform": "Netflix"
-  },
-  {
    "title": "The Boys",
    "genre": "Sci-Fi & Fantasy / Action & Adventure",
    "language": "English",
@@ -297,7 +264,7 @@
      "score": "8.5/10"
     }
    ],
-   "votes": 12895,
+   "votes": 12945,
    "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
    "isNew": false,
@@ -317,119 +284,82 @@
    ],
    "director": "Eric Kripke",
    "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w780/n6vVs6z8obNbExdD3QHTr4Utu1Z.jpg",
    "fullReview": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
    "platform": "Amazon Prime Video"
   },
   {
-   "title": "Office Romance",
-   "genre": "Romance / Comedy",
-   "language": "English",
-   "released": "2026-06-04",
-   "review": "Jackie, President and CEO of Air Cruz, runs a tight ship in her business, including a rigid anti-fraternization policy for all her employees. When a new sexy…",
-   "rating": 6.5,
+   "title": "Teach You a Lesson",
+   "genre": "Action & Adventure / Drama",
+   "language": "Korean",
+   "released": "2026-06-05",
+   "review": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods…",
+   "rating": 9.5,
    "scores": [
     {
      "source": "TMDB",
-     "score": "6.5/10"
+     "score": "9.5/10"
     }
    ],
-   "votes": 158,
-   "verdict": "Worth a watch",
-   "poster": "https://image.tmdb.org/t/p/w342/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
+   "votes": 367,
+   "verdict": "Must watch",
+   "poster": "https://image.tmdb.org/t/p/w342/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
    "isNew": false,
-   "kind": "movie",
-   "tmdbId": 1358005,
+   "kind": "tv",
+   "tmdbId": 276161,
    "cert": "A",
-   "trailer": "https://www.youtube.com/watch?v=11gcNa-TBRA",
+   "trailer": "https://www.youtube.com/watch?v=LdezlX84py0",
    "providers": [
     "Netflix"
    ],
    "cast": [
-    "Jennifer Lopez",
-    "Brett Goldstein",
-    "Betty Gilpin",
-    "Edward James Olmos"
+    "Kim Moo-yul",
+    "Lee Sung-min",
+    "Jin Ki-joo",
+    "Pyo Ji-hoon"
    ],
-   "director": "Ol Parker",
-   "runtime": 115,
-   "backdrop": "https://image.tmdb.org/t/p/w780/1N5yz1IDw6Ci8le1YgeM6xtBijA.jpg",
-   "fullReview": "Jackie, President and CEO of Air Cruz, runs a tight ship in her business, including a rigid anti-fraternization policy for all her employees. When a new sexy lawyer begins working for her, that policy becomes very tested.",
+   "director": "Chae Yong-taek",
+   "runtime": null,
+   "backdrop": "https://image.tmdb.org/t/p/w780/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
+   "fullReview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
    "platform": "Netflix"
   },
   {
-   "title": "Spider-Noir",
-   "genre": "Drama / Mystery",
+   "title": "Your Fault: London",
+   "genre": "Romance / Drama",
    "language": "English",
-   "released": "2026-05-25",
-   "review": "Ben Reilly, an aging and down on his luck private investigator in 1930s New York, is forced to grapple with his past life as the city's one and only superhero.",
-   "rating": 8.6,
+   "released": "2026-06-17",
+   "review": "Nick and Noah are both embarking on life-changing adventures that are threatening to pull them apart—Nick in business with his father and Noah starting a fresh…",
+   "rating": 7.8,
    "scores": [
     {
      "source": "TMDB",
-     "score": "8.6/10"
+     "score": "7.8/10"
     }
    ],
-   "votes": 484,
+   "votes": 54,
    "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
-   "isNew": false,
-   "kind": "tv",
-   "tmdbId": 220102,
-   "cert": "U/A 16+",
-   "trailer": "https://www.youtube.com/watch?v=e5QW457407U",
+   "poster": "https://image.tmdb.org/t/p/w342/nLxu237EJAisFCYKK48hN9Plobx.jpg",
+   "isNew": true,
+   "kind": "movie",
+   "tmdbId": 1477317,
+   "cert": null,
+   "trailer": "https://www.youtube.com/watch?v=A3ZbjkDxYUs",
    "providers": [
     "Amazon Prime Video",
     "Amazon Prime Video with Ads"
    ],
    "cast": [
-    "Nicolas Cage",
-    "Lamorne Morris",
-    "Li Jun Li",
-    "Karen Rodriguez"
+    "Asha Banks",
+    "Matthew Broome",
+    "Louisa Binder",
+    "Joel Nankervis"
    ],
-   "director": "Oren Uziel",
-   "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/mkwVoyP9bFSmfVqU8FJyem52hVR.jpg",
-   "fullReview": "Ben Reilly, an aging and down on his luck private investigator in 1930s New York, is forced to grapple with his past life as the city's one and only superhero.",
+   "director": "Dani Girdwood",
+   "runtime": 123,
+   "backdrop": "https://image.tmdb.org/t/p/w780/wQOhbCP6H8bO5ddlXDZT207orew.jpg",
+   "fullReview": "Nick and Noah are both embarking on life-changing adventures that are threatening to pull them apart—Nick in business with his father and Noah starting a fresh chapter at Oxford University. Now living separate lives, and meeting new people, they find themselves entangled in temptations, rivalries, and betrayals and their bond is tested like never before. As secrets unravel and temptation rises, they must fight to hold onto each other—or risk losing everything.",
    "platform": "Amazon Prime Video"
-  },
-  {
-   "title": "Euphoria",
-   "genre": "Drama",
-   "language": "English",
-   "released": "2019-06-16",
-   "review": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
-   "rating": 8.3,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "8.3/10"
-    }
-   ],
-   "votes": 10851,
-   "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
-   "isNew": false,
-   "kind": "tv",
-   "tmdbId": 85552,
-   "cert": "A",
-   "trailer": "https://www.youtube.com/watch?v=UR4Pxgnm-GA",
-   "providers": [
-    "JioHotstar",
-    "VI movies and tv"
-   ],
-   "cast": [
-    "Zendaya",
-    "Hunter Schafer",
-    "Sydney Sweeney",
-    "Jacob Elordi"
-   ],
-   "director": "Sam Levinson",
-   "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
-   "fullReview": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
-   "platform": "JioHotstar"
   },
   {
    "title": "Rick and Morty",
@@ -444,7 +374,7 @@
      "score": "8.7/10"
     }
    ],
-   "votes": 10956,
+   "votes": 10989,
    "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
    "isNew": false,
@@ -468,56 +398,19 @@
    "platform": "Netflix"
   },
   {
-   "title": "Every Year After",
-   "genre": "Drama",
-   "language": "English",
-   "released": "2026-06-10",
-   "review": "Six summers to fall in love. One moment to fall apart. A week to get it right. A fun, sweeping, romantic story that asks the question, what if your first love…",
-   "rating": null,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "New release"
-    }
-   ],
-   "votes": 9,
-   "verdict": "Too new for a verdict",
-   "poster": "https://image.tmdb.org/t/p/w342/nZGf0jnSJNXLf8o7iSzzX8qxHX9.jpg",
-   "isNew": true,
-   "kind": "tv",
-   "tmdbId": 260592,
-   "cert": "A",
-   "trailer": "https://www.youtube.com/watch?v=F5SpqQ8dNa8",
-   "providers": [
-    "Amazon Prime Video",
-    "Amazon Prime Video with Ads"
-   ],
-   "cast": [
-    "Sadie Soverall",
-    "Matt Cornett",
-    "Aurora Perrineau",
-    "Abigail Cowen"
-   ],
-   "director": null,
-   "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/to5eI3AWbT4spz1K58mIK5HQRbD.jpg",
-   "fullReview": "Six summers to fall in love. One moment to fall apart. A week to get it right. A fun, sweeping, romantic story that asks the question, what if your first love actually was your soulmate?",
-   "platform": "Amazon Prime Video"
-  },
-  {
    "title": "Dutton Ranch",
    "genre": "Western / Drama",
    "language": "English",
    "released": "2026-05-15",
    "review": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly…",
-   "rating": 9.3,
+   "rating": 9.4,
    "scores": [
     {
      "source": "TMDB",
-     "score": "9.3/10"
+     "score": "9.4/10"
     }
    ],
-   "votes": 242,
+   "votes": 278,
    "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
    "isNew": false,
@@ -539,57 +432,119 @@
    "backdrop": "https://image.tmdb.org/t/p/w780/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
    "fullReview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
    "platform": "JioHotstar"
+  },
+  {
+   "title": "The Polygamist",
+   "genre": "Drama / Soap",
+   "language": "zu",
+   "released": "2026-06-12",
+   "review": "Social media darling, Joyce, is the picture of marital perfection — until her cheating husband's conquests ignite a scandalous emotional meltdown.",
+   "rating": 7.2,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "7.2/10"
+    }
+   ],
+   "votes": 16,
+   "verdict": "Worth a watch",
+   "poster": "https://image.tmdb.org/t/p/w342/3VEHSG9ZCWcTGbU2ciiU6iDzemP.jpg",
+   "isNew": true,
+   "kind": "tv",
+   "tmdbId": 322430,
+   "cert": null,
+   "trailer": "https://www.youtube.com/watch?v=KBJllQVRuAA",
+   "providers": [
+    "Netflix"
+   ],
+   "cast": [
+    "Gugu Gumede",
+    "S'Dumo Mtshali",
+    "Kwanele Mthethwa",
+    "Kenneth Nkosi"
+   ],
+   "director": null,
+   "runtime": null,
+   "backdrop": "https://image.tmdb.org/t/p/w780/hGCQ0tsJMpKjfrnCyYY0kMY2kY1.jpg",
+   "fullReview": "Social media darling, Joyce, is the picture of marital perfection — until her cheating husband's conquests ignite a scandalous emotional meltdown.",
+   "platform": "Netflix"
+  },
+  {
+   "title": "Every Year After",
+   "genre": "Drama",
+   "language": "English",
+   "released": "2026-06-10",
+   "review": "Six summers to fall in love. One moment to fall apart. A week to get it right. A fun, sweeping, romantic story that asks the question, what if your first love…",
+   "rating": 8.3,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "8.3/10"
+    }
+   ],
+   "votes": 41,
+   "verdict": "Must watch",
+   "poster": "https://image.tmdb.org/t/p/w342/nZGf0jnSJNXLf8o7iSzzX8qxHX9.jpg",
+   "isNew": false,
+   "kind": "tv",
+   "tmdbId": 260592,
+   "cert": "A",
+   "trailer": "https://www.youtube.com/watch?v=F5SpqQ8dNa8",
+   "providers": [
+    "Amazon Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "cast": [
+    "Sadie Soverall",
+    "Matt Cornett",
+    "Aurora Perrineau",
+    "Abigail Cowen"
+   ],
+   "director": null,
+   "runtime": null,
+   "backdrop": "https://image.tmdb.org/t/p/w780/to5eI3AWbT4spz1K58mIK5HQRbD.jpg",
+   "fullReview": "Six summers to fall in love. One moment to fall apart. A week to get it right. A fun, sweeping, romantic story that asks the question, what if your first love actually was your soulmate?",
+   "platform": "Amazon Prime Video"
+  },
+  {
+   "title": "Spider-Noir",
+   "genre": "Drama / Mystery",
+   "language": "English",
+   "released": "2026-05-25",
+   "review": "Ben Reilly, an aging and down on his luck private investigator in 1930s New York, is forced to grapple with his past life as the city's one and only superhero.",
+   "rating": 8.5,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "8.5/10"
+    }
+   ],
+   "votes": 550,
+   "verdict": "Must watch",
+   "poster": "https://image.tmdb.org/t/p/w342/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
+   "isNew": false,
+   "kind": "tv",
+   "tmdbId": 220102,
+   "cert": "U/A 16+",
+   "trailer": "https://www.youtube.com/watch?v=e5QW457407U",
+   "providers": [
+    "Amazon Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "cast": [
+    "Nicolas Cage",
+    "Lamorne Morris",
+    "Li Jun Li",
+    "Karen Rodriguez"
+   ],
+   "director": "Oren Uziel",
+   "runtime": null,
+   "backdrop": "https://image.tmdb.org/t/p/w780/mkwVoyP9bFSmfVqU8FJyem52hVR.jpg",
+   "fullReview": "Ben Reilly, an aging and down on his luck private investigator in 1930s New York, is forced to grapple with his past life as the city's one and only superhero.",
+   "platform": "Amazon Prime Video"
   }
  ],
  "comingSoon": [
-  {
-   "title": "Colony",
-   "released": "2026-06-19",
-   "genre": "Action / Thriller",
-   "language": "Korean",
-   "review": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech…",
-   "poster": "https://image.tmdb.org/t/p/w342/tN799oUR0f1gUKDYdMNrDaY7I51.jpg"
-  },
-  {
-   "title": "Cocktail 2",
-   "released": "2026-06-19",
-   "genre": "Romance / Comedy",
-   "language": "Hindi",
-   "review": "After a decade together, Diya and Kunal's relationship is shaken when Ally, an old friend, re-enters their lives. What…",
-   "poster": "https://image.tmdb.org/t/p/w342/bW1tdWzyFusyuJJT1IOdjWtKCb8.jpg"
-  },
-  {
-   "title": "Maa Inti Bangaram",
-   "released": "2026-06-19",
-   "genre": "Action / Thriller",
-   "language": "Telugu",
-   "review": "Through both her moments of fear and bravery, a woman discovers that embracing her vulnerabilities is as vital to her…",
-   "poster": "https://image.tmdb.org/t/p/w342/n7X5JZLzqzUxwdn9Mwx9cegEnBv.jpg"
-  },
-  {
-   "title": "Balan - The Boy",
-   "released": "2026-06-19",
-   "genre": "Mystery / Drama",
-   "language": "Malayalam",
-   "review": "Follows a teenage boy searching for his missing mother following a turbulent childhood and her subsequent…",
-   "poster": "https://image.tmdb.org/t/p/w342/boKxdR9tgXfkazf6yWgiDdleBy0.jpg"
-  },
-  {
-   "title": "Chaali Din",
-   "released": "2026-06-19",
-   "genre": "",
-   "language": "English",
-   "review": "Chaali Din is an adaption of best selling punjabi novel of the same name. This gripping story by Gurpreet Dhugga delves…",
-   "poster": "https://image.tmdb.org/t/p/w342/oz8IvAKgWnxF6bkNClF5j9bh0c0.jpg"
-  },
-  {
-   "title": "Nooru Saami",
-   "released": "2026-06-19",
-   "genre": "Drama / Family",
-   "language": "Tamil",
-   "review": "A widowed mother who single-handedly raises her two sons decides to remarry. Her decision faces resistance from the…",
-   "poster": "https://image.tmdb.org/t/p/w342/r9mX5R4jsrospJlWrOE8WqzktnH.jpg"
-  },
   {
    "title": "Ananthan Kaadu",
    "released": "2026-06-25",
@@ -599,12 +554,60 @@
    "poster": "https://image.tmdb.org/t/p/w342/a8Ut1fkbqvolWfEIl8Voa1oUsDG.jpg"
   },
   {
+   "title": "Welcome to the Jungle",
+   "released": "2026-06-26",
+   "genre": "Comedy",
+   "language": "Hindi",
+   "review": "The film centers on a chaotic ensemble of bumbling gangsters, ex-dons, and eccentric relatives whose paths cross during…",
+   "poster": "https://image.tmdb.org/t/p/w342/zibb9EBBCsCeXOUbEw0J6yA0vhZ.jpg"
+  },
+  {
    "title": "Carry On Jatta 4",
    "released": "2026-06-26",
    "genre": "Comedy",
    "language": "Punjabi",
    "review": "\"Carry On Jatta 4\" is the fourth installment of the iconic Punjabi comedy franchise, produced by Humble Motion…",
    "poster": "https://image.tmdb.org/t/p/w342/ksgkgssd76TDJZtEUKvswkTEiNI.jpg"
+  },
+  {
+   "title": "Uyir",
+   "released": "2026-06-26",
+   "genre": "Crime / Thriller",
+   "language": "Malayalam",
+   "review": "",
+   "poster": "https://image.tmdb.org/t/p/w342/r512xdTd9aXjpIxjY2JlhvJYvIb.jpg"
+  },
+  {
+   "title": "Demonte Colony 3",
+   "released": "2026-06-26",
+   "genre": "Horror / Thriller",
+   "language": "Tamil",
+   "review": "",
+   "poster": "https://image.tmdb.org/t/p/w342/rtIXvC3ShBY6dyogJYTkoTxB48D.jpg"
+  },
+  {
+   "title": "Itllu Arjuna",
+   "released": "2026-06-26",
+   "genre": "Action / Romance",
+   "language": "Telugu",
+   "review": "",
+   "poster": "https://image.tmdb.org/t/p/w342/305TOBJYCjuZriRu9FrbRHOprPX.jpg"
+  },
+  {
+   "title": "Heartin",
+   "released": "2026-06-26",
+   "genre": "Comedy / Romance",
+   "language": "Tamil",
+   "review": "Fate tosses a couple into an unexpected situation with an ex-girlfriend in the mix.",
+   "poster": "https://image.tmdb.org/t/p/w342/7xvMocNLZov64aOU1X3BRWawjD7.jpg"
+  },
+  {
+   "title": "Con City",
+   "released": "2026-06-26",
+   "genre": "Comedy / Crime",
+   "language": "Tamil",
+   "review": "",
+   "poster": "https://image.tmdb.org/t/p/w342/pJ4UwvLpek1jK8d540Ho8xI08iL.jpg"
   }
  ]
 }

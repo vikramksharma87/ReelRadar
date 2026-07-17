@@ -1,7 +1,41 @@
 {
- "generatedAt": "2026-07-10T06:58:54.879Z",
- "pick": "Project Hail Mary",
+ "generatedAt": "2026-07-17T05:58:15.478Z",
+ "pick": "X-Men '97",
  "theatres": [
+  {
+   "title": "Disclosure Day",
+   "genre": "Science Fiction / Thriller",
+   "language": "English",
+   "released": "2026-06-12",
+   "review": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist…",
+   "rating": 6.7,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "6.7/10"
+    }
+   ],
+   "votes": 884,
+   "verdict": "Worth a watch",
+   "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+   "isNew": false,
+   "kind": "movie",
+   "tmdbId": 1275779,
+   "platform": "Theatres",
+   "cert": "U/A 13+",
+   "trailer": "https://www.youtube.com/watch?v=icDuEHSxE-w",
+   "providers": [],
+   "cast": [
+    "Emily Blunt",
+    "Josh O'Connor",
+    "Colin Firth",
+    "Colman Domingo"
+   ],
+   "director": "Steven Spielberg",
+   "runtime": 146,
+   "backdrop": "https://image.tmdb.org/t/p/w780/gVczdWWAkBCuwEV1v9cg7ELfdhT.jpg",
+   "fullReview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding."
+  },
   {
    "title": "Toy Story 5",
    "genre": "Animation / Family",
@@ -15,7 +49,7 @@
      "score": "7.4/10"
     }
    ],
-   "votes": 541,
+   "votes": 625,
    "verdict": "Worth a watch",
    "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
    "isNew": false,
@@ -37,38 +71,38 @@
    "fullReview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime."
   },
   {
-   "title": "Disclosure Day",
-   "genre": "Science Fiction / Thriller",
+   "title": "Moana",
+   "genre": "Family / Fantasy",
    "language": "English",
-   "released": "2026-06-12",
-   "review": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist…",
-   "rating": 6.7,
+   "released": "2026-07-10",
+   "review": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable…",
+   "rating": 5.7,
    "scores": [
     {
      "source": "TMDB",
-     "score": "6.7/10"
+     "score": "5.7/10"
     }
    ],
-   "votes": 838,
-   "verdict": "Worth a watch",
-   "poster": "https://image.tmdb.org/t/p/w342/9XKXO68h0KGMCQ9ZZEdP0DWfcXS.jpg",
-   "isNew": false,
+   "votes": 94,
+   "verdict": "Decent one-time watch",
+   "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+   "isNew": true,
    "kind": "movie",
-   "tmdbId": 1275779,
+   "tmdbId": 1108427,
    "platform": "Theatres",
-   "cert": "U/A 13+",
-   "trailer": "https://www.youtube.com/watch?v=icDuEHSxE-w",
+   "cert": "U/A 7+",
+   "trailer": "https://www.youtube.com/watch?v=EEz5xbzYPKI",
    "providers": [],
    "cast": [
-    "Emily Blunt",
-    "Josh O'Connor",
-    "Colin Firth",
-    "Colman Domingo"
+    "Dwayne Johnson",
+    "Catherine Lagaʻaia",
+    "Rena Owen",
+    "John Tui"
    ],
-   "director": "Steven Spielberg",
-   "runtime": 146,
-   "backdrop": "https://image.tmdb.org/t/p/w780/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
-   "fullReview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding."
+   "director": "Thomas Kail",
+   "runtime": 115,
+   "backdrop": "https://image.tmdb.org/t/p/w780/mMkJq4dkQwfDieB9wRC9yPxDWv9.jpg",
+   "fullReview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people."
   },
   {
    "title": "Backrooms",
@@ -76,14 +110,14 @@
    "language": "English",
    "released": "2026-06-12",
    "review": "A strange doorway appears in the basement of a furniture showroom.",
-   "rating": 6.8,
+   "rating": 7,
    "scores": [
     {
      "source": "TMDB",
-     "score": "6.8/10"
+     "score": "7.0/10"
     }
    ],
-   "votes": 961,
+   "votes": 1331,
    "verdict": "Worth a watch",
    "poster": "https://image.tmdb.org/t/p/w342/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
    "isNew": false,
@@ -101,7 +135,7 @@
    ],
    "director": "Kane Parsons",
    "runtime": 111,
-   "backdrop": "https://image.tmdb.org/t/p/w780/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w780/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
    "fullReview": "A strange doorway appears in the basement of a furniture showroom."
   },
   {
@@ -109,18 +143,18 @@
    "genre": "Action / Crime",
    "language": "zh",
    "released": "2026-06-12",
-   "review": "After Wang Wei's daughter is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out to find her himself. His only ally…",
-   "rating": 7.7,
+   "review": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tenacious…",
+   "rating": 7.4,
    "scores": [
     {
      "source": "TMDB",
-     "score": "7.7/10"
+     "score": "7.4/10"
     }
    ],
-   "votes": 122,
-   "verdict": "Must watch",
+   "votes": 196,
+   "verdict": "Worth a watch",
    "poster": "https://image.tmdb.org/t/p/w342/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
-   "isNew": true,
+   "isNew": false,
    "kind": "movie",
    "tmdbId": 1280738,
    "platform": "Theatres",
@@ -136,80 +170,10 @@
    "director": "Kenji Tanigaki",
    "runtime": 113,
    "backdrop": "https://image.tmdb.org/t/p/w780/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg",
-   "fullReview": "After Wang Wei's daughter is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out to find her himself. His only ally is Navin, a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly battle the kidnappers in this explosive martial arts showdown."
-  },
-  {
-   "title": "Minions & Monsters",
-   "genre": "Adventure / Animation",
-   "language": "English",
-   "released": "2026-07-01",
-   "review": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters…",
-   "rating": 6.4,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "6.4/10"
-    }
-   ],
-   "votes": 138,
-   "verdict": "Decent one-time watch",
-   "poster": "https://image.tmdb.org/t/p/w342/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-   "isNew": true,
-   "kind": "movie",
-   "tmdbId": 1315772,
-   "platform": "Theatres",
-   "cert": "U/A 7+",
-   "trailer": "https://www.youtube.com/watch?v=V-O-uBaHk3c",
-   "providers": [],
-   "cast": [
-    "Pierre Coffin",
-    "Trey Parker",
-    "Allison Janney",
-    "Christoph Waltz"
-   ],
-   "director": "Pierre Coffin",
-   "runtime": 90,
-   "backdrop": "https://image.tmdb.org/t/p/w780/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
-   "fullReview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created."
+   "fullReview": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tenacious journalist whose wife has mysteriously vanished, is his only ally. In this explosive martial arts showdown, the unlikely duo fights the kidnappers ruthlessly driven by a furious vengeance."
   }
  ],
  "ott": [
-  {
-   "title": "Chainsmoker Cat",
-   "genre": "Animation / Comedy",
-   "language": "Japanese",
-   "released": "2026-07-03",
-   "review": "Catgirl Yani struggles to pay her rent and keep a job while feeding her smoking habit. As her loved ones' concerns grow, she must rethink her future.",
-   "rating": 8.6,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "8.6/10"
-    }
-   ],
-   "votes": 11,
-   "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/kqeKlSd7o9BCbTraZsDnksRSfxm.jpg",
-   "isNew": true,
-   "kind": "tv",
-   "tmdbId": 312949,
-   "cert": "A",
-   "trailer": "https://www.youtube.com/watch?v=KYGgyQtSAdI",
-   "providers": [
-    "Netflix"
-   ],
-   "cast": [
-    "Yuko Natsuyoshi",
-    "Misato Matsuoka",
-    "Yurie Funato",
-    "Ayaka Shimizu"
-   ],
-   "director": null,
-   "runtime": 24,
-   "backdrop": "https://image.tmdb.org/t/p/w780/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg",
-   "fullReview": "Catgirl Yani struggles to pay her rent and keep a job while feeding her smoking habit. As her loved ones' concerns grow, she must rethink her future.",
-   "platform": "Netflix"
-  },
   {
    "title": "House of the Dragon",
    "genre": "Sci-Fi & Fantasy / Drama",
@@ -223,7 +187,7 @@
      "score": "8.4/10"
     }
    ],
-   "votes": 6526,
+   "votes": 6625,
    "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
    "isNew": false,
@@ -247,6 +211,82 @@
    "platform": "JioHotstar"
   },
   {
+   "title": "Silo",
+   "genre": "Sci-Fi & Fantasy / Drama",
+   "language": "English",
+   "released": "2023-05-04",
+   "review": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously,…",
+   "rating": 8.2,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "8.2/10"
+    }
+   ],
+   "votes": 2259,
+   "verdict": "Must watch",
+   "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+   "isNew": false,
+   "kind": "tv",
+   "tmdbId": 125988,
+   "cert": "A",
+   "trailer": "https://www.youtube.com/watch?v=8ZYhuvIv1pA",
+   "providers": [
+    "Apple TV",
+    "Apple TV Amazon Channel"
+   ],
+   "cast": [
+    "Rebecca Ferguson",
+    "Common",
+    "Chinaza Uche",
+    "Ashley Zukerman"
+   ],
+   "director": "Graham Yost",
+   "runtime": null,
+   "backdrop": "https://image.tmdb.org/t/p/w780/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+   "fullReview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+   "platform": "Apple TV"
+  },
+  {
+   "title": "Mushoku Tensei: Jobless Reincarnation",
+   "genre": "Action & Adventure / Animation",
+   "language": "Japanese",
+   "released": "2021-01-11",
+   "review": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every…",
+   "rating": 8.5,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "8.5/10"
+    }
+   ],
+   "votes": 1583,
+   "verdict": "Must watch",
+   "poster": "https://image.tmdb.org/t/p/w342/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+   "isNew": false,
+   "kind": "tv",
+   "tmdbId": 94664,
+   "cert": null,
+   "trailer": "https://www.youtube.com/watch?v=k5VxfJpzy1Q",
+   "providers": [
+    "Netflix",
+    "Crunchyroll",
+    "Sony Liv",
+    "Crunchyroll Amazon Channel"
+   ],
+   "cast": [
+    "Yumi Uchiyama",
+    "Tomokazu Sugita",
+    "Ai Kakuma",
+    "Ai Kayano"
+   ],
+   "director": null,
+   "runtime": 24,
+   "backdrop": "https://image.tmdb.org/t/p/w780/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+   "fullReview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+   "platform": "Netflix"
+  },
+  {
    "title": "FROM",
    "genre": "Mystery / Drama",
    "language": "English",
@@ -259,7 +299,7 @@
      "score": "8.5/10"
     }
    ],
-   "votes": 3952,
+   "votes": 4004,
    "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
    "isNew": false,
@@ -284,154 +324,6 @@
    "platform": "Amazon Prime Video"
   },
   {
-   "title": "Mushoku Tensei: Jobless Reincarnation",
-   "genre": "Action & Adventure / Animation",
-   "language": "Japanese",
-   "released": "2021-01-11",
-   "review": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every…",
-   "rating": 8.5,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "8.5/10"
-    }
-   ],
-   "votes": 1554,
-   "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-   "isNew": true,
-   "kind": "tv",
-   "tmdbId": 94664,
-   "cert": null,
-   "trailer": "https://www.youtube.com/watch?v=k5VxfJpzy1Q",
-   "providers": [
-    "Netflix",
-    "Crunchyroll",
-    "Sony Liv",
-    "Crunchyroll Amazon Channel"
-   ],
-   "cast": [
-    "Yumi Uchiyama",
-    "Tomokazu Sugita",
-    "Ai Kakuma",
-    "Ai Kayano"
-   ],
-   "director": null,
-   "runtime": 24,
-   "backdrop": "https://image.tmdb.org/t/p/w780/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-   "fullReview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
-   "platform": "Netflix"
-  },
-  {
-   "title": "Silo",
-   "genre": "Sci-Fi & Fantasy / Drama",
-   "language": "English",
-   "released": "2023-05-04",
-   "review": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously,…",
-   "rating": 8.2,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "8.2/10"
-    }
-   ],
-   "votes": 2201,
-   "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-   "isNew": true,
-   "kind": "tv",
-   "tmdbId": 125988,
-   "cert": "A",
-   "trailer": "https://www.youtube.com/watch?v=8ZYhuvIv1pA",
-   "providers": [
-    "Apple TV",
-    "Apple TV Amazon Channel"
-   ],
-   "cast": [
-    "Rebecca Ferguson",
-    "Common",
-    "Chinaza Uche",
-    "Ashley Zukerman"
-   ],
-   "director": "Graham Yost",
-   "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-   "fullReview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-   "platform": "Apple TV"
-  },
-  {
-   "title": "Dutton Ranch",
-   "genre": "Western / Drama",
-   "language": "English",
-   "released": "2026-05-15",
-   "review": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly…",
-   "rating": 9.2,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "9.2/10"
-    }
-   ],
-   "votes": 399,
-   "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
-   "isNew": false,
-   "kind": "tv",
-   "tmdbId": 299167,
-   "cert": null,
-   "trailer": "https://www.youtube.com/watch?v=k6cjKNZBQ1M",
-   "providers": [
-    "JioHotstar"
-   ],
-   "cast": [
-    "Kelly Reilly",
-    "Cole Hauser",
-    "Finn Little",
-    "Juan Pablo Raba"
-   ],
-   "director": "Chad Feehan",
-   "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
-   "fullReview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
-   "platform": "JioHotstar"
-  },
-  {
-   "title": "Avatar: The Last Airbender",
-   "genre": "Action & Adventure / Sci-Fi & Fantasy",
-   "language": "English",
-   "released": "2024-02-22",
-   "review": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enemy bent on stopping him.",
-   "rating": 7.8,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "7.8/10"
-    }
-   ],
-   "votes": 1235,
-   "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
-   "isNew": false,
-   "kind": "tv",
-   "tmdbId": 82452,
-   "cert": "U/A 13+",
-   "trailer": "https://www.youtube.com/watch?v=xEmlE9Ianuo",
-   "providers": [
-    "Netflix"
-   ],
-   "cast": [
-    "Gordon Cormier",
-    "Kiawentiio",
-    "Ian Ousley",
-    "Dallas Liu"
-   ],
-   "director": "Albert Kim",
-   "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/xUB3xFMgsHgPmdWnUWkHTJ03vHa.jpg",
-   "fullReview": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enemy bent on stopping him.",
-   "platform": "Netflix"
-  },
-  {
    "title": "Project Hail Mary",
    "genre": "Science Fiction / Adventure",
    "language": "English",
@@ -444,10 +336,10 @@
      "score": "8.7/10"
     }
    ],
-   "votes": 5867,
+   "votes": 6126,
    "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-   "isNew": true,
+   "isNew": false,
    "kind": "movie",
    "tmdbId": 687163,
    "cert": "U/A 13+",
@@ -464,9 +356,45 @@
    ],
    "director": "Phil Lord",
    "runtime": 157,
-   "backdrop": "https://image.tmdb.org/t/p/w780/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w780/fFyLcR22R4ynrecqjMniKXm0UTp.jpg",
    "fullReview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
    "platform": "Amazon Prime Video"
+  },
+  {
+   "title": "Chainsmoker Cat",
+   "genre": "Animation / Comedy",
+   "language": "Japanese",
+   "released": "2026-07-03",
+   "review": "Catgirl Yani struggles to pay her rent and keep a job while feeding her smoking habit. As her loved ones' concerns grow, she must rethink her future.",
+   "rating": 8.8,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "8.8/10"
+    }
+   ],
+   "votes": 28,
+   "verdict": "Must watch",
+   "poster": "https://image.tmdb.org/t/p/w342/kqeKlSd7o9BCbTraZsDnksRSfxm.jpg",
+   "isNew": false,
+   "kind": "tv",
+   "tmdbId": 312949,
+   "cert": "A",
+   "trailer": "https://www.youtube.com/watch?v=KYGgyQtSAdI",
+   "providers": [
+    "Netflix"
+   ],
+   "cast": [
+    "Yuko Natsuyoshi",
+    "Misato Matsuoka",
+    "Yurie Funato",
+    "Ayaka Shimizu"
+   ],
+   "director": null,
+   "runtime": 24,
+   "backdrop": "https://image.tmdb.org/t/p/w780/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg",
+   "fullReview": "Catgirl Yani struggles to pay her rent and keep a job while feeding her smoking habit. As her loved ones' concerns grow, she must rethink her future.",
+   "platform": "Netflix"
   },
   {
    "title": "Rick and Morty",
@@ -481,7 +409,7 @@
      "score": "8.7/10"
     }
    ],
-   "votes": 11084,
+   "votes": 11113,
    "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
    "isNew": false,
@@ -510,15 +438,15 @@
    "language": "Korean",
    "released": "2026-06-26",
    "review": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
-   "rating": 7,
+   "rating": 7.5,
    "scores": [
     {
      "source": "TMDB",
-     "score": "7.0/10"
+     "score": "7.5/10"
     }
    ],
-   "votes": 23,
-   "verdict": "Worth a watch",
+   "votes": 28,
+   "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg",
    "isNew": false,
    "kind": "tv",
@@ -539,64 +467,99 @@
    "backdrop": "https://image.tmdb.org/t/p/w780/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
    "fullReview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
    "platform": "Netflix"
+  },
+  {
+   "title": "X-Men '97",
+   "genre": "Animation / Action & Adventure",
+   "language": "English",
+   "released": "2024-03-20",
+   "review": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a…",
+   "rating": 8.6,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "8.6/10"
+    }
+   ],
+   "votes": 771,
+   "verdict": "Must watch",
+   "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+   "isNew": true,
+   "kind": "tv",
+   "tmdbId": 138502,
+   "cert": null,
+   "trailer": "https://www.youtube.com/watch?v=pv3Ss8o9gGQ",
+   "providers": [
+    "JioHotstar"
+   ],
+   "cast": [],
+   "director": null,
+   "runtime": null,
+   "backdrop": "https://image.tmdb.org/t/p/w780/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
+   "fullReview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+   "platform": "JioHotstar"
+  },
+  {
+   "title": "Ikka",
+   "genre": "Drama / Thriller",
+   "language": "Hindi",
+   "released": "2026-07-10",
+   "review": "With a loved one's life at stake, a celebrated lawyer must defend a man he suspects is guilty — battling his conscience every step of the way.",
+   "rating": 5.1,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "5.1/10"
+    }
+   ],
+   "votes": 11,
+   "verdict": "Skip unless curious",
+   "poster": "https://image.tmdb.org/t/p/w342/fp5EAKE8nTx402n1fWz55QsuYY9.jpg",
+   "isNew": true,
+   "kind": "movie",
+   "tmdbId": 1484913,
+   "cert": "U/A 16+",
+   "trailer": "https://www.youtube.com/watch?v=LEargi83ofQ",
+   "providers": [
+    "Netflix"
+   ],
+   "cast": [
+    "Sunny Deol",
+    "Akshaye Khanna",
+    "Tillotama Shome",
+    "Dia Mirza"
+   ],
+   "director": "Siddharth P. Malhotra",
+   "runtime": 141,
+   "backdrop": "https://image.tmdb.org/t/p/w780/uy16Ktm9blPb1DAoN6h5MwlBJ6V.jpg",
+   "fullReview": "With a loved one's life at stake, a celebrated lawyer must defend a man he suspects is guilty — battling his conscience every step of the way.",
+   "platform": "Netflix"
   }
  ],
  "comingSoon": [
   {
-   "title": "Varavu",
-   "released": "2026-07-16",
-   "genre": "Action / Thriller",
-   "language": "Malayalam",
-   "review": "",
-   "poster": "https://image.tmdb.org/t/p/w342/g7wncVKEgO0JrwclCYRB1Re3MHj.jpg"
-  },
-  {
-   "title": "The Odyssey",
-   "released": "2026-07-17",
-   "genre": "Adventure / Action",
-   "language": "English",
-   "review": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War.…",
-   "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
-  },
-  {
-   "title": "Dastaar",
-   "released": "2026-07-17",
-   "genre": "History / Action",
-   "language": "Punjabi",
-   "review": "A Sikh immigrant rises from newcomer to community leader following a devastating racist attack.",
-   "poster": "https://image.tmdb.org/t/p/w342/3AJff1foTrXplV687A1NAMw7nV4.jpg"
-  },
-  {
-   "title": "Arjunan Per Paththu",
-   "released": "2026-07-17",
-   "genre": "Crime / Drama",
-   "language": "Tamil",
-   "review": "Arjunan, who witnessed his parents being killed by lightning in front of his eyes, cannot bear the shock and arrives in…",
-   "poster": "https://image.tmdb.org/t/p/w342/pZiRQ7hVuDzFkCVmzw9slhjSLhO.jpg"
-  },
-  {
-   "title": "Oh..! Sukumari",
-   "released": "2026-07-17",
-   "genre": "Comedy / Romance",
-   "language": "Telugu",
-   "review": "",
-   "poster": "https://image.tmdb.org/t/p/w342/tcLRry9S3p9Zu1GeUeJAiYgcYHM.jpg"
-  },
-  {
-   "title": "Anbe Diana",
-   "released": "2026-07-17",
-   "genre": "Comedy / Drama",
-   "language": "Tamil",
-   "review": "",
-   "poster": "https://image.tmdb.org/t/p/w342/201CEvG6ayNj71iSLxxEk7pUv0N.jpg"
-  },
-  {
    "title": "Jana Nayagan",
-   "released": "2026-07-24",
+   "released": "2026-07-23",
    "genre": "Action / Drama",
    "language": "Tamil",
    "review": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years…",
    "poster": "https://image.tmdb.org/t/p/w342/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg"
+  },
+  {
+   "title": "Law & Order",
+   "released": "2026-07-24",
+   "genre": "Crime / Thriller",
+   "language": "Malayalam",
+   "review": "",
+   "poster": "https://image.tmdb.org/t/p/w342/zWgm7OZv8B4XUKEhU8BWB4pW3z0.jpg"
+  },
+  {
+   "title": "The Indian Story",
+   "released": "2026-07-24",
+   "genre": "Drama / Thriller",
+   "language": "Hindi",
+   "review": "A community confronts the devastating impact of pesticide contamination as industrial negligence threatens public…",
+   "poster": null
   },
   {
    "title": "Karavali",
@@ -605,6 +568,38 @@
    "language": "Kannada",
    "review": "Karavali is a film that explores the struggles between man and nature, set against the raw, untamed beauty of coastal…",
    "poster": "https://image.tmdb.org/t/p/w342/buxVz5LZQY1QLfFIIZnfe6t2F4I.jpg"
+  },
+  {
+   "title": "Tera Yaar Hoon Main",
+   "released": "2026-07-24",
+   "genre": "Action / Comedy",
+   "language": "Hindi",
+   "review": "",
+   "poster": "https://image.tmdb.org/t/p/w342/cFLVe7dfz7m3AT3egd97As3oC0Y.jpg"
+  },
+  {
+   "title": "Max, Min and Meowzaki",
+   "released": "2026-07-24",
+   "genre": "Family / Romance",
+   "language": "Hindi",
+   "review": "Max and Min are about to break up. They argue endlessly about dividing their possessions, including their cat,…",
+   "poster": "https://image.tmdb.org/t/p/w342/7ru6YpK7U4QH8cO3OKMKo5ZXgXj.jpg"
+  },
+  {
+   "title": "Ishqnama",
+   "released": "2026-07-24",
+   "genre": "Romance / Music",
+   "language": "Punjabi",
+   "review": "‘ISHQNAMA’ True Story of True Lovers NIMMA–NASIMA",
+   "poster": "https://image.tmdb.org/t/p/w342/o8z4we84ElQlGw591yydx2nmyoi.jpg"
+  },
+  {
+   "title": "Sathyavan Savithiri",
+   "released": "2026-07-24",
+   "genre": "Drama / Crime",
+   "language": "Tamil",
+   "review": "",
+   "poster": "https://image.tmdb.org/t/p/w342/6CTZmOW9YrHxxaYjK56rB8DvefR.jpg"
   }
  ]
 }

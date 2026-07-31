@@ -1,7 +1,41 @@
 {
- "generatedAt": "2026-07-24T06:06:57.456Z",
- "pick": "The East Palace",
+ "generatedAt": "2026-07-31T06:27:12.176Z",
+ "pick": "Avatar Aang: The Last Airbender",
  "theatres": [
+  {
+   "title": "Spider-Man: Brand New Day",
+   "genre": "Science Fiction / Action",
+   "language": "English",
+   "released": "2026-07-30",
+   "review": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in…",
+   "rating": 8,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "8.0/10"
+    }
+   ],
+   "votes": 291,
+   "verdict": "Must watch",
+   "poster": "https://image.tmdb.org/t/p/w342/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+   "isNew": true,
+   "kind": "movie",
+   "tmdbId": 969681,
+   "platform": "Theatres",
+   "cert": "U/A 13+",
+   "trailer": "https://www.youtube.com/watch?v=P3uI5sLosKU",
+   "providers": [],
+   "cast": [
+    "Tom Holland",
+    "Zendaya",
+    "Sadie Sink",
+    "Jacob Batalon"
+   ],
+   "director": "Destin Daniel Cretton",
+   "runtime": 145,
+   "backdrop": "https://image.tmdb.org/t/p/w780/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+   "fullReview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see."
+  },
   {
    "title": "The Odyssey",
    "genre": "Adventure / Action",
@@ -15,10 +49,10 @@
      "score": "7.9/10"
     }
    ],
-   "votes": 1168,
+   "votes": 1857,
    "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-   "isNew": true,
+   "isNew": false,
    "kind": "movie",
    "tmdbId": 1368337,
    "platform": "Theatres",
@@ -33,8 +67,42 @@
    ],
    "director": "Christopher Nolan",
    "runtime": 173,
-   "backdrop": "https://image.tmdb.org/t/p/w780/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w780/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
    "fullReview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point."
+  },
+  {
+   "title": "Supergirl",
+   "genre": "Action / Adventure",
+   "language": "English",
+   "released": "2026-06-26",
+   "review": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an…",
+   "rating": 6.7,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "6.7/10"
+    }
+   ],
+   "votes": 1133,
+   "verdict": "Worth a watch",
+   "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+   "isNew": false,
+   "kind": "movie",
+   "tmdbId": 1081003,
+   "platform": "Theatres",
+   "cert": "U/A 16+",
+   "trailer": "https://www.youtube.com/watch?v=tzlY8XD1CGg",
+   "providers": [],
+   "cast": [
+    "Milly Alcock",
+    "Eve Ridley",
+    "Matthias Schoenaerts",
+    "Jason Momoa"
+   ],
+   "director": "Craig Gillespie",
+   "runtime": 108,
+   "backdrop": "https://image.tmdb.org/t/p/w780/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
+   "fullReview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice."
   },
   {
    "title": "Moana",
@@ -42,14 +110,14 @@
    "language": "English",
    "released": "2026-07-10",
    "review": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable…",
-   "rating": 5.8,
+   "rating": 5.9,
    "scores": [
     {
      "source": "TMDB",
-     "score": "5.8/10"
+     "score": "5.9/10"
     }
    ],
-   "votes": 137,
+   "votes": 155,
    "verdict": "Decent one-time watch",
    "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
    "isNew": false,
@@ -67,113 +135,82 @@
    ],
    "director": "Thomas Kail",
    "runtime": 115,
-   "backdrop": "https://image.tmdb.org/t/p/w780/mMkJq4dkQwfDieB9wRC9yPxDWv9.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
    "fullReview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people."
   },
   {
-   "title": "Supergirl",
-   "genre": "Action / Adventure",
+   "title": "The Death of Robin Hood",
+   "genre": "Adventure / Drama",
    "language": "English",
-   "released": "2026-06-26",
-   "review": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an…",
-   "rating": 6.1,
+   "released": "2026-07-03",
+   "review": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of…",
+   "rating": 6.6,
    "scores": [
     {
      "source": "TMDB",
-     "score": "6.1/10"
+     "score": "6.6/10"
     }
    ],
-   "votes": 513,
-   "verdict": "Decent one-time watch",
-   "poster": "https://image.tmdb.org/t/p/w342/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
-   "isNew": true,
-   "kind": "movie",
-   "tmdbId": 1081003,
-   "platform": "Theatres",
-   "cert": "U/A 16+",
-   "trailer": "https://www.youtube.com/watch?v=tzlY8XD1CGg",
-   "providers": [],
-   "cast": [
-    "Milly Alcock",
-    "Eve Ridley",
-    "Matthias Schoenaerts",
-    "Jason Momoa"
-   ],
-   "director": "Craig Gillespie",
-   "runtime": 108,
-   "backdrop": "https://image.tmdb.org/t/p/w780/8CIgg0gCHIYz0jrx5IcZEOy047J.jpg",
-   "fullReview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice."
-  },
-  {
-   "title": "Minions & Monsters",
-   "genre": "Adventure / Animation",
-   "language": "English",
-   "released": "2026-07-01",
-   "review": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters…",
-   "rating": 6.4,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "6.4/10"
-    }
-   ],
-   "votes": 220,
-   "verdict": "Decent one-time watch",
-   "poster": "https://image.tmdb.org/t/p/w342/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-   "isNew": true,
-   "kind": "movie",
-   "tmdbId": 1315772,
-   "platform": "Theatres",
-   "cert": "U/A 7+",
-   "trailer": "https://www.youtube.com/watch?v=V-O-uBaHk3c",
-   "providers": [],
-   "cast": [
-    "Pierre Coffin",
-    "Trey Parker",
-    "Allison Janney",
-    "Christoph Waltz"
-   ],
-   "director": "Pierre Coffin",
-   "runtime": 90,
-   "backdrop": "https://image.tmdb.org/t/p/w780/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-   "fullReview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created."
-  },
-  {
-   "title": "Toy Story 5",
-   "genre": "Animation / Family",
-   "language": "English",
-   "released": "2026-06-19",
-   "review": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they…",
-   "rating": 7.4,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "7.4/10"
-    }
-   ],
-   "votes": 685,
+   "votes": 134,
    "verdict": "Worth a watch",
-   "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-   "isNew": false,
+   "poster": "https://image.tmdb.org/t/p/w342/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+   "isNew": true,
    "kind": "movie",
-   "tmdbId": 1084244,
+   "tmdbId": 1284465,
    "platform": "Theatres",
-   "cert": "U",
-   "trailer": "https://www.youtube.com/watch?v=QftAW9TTmuQ",
+   "cert": "A",
+   "trailer": "https://www.youtube.com/watch?v=tlSDDuWxO_0",
    "providers": [],
    "cast": [
-    "Tom Hanks",
-    "Tim Allen",
-    "Joan Cusack",
-    "Greta Lee"
+    "Hugh Jackman",
+    "Jodie Comer",
+    "Bill Skarsgård",
+    "Murray Bartlett"
    ],
-   "director": "Andrew Stanton",
-   "runtime": 102,
-   "backdrop": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-   "fullReview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime."
+   "director": "Michael Sarnoski",
+   "runtime": 123,
+   "backdrop": "https://image.tmdb.org/t/p/w780/aM3pduSU53VjcALWOfLWNw8v2TI.jpg",
+   "fullReview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation."
   }
  ],
  "ott": [
+  {
+   "title": "Masters of the Universe",
+   "genre": "Action / Fantasy",
+   "language": "English",
+   "released": "2026-06-03",
+   "review": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of…",
+   "rating": 7.3,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "7.3/10"
+    }
+   ],
+   "votes": 1345,
+   "verdict": "Worth a watch",
+   "poster": "https://image.tmdb.org/t/p/w342/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
+   "isNew": false,
+   "kind": "movie",
+   "tmdbId": 454639,
+   "cert": "U/A 16+",
+   "trailer": "https://www.youtube.com/watch?v=rJSmz-zhDxE",
+   "providers": [
+    "Amazon Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "cast": [
+    "Nicholas Galitzine",
+    "Camila Mendes",
+    "Idris Elba",
+    "Jared Leto"
+   ],
+   "director": "Travis Knight",
+   "runtime": 141,
+   "backdrop": "https://image.tmdb.org/t/p/w780/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
+   "fullReview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+   "platform": "Amazon Prime Video"
+  },
   {
    "title": "House of the Dragon",
    "genre": "Sci-Fi & Fantasy / Drama",
@@ -187,7 +224,7 @@
      "score": "8.4/10"
     }
    ],
-   "votes": 6696,
+   "votes": 6779,
    "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
    "isNew": false,
@@ -211,41 +248,77 @@
    "platform": "JioHotstar"
   },
   {
-   "title": "Masters of the Universe",
-   "genre": "Action / Fantasy",
+   "title": "Avatar Aang: The Last Airbender",
+   "genre": "Animation / Action",
    "language": "English",
-   "released": "2026-06-03",
-   "review": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of…",
-   "rating": 7.4,
+   "released": "2026-07-24",
+   "review": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a…",
+   "rating": 9.4,
    "scores": [
     {
      "source": "TMDB",
-     "score": "7.4/10"
+     "score": "9.4/10"
     }
    ],
-   "votes": 726,
-   "verdict": "Worth a watch",
-   "poster": "https://image.tmdb.org/t/p/w342/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
+   "votes": 487,
+   "verdict": "Must watch",
+   "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
    "isNew": true,
    "kind": "movie",
-   "tmdbId": 454639,
-   "cert": "U/A 16+",
-   "trailer": "https://www.youtube.com/watch?v=rJSmz-zhDxE",
+   "tmdbId": 980431,
+   "cert": null,
+   "trailer": "https://www.youtube.com/watch?v=7b20GRFZBFE",
    "providers": [
     "Amazon Prime Video",
     "Amazon Prime Video with Ads"
    ],
    "cast": [
-    "Nicholas Galitzine",
-    "Camila Mendes",
-    "Idris Elba",
-    "Jared Leto"
+    "Eric Nam",
+    "Dave Bautista",
+    "Jessica Matten",
+    "Román Zaragoza"
    ],
-   "director": "Travis Knight",
-   "runtime": 141,
-   "backdrop": "https://image.tmdb.org/t/p/w780/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
-   "fullReview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+   "director": "Lauren Montgomery",
+   "runtime": 99,
+   "backdrop": "https://image.tmdb.org/t/p/w780/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
+   "fullReview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
    "platform": "Amazon Prime Video"
+  },
+  {
+   "title": "Rick and Morty",
+   "genre": "Animation / Comedy",
+   "language": "English",
+   "released": "2013-12-02",
+   "review": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+   "rating": 8.7,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "8.7/10"
+    }
+   ],
+   "votes": 11196,
+   "verdict": "Must watch",
+   "poster": "https://image.tmdb.org/t/p/w342/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+   "isNew": false,
+   "kind": "tv",
+   "tmdbId": 60625,
+   "cert": "A",
+   "trailer": "https://www.youtube.com/watch?v=WNhH00OIPP0",
+   "providers": [
+    "Netflix"
+   ],
+   "cast": [
+    "Chris Parnell",
+    "Spencer Grammer",
+    "Sarah Chalke",
+    "Ian Cardoni"
+   ],
+   "director": "Dan Harmon",
+   "runtime": null,
+   "backdrop": "https://image.tmdb.org/t/p/w780/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
+   "fullReview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+   "platform": "Netflix"
   },
   {
    "title": "Silo",
@@ -260,7 +333,7 @@
      "score": "8.2/10"
     }
    ],
-   "votes": 2306,
+   "votes": 2343,
    "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
    "isNew": false,
@@ -285,48 +358,47 @@
    "platform": "Apple TV"
   },
   {
-   "title": "FROM",
-   "genre": "Mystery / Drama",
-   "language": "English",
-   "released": "2022-02-20",
-   "review": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and…",
-   "rating": 8.5,
+   "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+   "genre": "Animation / Action",
+   "language": "Japanese",
+   "released": "2025-07-18",
+   "review": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the…",
+   "rating": 8.4,
    "scores": [
     {
      "source": "TMDB",
-     "score": "8.5/10"
+     "score": "8.4/10"
     }
    ],
-   "votes": 4040,
+   "votes": 1329,
    "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
-   "isNew": false,
-   "kind": "tv",
-   "tmdbId": 124364,
-   "cert": null,
-   "trailer": "https://www.youtube.com/watch?v=pDHqAj4eJcM",
+   "poster": "https://image.tmdb.org/t/p/w342/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
+   "isNew": true,
+   "kind": "movie",
+   "tmdbId": 1311031,
+   "cert": "U/A 13+",
+   "trailer": "https://www.youtube.com/watch?v=EpAlHmuA2YM",
    "providers": [
-    "Amazon Prime Video",
-    "Amazon Prime Video with Ads"
+    "Crunchyroll"
    ],
    "cast": [
-    "Harold Perrineau",
-    "Catalina Sandino Moreno",
-    "Ricky He",
-    "David Alpay"
+    "Natsuki Hanae",
+    "Takahiro Sakurai",
+    "Akira Ishida",
+    "Hiro Shimono"
    ],
-   "director": "John Griffin",
-   "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
-   "fullReview": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
-   "platform": "Amazon Prime Video"
+   "director": "Haruo Sotozaki",
+   "runtime": 156,
+   "backdrop": "https://image.tmdb.org/t/p/w780/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+   "fullReview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
+   "platform": "Crunchyroll"
   },
   {
-   "title": "Rick and Morty",
-   "genre": "Animation / Comedy",
+   "title": "Project Hail Mary",
+   "genre": "Science Fiction / Adventure",
    "language": "English",
-   "released": "2013-12-02",
-   "review": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+   "released": "2026-03-15",
+   "review": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he…",
    "rating": 8.7,
    "scores": [
     {
@@ -334,64 +406,65 @@
      "score": "8.7/10"
     }
    ],
-   "votes": 11148,
+   "votes": 6611,
    "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-   "isNew": false,
+   "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+   "isNew": true,
+   "kind": "movie",
+   "tmdbId": 687163,
+   "cert": "U/A 13+",
+   "trailer": "https://www.youtube.com/watch?v=NKYea63tQmI",
+   "providers": [
+    "Amazon Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "cast": [
+    "Ryan Gosling",
+    "Sandra Hüller",
+    "James Ortiz",
+    "Lionel Boyce"
+   ],
+   "director": "Phil Lord",
+   "runtime": 157,
+   "backdrop": "https://image.tmdb.org/t/p/w780/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+   "fullReview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+   "platform": "Amazon Prime Video"
+  },
+  {
+   "title": "Stranger Things",
+   "genre": "Action & Adventure / Mystery",
+   "language": "English",
+   "released": "2016-07-15",
+   "review": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+   "rating": 8.6,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "8.6/10"
+    }
+   ],
+   "votes": 21545,
+   "verdict": "Must watch",
+   "poster": "https://image.tmdb.org/t/p/w342/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+   "isNew": true,
    "kind": "tv",
-   "tmdbId": 60625,
-   "cert": "A",
-   "trailer": "https://www.youtube.com/watch?v=WNhH00OIPP0",
+   "tmdbId": 66732,
+   "cert": "U/A 16+",
+   "trailer": "https://www.youtube.com/watch?v=mnd7sFt5c3A",
    "providers": [
     "Netflix"
    ],
    "cast": [
-    "Chris Parnell",
-    "Spencer Grammer",
-    "Sarah Chalke",
-    "Ian Cardoni"
+    "Winona Ryder",
+    "David Harbour",
+    "Millie Bobby Brown",
+    "Finn Wolfhard"
    ],
-   "director": "Dan Harmon",
+   "director": "Ross Duffer",
    "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
-   "fullReview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+   "backdrop": "https://image.tmdb.org/t/p/w780/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+   "fullReview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
    "platform": "Netflix"
-  },
-  {
-   "title": "Descendants: Wicked Wonderland",
-   "genre": "Fantasy / Family",
-   "language": "English",
-   "released": "2026-07-16",
-   "review": "Now that the Queen of Hearts is nice and Cinderella is safe, things seem perfect for Red and Chloe… But little do they know that changing the past created a…",
-   "rating": 7.8,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "7.8/10"
-    }
-   ],
-   "votes": 93,
-   "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
-   "isNew": true,
-   "kind": "movie",
-   "tmdbId": 1318621,
-   "cert": null,
-   "trailer": "https://www.youtube.com/watch?v=0Gg7x3xBqBU",
-   "providers": [
-    "JioHotstar"
-   ],
-   "cast": [
-    "Kylie Cantrall",
-    "Malia Baker",
-    "Liamani Segura",
-    "Rita Ora"
-   ],
-   "director": "Kimmy Gatewood",
-   "runtime": 98,
-   "backdrop": "https://image.tmdb.org/t/p/w780/idRLKyu43mRhMWNjzd6FiEromNI.jpg",
-   "fullReview": "Now that the Queen of Hearts is nice and Cinderella is safe, things seem perfect for Red and Chloe… But little do they know that changing the past created a new villain — Maddox Hatter. When Maddox captures the Queen of Hearts, Red and Chloe must work alongside Red’s new sister Pink, Luisa Madrigal’s son Luis, and Maddox’s son Max to save her and Wonderland.",
-   "platform": "JioHotstar"
   },
   {
    "title": "Agent Kim Reactivated",
@@ -399,16 +472,16 @@
    "language": "Korean",
    "released": "2026-06-26",
    "review": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
-   "rating": 7.3,
+   "rating": 7.7,
    "scores": [
     {
      "source": "TMDB",
-     "score": "7.3/10"
+     "score": "7.7/10"
     }
    ],
-   "votes": 39,
-   "verdict": "Worth a watch",
-   "poster": "https://image.tmdb.org/t/p/w342/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg",
+   "votes": 65,
+   "verdict": "Must watch",
+   "poster": "https://image.tmdb.org/t/p/w342/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
    "isNew": false,
    "kind": "tv",
    "tmdbId": 296206,
@@ -435,17 +508,17 @@
    "language": "English",
    "released": "2026-07-14",
    "review": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must…",
-   "rating": 7,
+   "rating": 7.2,
    "scores": [
     {
      "source": "TMDB",
-     "score": "7.0/10"
+     "score": "7.2/10"
     }
    ],
-   "votes": 77,
+   "votes": 100,
    "verdict": "Worth a watch",
    "poster": "https://image.tmdb.org/t/p/w342/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
-   "isNew": true,
+   "isNew": false,
    "kind": "tv",
    "tmdbId": 278624,
    "cert": "A",
@@ -465,144 +538,72 @@
    "backdrop": "https://image.tmdb.org/t/p/w780/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
    "fullReview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
    "platform": "Apple TV"
-  },
-  {
-   "title": "King of the Hill",
-   "genre": "Animation / Comedy",
-   "language": "English",
-   "released": "1997-01-12",
-   "review": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy,…",
-   "rating": 7.4,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "7.4/10"
-    }
-   ],
-   "votes": 680,
-   "verdict": "Worth a watch",
-   "poster": "https://image.tmdb.org/t/p/w342/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
-   "isNew": true,
-   "kind": "tv",
-   "tmdbId": 2122,
-   "cert": null,
-   "trailer": null,
-   "providers": [
-    "JioHotstar"
-   ],
-   "cast": [
-    "Mike Judge",
-    "Kathy Najimy",
-    "Pamela Adlon",
-    "Stephen Root"
-   ],
-   "director": "Greg Daniels",
-   "runtime": 22,
-   "backdrop": "https://image.tmdb.org/t/p/w780/4CSdS9p0AhLhxCo1hGuQINiE2Sa.jpg",
-   "fullReview": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy, wannabe comedian son Bobby, and naive niece Luanne. Hank has conservative views about God, family, and country, but his values and ethics are often challenged by the situations he, his family, and his beer-drinking neighbors/buddies find themselves in.",
-   "platform": "JioHotstar"
-  },
-  {
-   "title": "The East Palace",
-   "genre": "Mystery / Action & Adventure",
-   "language": "Korean",
-   "released": "2026-07-17",
-   "review": "A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders — can they unravel its dark secrets?",
-   "rating": 8,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "8.0/10"
-    }
-   ],
-   "votes": 37,
-   "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg",
-   "isNew": true,
-   "kind": "tv",
-   "tmdbId": 279323,
-   "cert": "U/A 16+",
-   "trailer": "https://www.youtube.com/watch?v=wBUkNE1l9DU",
-   "providers": [
-    "Netflix"
-   ],
-   "cast": [
-    "Nam Joo-hyuk",
-    "Roh Yoon-seo",
-    "Cho Seung-woo",
-    "Jang Young-nam"
-   ],
-   "director": "Kwon So-ra",
-   "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/8PHBAdPyfIwS5W6cfKLhItEb875.jpg",
-   "fullReview": "A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders — can they unravel its dark secrets?",
-   "platform": "Netflix"
   }
  ],
  "comingSoon": [
   {
-   "title": "Bhai Tera Star Hai",
-   "released": "2026-07-30",
-   "genre": "Comedy",
-   "language": "Hindi",
-   "review": "",
-   "poster": "https://image.tmdb.org/t/p/w342/pOvjcDHftVa6SJk2DmAm1cD0YOb.jpg"
-  },
-  {
-   "title": "Pluto",
-   "released": "2026-07-30",
-   "genre": "Science Fiction / Comedy",
-   "language": "Malayalam",
-   "review": "",
-   "poster": "https://image.tmdb.org/t/p/w342/pPxsw4KnZbsklyHUCTKSCHKaC8F.jpg"
-  },
-  {
-   "title": "Srinivasa Mangapuram",
-   "released": "2026-07-30",
-   "genre": "Romance / Drama",
-   "language": "Telugu",
-   "review": "",
-   "poster": "https://image.tmdb.org/t/p/w342/7KnqSoNWrmPSSatvAnIGrTmJS3Q.jpg"
-  },
-  {
-   "title": "Spider-Man: Brand New Day",
-   "released": "2026-07-31",
-   "genre": "Science Fiction / Action",
-   "language": "English",
-   "review": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends…",
-   "poster": "https://image.tmdb.org/t/p/w342/6Q21yptoOCUq4ErwVncesLPVplb.jpg"
-  },
-  {
-   "title": "Ohh My Dog",
-   "released": "2026-07-31",
-   "genre": "Drama",
-   "language": "Hindi",
-   "review": "",
-   "poster": "https://image.tmdb.org/t/p/w342/fblOY4ywbv9D3F75hO0ARmbHI6d.jpg"
-  },
-  {
-   "title": "Unmadham",
-   "released": "2026-07-31",
-   "genre": "Thriller",
-   "language": "Malayalam",
-   "review": "",
-   "poster": "https://image.tmdb.org/t/p/w342/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg"
-  },
-  {
-   "title": "DELIVERY BOY",
-   "released": "2026-08-07",
-   "genre": "Action / Drama",
-   "language": "Tamil",
-   "review": "A young food delivery rider, who dreams of becoming a police officer, is forced to steal money to save his critically…",
-   "poster": "https://image.tmdb.org/t/p/w342/5JykVg5yWm5QiFyeEBq3diDmI5.jpg"
-  },
-  {
    "title": "DC",
    "released": "2026-08-07",
-   "genre": "Action / Romance",
+   "genre": "Romance / Action",
    "language": "Tamil",
    "review": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance…",
    "poster": "https://image.tmdb.org/t/p/w342/7IqDtlkUNDnnR3wsXScEGSDV4RM.jpg"
+  },
+  {
+   "title": "Ottam Thullal",
+   "released": "2026-08-07",
+   "genre": "Comedy / Drama",
+   "language": "Malayalam",
+   "review": "",
+   "poster": "https://image.tmdb.org/t/p/w342/cVp1n8FZPtVILNAvXpdlrD4XXT6.jpg"
+  },
+  {
+   "title": "ChaO",
+   "released": "2026-08-07",
+   "genre": "Animation / Fantasy",
+   "language": "Japanese",
+   "review": "In a futuristic world where humans and mermaids coexist, the life of mild-mannered office worker Stephan is upended…",
+   "poster": "https://image.tmdb.org/t/p/w342/m723xGi6lyklfsTPdtgEtYJSKcw.jpg"
+  },
+  {
+   "title": "Ohh My Dog",
+   "released": "2026-08-07",
+   "genre": "Drama",
+   "language": "Hindi",
+   "review": "In Assam, 14-year-old Apu embarks on a desperate quest to rescue his beloved dog, Momo, after he is kidnapped.…",
+   "poster": "https://image.tmdb.org/t/p/w342/zzHV3rmS07lrFkcHXFx2J9JhZwJ.jpg"
+  },
+  {
+   "title": "Aryabhatt Ka Zero",
+   "released": "2026-08-07",
+   "genre": "Drama / Comedy",
+   "language": "Hindi",
+   "review": "A directionless young man from a middle-class family struggles to find his place in a world that has already written…",
+   "poster": "https://image.tmdb.org/t/p/w342/hI5MZ78pj2aFuyEz1oOFMVsr8dM.jpg"
+  },
+  {
+   "title": "Korean Kanakaraju",
+   "released": "2026-08-07",
+   "genre": "Horror / Action",
+   "language": "Telugu",
+   "review": "",
+   "poster": "https://image.tmdb.org/t/p/w342/cl35nsSE0zDvIrvFewLtM748SBf.jpg"
+  },
+  {
+   "title": "Prahaar",
+   "released": "2026-08-07",
+   "genre": "Drama",
+   "language": "Hindi",
+   "review": "Ujjwal Nikam is an Indian special public prosecutor who has worked on prominent murder and terrorism cases such as the…",
+   "poster": "https://image.tmdb.org/t/p/w342/wTrBTNfHHmpPwiB9rpn0tGbSW1m.jpg"
+  },
+  {
+   "title": "Batwara 1947",
+   "released": "2026-08-13",
+   "genre": "Action / Drama",
+   "language": "Hindi",
+   "review": "The story of an elderly Muslim woman who refuses to leave her ancestral home in Lahore, only to have a Hindu refugee…",
+   "poster": "https://image.tmdb.org/t/p/w342/u4qctwtUwTEnA1gqQhM84MUygXp.jpg"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-08-21T04:06:19.431Z",
- "pick": "Futurama",
+ "generatedAt": "2026-08-28T15:30:42.630Z",
+ "pick": "Facing El Chapo",
  "theatres": [
   {
    "title": "Spider-Man: Brand New Day",
@@ -15,9 +15,9 @@
      "score": "7.9/10"
     }
    ],
-   "votes": 1982,
+   "votes": 2220,
    "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
    "isNew": false,
    "kind": "movie",
    "tmdbId": 969681,
@@ -37,38 +37,72 @@
    "fullReview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see."
   },
   {
-   "title": "The Odyssey",
-   "genre": "Adventure / Action",
+   "title": "Mutiny",
+   "genre": "Action / Thriller",
    "language": "English",
-   "released": "2026-07-17",
-   "review": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront…",
-   "rating": 8,
+   "released": "2026-08-21",
+   "review": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only…",
+   "rating": 6.4,
    "scores": [
     {
      "source": "TMDB",
-     "score": "8.0/10"
+     "score": "6.4/10"
     }
    ],
-   "votes": 3001,
-   "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+   "votes": 199,
+   "verdict": "Decent one-time watch",
+   "poster": "https://image.tmdb.org/t/p/w342/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
    "isNew": false,
    "kind": "movie",
-   "tmdbId": 1368337,
+   "tmdbId": 1288445,
    "platform": "Theatres",
    "cert": "A",
-   "trailer": "https://www.youtube.com/watch?v=AyIZ9tiiN8I",
+   "trailer": "https://www.youtube.com/watch?v=2Iqvbe98Gb4",
    "providers": [],
    "cast": [
-    "Matt Damon",
-    "Tom Holland",
-    "Anne Hathaway",
-    "Robert Pattinson"
+    "Jason Statham",
+    "Annabelle Wallis",
+    "Roland Møller",
+    "Ramon Tikaram"
    ],
-   "director": "Christopher Nolan",
-   "runtime": 173,
-   "backdrop": "https://image.tmdb.org/t/p/w780/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
-   "fullReview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point."
+   "director": "Jean-François Richet",
+   "runtime": 95,
+   "backdrop": "https://image.tmdb.org/t/p/w780/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
+   "fullReview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy."
+  },
+  {
+   "title": "Toxic: A Fairy Tale for Grown-ups",
+   "genre": "Action / Crime",
+   "language": "Kannada",
+   "released": "2026-08-26",
+   "review": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of…",
+   "rating": 5.9,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "5.9/10"
+    }
+   ],
+   "votes": 12,
+   "verdict": "Decent one-time watch",
+   "poster": "https://image.tmdb.org/t/p/w342/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
+   "isNew": true,
+   "kind": "movie",
+   "tmdbId": 1213243,
+   "platform": "Theatres",
+   "cert": "A",
+   "trailer": "https://www.youtube.com/watch?v=EfluEyQ5QIA",
+   "providers": [],
+   "cast": [
+    "Yash",
+    "Kiara Advani",
+    "Nayanthara",
+    "Huma Qureshi"
+   ],
+   "director": "Geetu Mohandas",
+   "runtime": 195,
+   "backdrop": "https://image.tmdb.org/t/p/w780/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
+   "fullReview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule."
   },
   {
    "title": "The End of Oak Street",
@@ -76,14 +110,14 @@
    "language": "English",
    "released": "2026-08-14",
    "review": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that…",
-   "rating": 6.5,
+   "rating": 6.4,
    "scores": [
     {
      "source": "TMDB",
-     "score": "6.5/10"
+     "score": "6.4/10"
     }
    ],
-   "votes": 273,
+   "votes": 383,
    "verdict": "Decent one-time watch",
    "poster": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
    "isNew": false,
@@ -105,72 +139,38 @@
    "fullReview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings."
   },
   {
-   "title": "Mutiny",
-   "genre": "Action / Thriller",
+   "title": "Insidious: Out of the Further",
+   "genre": "Horror / Thriller",
    "language": "English",
    "released": "2026-08-21",
-   "review": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only…",
-   "rating": 6.9,
+   "review": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what…",
+   "rating": 6.5,
    "scores": [
     {
      "source": "TMDB",
-     "score": "6.9/10"
+     "score": "6.5/10"
     }
    ],
-   "votes": 39,
+   "votes": 79,
    "verdict": "Worth a watch",
-   "poster": "https://image.tmdb.org/t/p/w342/pVMxkaViouALWwc1EdZBaiZJTxJ.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
    "isNew": true,
    "kind": "movie",
-   "tmdbId": 1288445,
-   "platform": "Theatres",
-   "cert": "A",
-   "trailer": "https://www.youtube.com/watch?v=2Iqvbe98Gb4",
-   "providers": [],
-   "cast": [
-    "Jason Statham",
-    "Annabelle Wallis",
-    "Roland Møller",
-    "Ramon Tikaram"
-   ],
-   "director": "Jean-François Richet",
-   "runtime": 95,
-   "backdrop": "https://image.tmdb.org/t/p/w780/xYro90dW4z7es4JG1vo1bmZ0lUN.jpg",
-   "fullReview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy."
-  },
-  {
-   "title": "Vishwanath & Sons",
-   "genre": "Drama / Romance",
-   "language": "Tamil",
-   "released": "2026-08-14",
-   "review": "Sanjay Vishwanath is an acclaimed professional handgunner in his 40s with a major stake in fame and wealth. When he comes across a woman named Maddy in her…",
-   "rating": null,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "New release"
-    }
-   ],
-   "votes": 7,
-   "verdict": "Too new for a verdict",
-   "poster": "https://image.tmdb.org/t/p/w342/adDZVEQZnMJ380zPOmVj6vBWHgk.jpg",
-   "isNew": true,
-   "kind": "movie",
-   "tmdbId": 1408162,
+   "tmdbId": 1291595,
    "platform": "Theatres",
    "cert": "U/A 16+",
-   "trailer": null,
+   "trailer": "https://www.youtube.com/watch?v=gXjurDkYnEM",
    "providers": [],
    "cast": [
-    "Suriya",
-    "Mamitha Baiju",
-    "Radhika Sarathkumar",
-    "Raveena Tandon"
+    "Amelia Eve",
+    "Island Austin",
+    "Lin Shaye",
+    "Sam Spruell"
    ],
-   "director": "Venky Atluri",
-   "runtime": 161,
-   "backdrop": "https://image.tmdb.org/t/p/w780/sd0RKOpnqESIWxU3sZwZhBsgAHl.jpg",
-   "fullReview": "Sanjay Vishwanath is an acclaimed professional handgunner in his 40s with a major stake in fame and wealth. When he comes across a woman named Maddy in her 20s, their dynamic poses many issues that they must come to terms with."
+   "director": "Jacob Chase",
+   "runtime": 106,
+   "backdrop": "https://image.tmdb.org/t/p/w780/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
+   "fullReview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world."
   }
  ],
  "ott": [
@@ -187,14 +187,14 @@
      "score": "8.1/10"
     }
    ],
-   "votes": 3095,
+   "votes": 3152,
    "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
    "isNew": false,
    "kind": "tv",
    "tmdbId": 108978,
    "cert": null,
-   "trailer": "https://www.youtube.com/watch?v=GSycMV-_Csw",
+   "trailer": "https://www.youtube.com/watch?v=PCbp1FfipPg",
    "providers": [
     "Amazon Prime Video",
     "Amazon Prime Video with Ads"
@@ -212,6 +212,42 @@
    "platform": "Amazon Prime Video"
   },
   {
+   "title": "Facing El Chapo",
+   "genre": "Crime / Action",
+   "language": "Spanish",
+   "released": "2026-08-21",
+   "review": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
+   "rating": 8.8,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "8.8/10"
+    }
+   ],
+   "votes": 258,
+   "verdict": "Must watch",
+   "poster": "https://image.tmdb.org/t/p/w342/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
+   "isNew": true,
+   "kind": "movie",
+   "tmdbId": 1621552,
+   "cert": null,
+   "trailer": "https://www.youtube.com/watch?v=Rk0efhpa-5Y",
+   "providers": [
+    "Netflix"
+   ],
+   "cast": [
+    "Alfonso Herrera",
+    "Noé Hernández",
+    "Hector Kotsifakis",
+    "Juan Pablo Cruz García"
+   ],
+   "director": "Chava Cartas",
+   "runtime": 91,
+   "backdrop": "https://image.tmdb.org/t/p/w780/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
+   "fullReview": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
+   "platform": "Netflix"
+  },
+  {
    "title": "Lioness",
    "genre": "Drama / War & Politics",
    "language": "English",
@@ -224,7 +260,7 @@
      "score": "8.1/10"
     }
    ],
-   "votes": 1381,
+   "votes": 1424,
    "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
    "isNew": false,
@@ -249,22 +285,95 @@
    "platform": "Amazon Prime Video"
   },
   {
+   "title": "The Last Sunrise",
+   "genre": "Romance / Drama",
+   "language": "English",
+   "released": "2026-08-26",
+   "review": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to…",
+   "rating": 7.4,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "7.4/10"
+    }
+   ],
+   "votes": 32,
+   "verdict": "Worth a watch",
+   "poster": "https://image.tmdb.org/t/p/w342/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
+   "isNew": true,
+   "kind": "movie",
+   "tmdbId": 1516698,
+   "cert": null,
+   "trailer": "https://www.youtube.com/watch?v=NhI2UpkFAFw",
+   "providers": [
+    "Amazon Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "cast": [
+    "Maia Reficco",
+    "Eva Longoria",
+    "Fernando Lindez",
+    "Chloé Sweetlove"
+   ],
+   "director": "Carlson Young",
+   "runtime": 107,
+   "backdrop": "https://image.tmdb.org/t/p/w780/5lB7yPaRhJHQ9dx7AnvPUi0GZDU.jpg",
+   "fullReview": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
+   "platform": "Amazon Prime Video"
+  },
+  {
+   "title": "Outer Banks",
+   "genre": "Action & Adventure / Mystery",
+   "language": "English",
+   "released": "2020-04-15",
+   "review": "On a North Carolina island of haves and have-nots, John B and his tight-knit crew of friends find mystery and adventure while hunting for lost treasure.",
+   "rating": 8.2,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "8.2/10"
+    }
+   ],
+   "votes": 1247,
+   "verdict": "Must watch",
+   "poster": "https://image.tmdb.org/t/p/w342/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
+   "isNew": false,
+   "kind": "tv",
+   "tmdbId": 100757,
+   "cert": "A",
+   "trailer": "https://www.youtube.com/watch?v=pfY3j-3uQhk",
+   "providers": [
+    "Netflix"
+   ],
+   "cast": [
+    "Chase Stokes",
+    "Madelyn Cline",
+    "Madison Bailey",
+    "Jonathan Daviss"
+   ],
+   "director": "Shannon Burke",
+   "runtime": null,
+   "backdrop": "https://image.tmdb.org/t/p/w780/fjJ0aqDeDXFzmFXXJ4CF3ryB19b.jpg",
+   "fullReview": "On a North Carolina island of haves and have-nots, John B and his tight-knit crew of friends find mystery and adventure while hunting for lost treasure.",
+   "platform": "Netflix"
+  },
+  {
    "title": "Lanterns",
    "genre": "Drama / Mystery",
    "language": "English",
    "released": "2026-08-16",
    "review": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the…",
-   "rating": 8.1,
+   "rating": 8.2,
    "scores": [
     {
      "source": "TMDB",
-     "score": "8.1/10"
+     "score": "8.2/10"
     }
    ],
-   "votes": 120,
+   "votes": 181,
    "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-   "isNew": true,
+   "isNew": false,
    "kind": "tv",
    "tmdbId": 95350,
    "cert": "U/A 16+",
@@ -285,42 +394,6 @@
    "platform": "JioHotstar"
   },
   {
-   "title": "House of the Dragon",
-   "genre": "Sci-Fi & Fantasy / Drama",
-   "language": "English",
-   "released": "2022-08-21",
-   "review": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of…",
-   "rating": 8.4,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "8.4/10"
-    }
-   ],
-   "votes": 7001,
-   "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-   "isNew": false,
-   "kind": "tv",
-   "tmdbId": 94997,
-   "cert": "A",
-   "trailer": "https://www.youtube.com/watch?v=DotnJ7tTA34",
-   "providers": [
-    "JioHotstar"
-   ],
-   "cast": [
-    "Matt Smith",
-    "Emma D'Arcy",
-    "Olivia Cooke",
-    "James Norton"
-   ],
-   "director": "George R.R. Martin",
-   "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-   "fullReview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-   "platform": "JioHotstar"
-  },
-  {
    "title": "Silo",
    "genre": "Sci-Fi & Fantasy / Drama",
    "language": "English",
@@ -333,7 +406,7 @@
      "score": "8.2/10"
     }
    ],
-   "votes": 2464,
+   "votes": 2509,
    "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
    "isNew": false,
@@ -358,42 +431,6 @@
    "platform": "Apple TV"
   },
   {
-   "title": "The Last House",
-   "genre": "Horror / Science Fiction",
-   "language": "English",
-   "released": "2026-08-06",
-   "review": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-   "rating": 6.9,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "6.9/10"
-    }
-   ],
-   "votes": 913,
-   "verdict": "Worth a watch",
-   "poster": "https://image.tmdb.org/t/p/w342/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-   "isNew": false,
-   "kind": "movie",
-   "tmdbId": 1284041,
-   "cert": "U/A 16+",
-   "trailer": "https://www.youtube.com/watch?v=MLxgaz2Zp1k",
-   "providers": [
-    "Netflix"
-   ],
-   "cast": [
-    "Greta Lee",
-    "Wagner Moura",
-    "Riley Chung",
-    "Noah Alexander Sosnowski"
-   ],
-   "director": "Louis Leterrier",
-   "runtime": 110,
-   "backdrop": "https://image.tmdb.org/t/p/w780/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg",
-   "fullReview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-   "platform": "Netflix"
-  },
-  {
    "title": "Ted Lasso",
    "genre": "Drama / Comedy",
    "language": "English",
@@ -406,7 +443,7 @@
      "score": "8.4/10"
     }
    ],
-   "votes": 2569,
+   "votes": 2593,
    "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
    "isNew": false,
@@ -424,54 +461,54 @@
     "Jeremy Swift",
     "Brett Goldstein"
    ],
-   "director": "Jason Sudeikis",
+   "director": "Bill Lawrence",
    "runtime": null,
    "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
    "fullReview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
    "platform": "Apple TV"
   },
   {
-   "title": "Outer Banks",
-   "genre": "Action & Adventure / Mystery",
+   "title": "The Simpsons",
+   "genre": "Animation / Comedy",
    "language": "English",
-   "released": "2020-04-15",
-   "review": "On a North Carolina island of haves and have-nots, John B and his tight-knit crew of friends find mystery and adventure while hunting for lost treasure.",
-   "rating": 8.3,
+   "released": "1989-12-17",
+   "review": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and…",
+   "rating": 8,
    "scores": [
     {
      "source": "TMDB",
-     "score": "8.3/10"
+     "score": "8.0/10"
     }
    ],
-   "votes": 1232,
+   "votes": 10964,
    "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
    "isNew": true,
    "kind": "tv",
-   "tmdbId": 100757,
-   "cert": "A",
-   "trailer": "https://www.youtube.com/watch?v=pfY3j-3uQhk",
+   "tmdbId": 456,
+   "cert": "U/A 13+",
+   "trailer": "https://www.youtube.com/watch?v=_jgYEYERYFQ",
    "providers": [
-    "Netflix"
+    "VI movies and tv"
    ],
    "cast": [
-    "Chase Stokes",
-    "Madelyn Cline",
-    "Madison Bailey",
-    "Jonathan Daviss"
+    "Dan Castellaneta",
+    "Julie Kavner",
+    "Nancy Cartwright",
+    "Yeardley Smith"
    ],
-   "director": "Shannon Burke",
+   "director": "Matt Groening",
    "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/fjJ0aqDeDXFzmFXXJ4CF3ryB19b.jpg",
-   "fullReview": "On a North Carolina island of haves and have-nots, John B and his tight-knit crew of friends find mystery and adventure while hunting for lost treasure.",
-   "platform": "Netflix"
+   "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+   "fullReview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+   "platform": "VI movies and tv"
   },
   {
-   "title": "Futurama",
-   "genre": "Animation / Comedy",
+   "title": "House of the Dragon",
+   "genre": "Sci-Fi & Fantasy / Drama",
    "language": "English",
-   "released": "1999-03-28",
-   "review": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand…",
+   "released": "2022-08-21",
+   "review": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of…",
    "rating": 8.4,
    "scores": [
     {
@@ -479,124 +516,46 @@
      "score": "8.4/10"
     }
    ],
-   "votes": 3860,
+   "votes": 7049,
    "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-   "isNew": true,
+   "poster": "https://image.tmdb.org/t/p/w342/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+   "isNew": false,
    "kind": "tv",
-   "tmdbId": 615,
-   "cert": null,
-   "trailer": "https://www.youtube.com/watch?v=dUHzt5md1x0",
-   "providers": [
-    "JioHotstar",
-    "VI movies and tv"
-   ],
-   "cast": [
-    "Billy West",
-    "Katey Sagal",
-    "John DiMaggio",
-    "Tress MacNeille"
-   ],
-   "director": "Matt Groening",
-   "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
-   "fullReview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-   "platform": "JioHotstar"
-  },
-  {
-   "title": "Lucky",
-   "genre": "Drama / Crime",
-   "language": "English",
-   "released": "2026-07-14",
-   "review": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must…",
-   "rating": 7.2,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "7.2/10"
-    }
-   ],
-   "votes": 178,
-   "verdict": "Worth a watch",
-   "poster": "https://image.tmdb.org/t/p/w342/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
-   "isNew": true,
-   "kind": "tv",
-   "tmdbId": 278624,
+   "tmdbId": 94997,
    "cert": "A",
-   "trailer": "https://www.youtube.com/watch?v=GAbT5qCTXR8",
+   "trailer": "https://www.youtube.com/watch?v=0JlMjgqduVw",
    "providers": [
-    "Apple TV",
-    "Apple TV Amazon Channel"
+    "JioHotstar"
    ],
    "cast": [
-    "Anya Taylor-Joy",
-    "Annette Bening",
-    "Clifton Collins Jr.",
-    "Aunjanue Ellis-Taylor"
+    "Matt Smith",
+    "Emma D'Arcy",
+    "Olivia Cooke",
+    "James Norton"
    ],
-   "director": "Jonathan Tropper",
+   "director": "George R.R. Martin",
    "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
-   "fullReview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
-   "platform": "Apple TV"
+   "backdrop": "https://image.tmdb.org/t/p/w780/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+   "fullReview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+   "platform": "JioHotstar"
   }
  ],
  "comingSoon": [
-  {
-   "title": "Toxic: A Fairy Tale for Grown-ups",
-   "released": "2026-08-26",
-   "genre": "Action / Crime",
-   "language": "Kannada",
-   "review": "As Portuguese rule crumbles in Goa, Raya rises through betrayal and bloodshed to claim the city’s underworld, only to…",
-   "poster": "https://image.tmdb.org/t/p/w342/tZ8eSBXbza96vzCYeVTG9RBJ78E.jpg"
-  },
-  {
-   "title": "Once More",
-   "released": "2026-08-28",
-   "genre": "Music / Romance",
-   "language": "Tamil",
-   "review": "Raghu, a man caught up with a deep hold of grief comes across Anjali, who is spinning everything in her capacity to win…",
-   "poster": "https://image.tmdb.org/t/p/w342/ljk9oaU1AtLYZWULmNLtJdtAKzX.jpg"
-  },
-  {
-   "title": "Maya Satya Bhram",
-   "released": "2026-08-28",
-   "genre": "Drama",
-   "language": "Bengali",
-   "review": "A sub-inspector's eight year-old son goes missing. A researcher in Sweden is disappeared after seven months. Are they…",
-   "poster": "https://image.tmdb.org/t/p/w342/7Km5JTLzJP6BMbiWwhRXyKIazpF.jpg"
-  },
-  {
-   "title": "Hi",
-   "released": "2026-08-28",
-   "genre": "Romance / Drama",
-   "language": "Tamil",
-   "review": "",
-   "poster": "https://image.tmdb.org/t/p/w342/4oXPb2fRTWBmIOxyyj2M64Nx33C.jpg"
-  },
-  {
-   "title": "Your's Sincerely RAAM",
-   "released": "2026-08-28",
-   "genre": "War / Romance",
-   "language": "Kannada",
-   "review": "Upcoming Kannada Film",
-   "poster": "https://image.tmdb.org/t/p/w342/yEDMnig9v99da7eucmX96dcckdz.jpg"
-  },
-  {
-   "title": "Kalari Kid – She Hits Back",
-   "released": "2026-09-01",
-   "genre": "Documentary",
-   "language": "Malayalam",
-   "review": "In a society marked by gendered violence, nine-year-old Arushi and Milena, twenty-one, reclaim space through Kalari—the…",
-   "poster": "https://image.tmdb.org/t/p/w342/nc7lCQWA68w2xq85PHQ2pg53QqZ.jpg"
-  },
   {
    "title": "I'm Game",
    "released": "2026-09-03",
    "genre": "Action / Thriller",
    "language": "Malayalam",
    "review": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his…",
-   "poster": "https://image.tmdb.org/t/p/w342/pHek88ShMFFkueZ6GsrfsN0sc2L.jpg"
+   "poster": "https://image.tmdb.org/t/p/w342/6kYNY7Gdz16wy2DUaWx5cywchR8.jpg"
+  },
+  {
+   "title": "Romanchakam",
+   "released": "2026-09-03",
+   "genre": "Romance / Comedy",
+   "language": "Telugu",
+   "review": "A cocky engineering grad starts a dating app to prove he can succeed at anything. But a mysterious online connection…",
+   "poster": null
   },
   {
    "title": "DELIVERY BOY",
@@ -605,6 +564,46 @@
    "language": "Tamil",
    "review": "A young food delivery rider, who dreams of becoming a police officer, is forced to steal money to save his critically…",
    "poster": "https://image.tmdb.org/t/p/w342/5JykVg5yWm5QiFyeEBq3diDmI5.jpg"
+  },
+  {
+   "title": "Law & Order",
+   "released": "2026-09-04",
+   "genre": "Crime / Thriller",
+   "language": "Malayalam",
+   "review": "",
+   "poster": "https://image.tmdb.org/t/p/w342/kOxmjIcNGx5Yq7Nms4oLWNDWrr1.jpg"
+  },
+  {
+   "title": "Ramba Oorvasi Menaka",
+   "released": "2026-09-04",
+   "genre": "Comedy / Drama",
+   "language": "Telugu",
+   "review": "",
+   "poster": "https://image.tmdb.org/t/p/w342/2cYbNSUx4HAlc6MMbB9ouST2X7e.jpg"
+  },
+  {
+   "title": "Mirzapur: The Movie",
+   "released": "2026-09-04",
+   "genre": "Crime / Thriller",
+   "language": "Hindi",
+   "review": "The battle for Mirzapur's throne escalates as old enemies resurface and new threats emerge. Blood debts must be paid…",
+   "poster": "https://image.tmdb.org/t/p/w342/jAt8u6MMIMnExmG6bN02EQyB0KR.jpg"
+  },
+  {
+   "title": "Immortal",
+   "released": "2026-09-04",
+   "genre": "Romance / Thriller",
+   "language": "Tamil",
+   "review": "An unsuspecting man finds himself at the center of a series of mysterious deaths, forcing him to confront a truth that…",
+   "poster": "https://image.tmdb.org/t/p/w342/8Ev68TZqunJ31uvn7cbchALeDkn.jpg"
+  },
+  {
+   "title": "Demonte Colony 3",
+   "released": "2026-09-10",
+   "genre": "Horror / Thriller",
+   "language": "Tamil",
+   "review": "",
+   "poster": "https://image.tmdb.org/t/p/w342/rtIXvC3ShBY6dyogJYTkoTxB48D.jpg"
   }
  ]
 }

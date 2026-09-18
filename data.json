@@ -1,90 +1,22 @@
 {
- "generatedAt": "2026-09-11T08:10:32.240Z",
- "pick": "Mayday",
+ "generatedAt": "2026-09-18T08:22:30.794Z",
+ "pick": "Bleach",
  "theatres": [
-  {
-   "title": "Mutiny",
-   "genre": "Action / Thriller",
-   "language": "English",
-   "released": "2026-08-21",
-   "review": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only…",
-   "rating": 6.4,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "6.4/10"
-    }
-   ],
-   "votes": 349,
-   "verdict": "Decent one-time watch",
-   "poster": "https://image.tmdb.org/t/p/w342/pu2VxGlpGwffOx292w18b1tv96j.jpg",
-   "isNew": false,
-   "kind": "movie",
-   "tmdbId": 1288445,
-   "platform": "Theatres",
-   "cert": "A",
-   "trailer": "https://www.youtube.com/watch?v=2Iqvbe98Gb4",
-   "providers": [],
-   "cast": [
-    "Jason Statham",
-    "Annabelle Wallis",
-    "Roland Møller",
-    "Ramon Tikaram"
-   ],
-   "director": "Jean-François Richet",
-   "runtime": 95,
-   "backdrop": "https://image.tmdb.org/t/p/w780/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
-   "fullReview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy."
-  },
-  {
-   "title": "Toxic: A Fairy Tale for Grown-ups",
-   "genre": "Action / Crime",
-   "language": "Kannada",
-   "released": "2026-08-26",
-   "review": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of…",
-   "rating": 7.9,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "7.9/10"
-    }
-   ],
-   "votes": 71,
-   "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
-   "isNew": false,
-   "kind": "movie",
-   "tmdbId": 1213243,
-   "platform": "Theatres",
-   "cert": "A",
-   "trailer": "https://www.youtube.com/watch?v=EfluEyQ5QIA",
-   "providers": [],
-   "cast": [
-    "Yash",
-    "Kiara Advani",
-    "Nayanthara",
-    "Huma Qureshi"
-   ],
-   "director": "Geetu Mohandas",
-   "runtime": 192,
-   "backdrop": "https://image.tmdb.org/t/p/w780/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
-   "fullReview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule."
-  },
   {
    "title": "The End of Oak Street",
    "genre": "Science Fiction / Mystery",
    "language": "English",
    "released": "2026-08-14",
    "review": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that…",
-   "rating": 6.3,
+   "rating": 6.9,
    "scores": [
     {
      "source": "TMDB",
-     "score": "6.3/10"
+     "score": "6.9/10"
     }
    ],
-   "votes": 469,
-   "verdict": "Decent one-time watch",
+   "votes": 1020,
+   "verdict": "Worth a watch",
    "poster": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
    "isNew": false,
    "kind": "movie",
@@ -105,6 +37,76 @@
    "fullReview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings."
   },
   {
+   "title": "Mutiny",
+   "genre": "Action / Thriller",
+   "language": "English",
+   "released": "2026-08-21",
+   "review": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only…",
+   "rating": 6.4,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "6.4/10"
+    }
+   ],
+   "votes": 411,
+   "verdict": "Decent one-time watch",
+   "poster": "https://image.tmdb.org/t/p/w342/pu2VxGlpGwffOx292w18b1tv96j.jpg",
+   "isNew": false,
+   "kind": "movie",
+   "tmdbId": 1288445,
+   "platform": "Theatres",
+   "cert": "A",
+   "trailer": "https://www.youtube.com/watch?v=2Iqvbe98Gb4",
+   "providers": [],
+   "cast": [
+    "Jason Statham",
+    "Annabelle Wallis",
+    "Roland Møller",
+    "Ramon Tikaram"
+   ],
+   "director": "Jean-François Richet",
+   "runtime": 96,
+   "backdrop": "https://image.tmdb.org/t/p/w780/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+   "fullReview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy."
+  },
+  {
+   "title": "Vishwanath & Sons",
+   "genre": "Drama / Romance",
+   "language": "Tamil",
+   "released": "2026-08-14",
+   "review": "A celebrated Olympian shooter travels to America looking for a donor to help his sick child — but unexpected romance complicates his search.",
+   "rating": 7.1,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "7.1/10"
+    }
+   ],
+   "votes": 24,
+   "verdict": "Worth a watch",
+   "poster": "https://image.tmdb.org/t/p/w342/mLsvCffzpxxDwC7yVLJSLLjgzoq.jpg",
+   "isNew": true,
+   "kind": "movie",
+   "tmdbId": 1408162,
+   "platform": "Theatres",
+   "cert": "U/A 16+",
+   "trailer": null,
+   "providers": [
+    "Netflix"
+   ],
+   "cast": [
+    "Suriya",
+    "Mamitha Baiju",
+    "Radhika Sarathkumar",
+    "Raveena Tandon"
+   ],
+   "director": "Venky Atluri",
+   "runtime": 161,
+   "backdrop": "https://image.tmdb.org/t/p/w780/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg",
+   "fullReview": "A celebrated Olympian shooter travels to America looking for a donor to help his sick child — but unexpected romance complicates his search."
+  },
+  {
    "title": "Insidious: Out of the Further",
    "genre": "Horror / Thriller",
    "language": "English",
@@ -117,8 +119,8 @@
      "score": "6.5/10"
     }
    ],
-   "votes": 133,
-   "verdict": "Decent one-time watch",
+   "votes": 154,
+   "verdict": "Worth a watch",
    "poster": "https://image.tmdb.org/t/p/w342/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
    "isNew": false,
    "kind": "movie",
@@ -130,8 +132,8 @@
    "cast": [
     "Amelia Eve",
     "Island Austin",
-    "Lin Shaye",
-    "Sam Spruell"
+    "Brandon Perea",
+    "Lin Shaye"
    ],
    "director": "Jacob Chase",
    "runtime": 106,
@@ -139,38 +141,38 @@
    "fullReview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world."
   },
   {
-   "title": "Hanuman Ansh",
-   "genre": "Family / Drama",
-   "language": "Hindi",
-   "released": "2026-08-07",
-   "review": "A grieving boy seeks God to meet his departed mother, and in finding the divine, learns to serve humanity with miracles of love, food and silent blessings,…",
-   "rating": 8.6,
+   "title": "Toxic: A Fairy Tale for Grown-ups",
+   "genre": "Action / Crime",
+   "language": "Kannada",
+   "released": "2026-08-26",
+   "review": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of…",
+   "rating": 8,
    "scores": [
     {
      "source": "TMDB",
-     "score": "8.6/10"
+     "score": "8.0/10"
     }
    ],
-   "votes": 10,
+   "votes": 73,
    "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/as2Y3zGUa2IUS3uAx2sh6Ano3es.jpg",
-   "isNew": true,
+   "poster": "https://image.tmdb.org/t/p/w342/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
+   "isNew": false,
    "kind": "movie",
-   "tmdbId": 1709391,
+   "tmdbId": 1213243,
    "platform": "Theatres",
-   "cert": "U",
-   "trailer": "https://www.youtube.com/watch?v=YpGhCA2X3gU",
+   "cert": "A",
+   "trailer": "https://www.youtube.com/watch?v=EfluEyQ5QIA",
    "providers": [],
    "cast": [
-    "Chandan Anand",
-    "Shobhinaw Satyaa",
-    "Purnima Tiwari",
-    "Vihaan Shedge"
+    "Yash",
+    "Kiara Advani",
+    "Nayanthara",
+    "Huma Qureshi"
    ],
-   "director": "Vishal Chaturvedi",
-   "runtime": 150,
-   "backdrop": "https://image.tmdb.org/t/p/w780/tKYOK8iMxkhJhug3LJ2yvC5QY8M.jpg",
-   "fullReview": "A grieving boy seeks God to meet his departed mother, and in finding the divine, learns to serve humanity with miracles of love, food and silent blessings, becoming Hanuman Ansh, Neem Karoli Baba."
+   "director": "Geetu Mohandas",
+   "runtime": 192,
+   "backdrop": "https://image.tmdb.org/t/p/w780/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
+   "fullReview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule."
   }
  ],
  "ott": [
@@ -187,14 +189,14 @@
      "score": "8.1/10"
     }
    ],
-   "votes": 3264,
+   "votes": 3339,
    "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
    "isNew": false,
    "kind": "tv",
    "tmdbId": 108978,
    "cert": null,
-   "trailer": "https://www.youtube.com/watch?v=PCbp1FfipPg",
+   "trailer": "https://www.youtube.com/watch?v=GSycMV-_Csw",
    "providers": [
     "Amazon Prime Video",
     "Amazon Prime Video with Ads"
@@ -224,7 +226,7 @@
      "score": "8.2/10"
     }
    ],
-   "votes": 1511,
+   "votes": 1560,
    "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
    "isNew": false,
@@ -249,43 +251,6 @@
    "platform": "Amazon Prime Video"
   },
   {
-   "title": "Silo",
-   "genre": "Sci-Fi & Fantasy / Drama",
-   "language": "English",
-   "released": "2023-05-04",
-   "review": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously,…",
-   "rating": 8.2,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "8.2/10"
-    }
-   ],
-   "votes": 2633,
-   "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-   "isNew": false,
-   "kind": "tv",
-   "tmdbId": 125988,
-   "cert": "A",
-   "trailer": "https://www.youtube.com/watch?v=8ZYhuvIv1pA",
-   "providers": [
-    "Apple TV",
-    "Apple TV Amazon Channel"
-   ],
-   "cast": [
-    "Rebecca Ferguson",
-    "Common",
-    "Chinaza Uche",
-    "Ashley Zukerman"
-   ],
-   "director": "Graham Yost",
-   "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-   "fullReview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-   "platform": "Apple TV"
-  },
-  {
    "title": "Ted Lasso",
    "genre": "Drama / Comedy",
    "language": "English",
@@ -298,7 +263,7 @@
      "score": "8.4/10"
     }
    ],
-   "votes": 2638,
+   "votes": 2665,
    "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
    "isNew": false,
@@ -323,79 +288,6 @@
    "platform": "Apple TV"
   },
   {
-   "title": "Mayday",
-   "genre": "Action / Comedy",
-   "language": "English",
-   "released": "2026-09-03",
-   "review": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an…",
-   "rating": 7.8,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "7.8/10"
-    }
-   ],
-   "votes": 390,
-   "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
-   "isNew": true,
-   "kind": "movie",
-   "tmdbId": 1137844,
-   "cert": "U/A 16+",
-   "trailer": "https://www.youtube.com/watch?v=om5Un9X720M",
-   "providers": [
-    "Apple TV",
-    "Apple TV Amazon Channel"
-   ],
-   "cast": [
-    "Ryan Reynolds",
-    "Kenneth Branagh",
-    "Marcin Dorociński",
-    "Maria Bakalova"
-   ],
-   "director": "Jonathan Goldstein",
-   "runtime": 111,
-   "backdrop": "https://image.tmdb.org/t/p/w780/4gyx49ibwQslyrwuUS1c58PJEEd.jpg",
-   "fullReview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
-   "platform": "Apple TV"
-  },
-  {
-   "title": "The Gentlemen",
-   "genre": "Comedy / Drama",
-   "language": "English",
-   "released": "2024-03-07",
-   "review": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.",
-   "rating": 7.8,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "7.8/10"
-    }
-   ],
-   "votes": 895,
-   "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
-   "isNew": true,
-   "kind": "tv",
-   "tmdbId": 236235,
-   "cert": "A",
-   "trailer": "https://www.youtube.com/watch?v=wyEOwHrpZH4",
-   "providers": [
-    "Netflix"
-   ],
-   "cast": [
-    "Theo James",
-    "Kaya Scodelario",
-    "Daniel Ings",
-    "Joely Richardson"
-   ],
-   "director": "Guy Ritchie",
-   "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
-   "fullReview": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.",
-   "platform": "Netflix"
-  },
-  {
    "title": "Lanterns",
    "genre": "Drama / Mystery",
    "language": "English",
@@ -408,7 +300,7 @@
      "score": "8.3/10"
     }
    ],
-   "votes": 307,
+   "votes": 354,
    "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
    "isNew": false,
@@ -427,9 +319,83 @@
    ],
    "director": "Damon Lindelof",
    "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w780/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
    "fullReview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
    "platform": "JioHotstar"
+  },
+  {
+   "title": "Silo",
+   "genre": "Sci-Fi & Fantasy / Drama",
+   "language": "English",
+   "released": "2023-05-04",
+   "review": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously,…",
+   "rating": 8.2,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "8.2/10"
+    }
+   ],
+   "votes": 2682,
+   "verdict": "Must watch",
+   "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+   "isNew": false,
+   "kind": "tv",
+   "tmdbId": 125988,
+   "cert": "A",
+   "trailer": "https://www.youtube.com/watch?v=8ZYhuvIv1pA",
+   "providers": [
+    "Apple TV",
+    "Apple TV Amazon Channel"
+   ],
+   "cast": [
+    "Rebecca Ferguson",
+    "Common",
+    "Chinaza Uche",
+    "Ashley Zukerman"
+   ],
+   "director": "Graham Yost",
+   "runtime": null,
+   "backdrop": "https://image.tmdb.org/t/p/w780/fQGrzO0Iwo7CO4b2zVdJLkcnhwK.jpg",
+   "fullReview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+   "platform": "Apple TV"
+  },
+  {
+   "title": "Drawn Together",
+   "genre": "Romance / Thriller",
+   "language": "Spanish",
+   "released": "2026-09-09",
+   "review": "Marfil, daughter of a powerful Spanish businessman, sees her life in New York turned upside down when she is kidnapped and released without explanation. Her…",
+   "rating": 6.6,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "6.6/10"
+    }
+   ],
+   "votes": 89,
+   "verdict": "Worth a watch",
+   "poster": "https://image.tmdb.org/t/p/w342/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
+   "isNew": false,
+   "kind": "movie",
+   "tmdbId": 1440098,
+   "cert": null,
+   "trailer": "https://www.youtube.com/watch?v=WlGzP8FvsfY",
+   "providers": [
+    "Amazon Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "cast": [
+    "Ester Expósito",
+    "Hugo Diego Garcia",
+    "Pablo Molinero",
+    "Lluís Homar"
+   ],
+   "director": "Óscar Pedraza",
+   "runtime": 104,
+   "backdrop": "https://image.tmdb.org/t/p/w780/i65y7cMae36K0giN0GRaMjAHUru.jpg",
+   "fullReview": "Marfil, daughter of a powerful Spanish businessman, sees her life in New York turned upside down when she is kidnapped and released without explanation. Her father hires Sebastian Moore as bodyguard and, forced to spend every minute together, an inevitable attraction ignites in a world where nothing is as it seems.",
+   "platform": "Amazon Prime Video"
   },
   {
    "title": "The Runner",
@@ -437,14 +403,14 @@
    "language": "English",
    "released": "2026-09-03",
    "review": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep…",
-   "rating": 6.7,
+   "rating": 6.8,
    "scores": [
     {
      "source": "TMDB",
-     "score": "6.7/10"
+     "score": "6.8/10"
     }
    ],
-   "votes": 373,
+   "votes": 505,
    "verdict": "Worth a watch",
    "poster": "https://image.tmdb.org/t/p/w342/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
    "isNew": false,
@@ -469,128 +435,120 @@
    "platform": "Amazon Prime Video"
   },
   {
-   "title": "Drawn Together",
-   "genre": "Romance / Thriller",
-   "language": "Spanish",
-   "released": "2026-09-09",
-   "review": "Marfil Cortés, a daughter of a wealthy Spanish businessman, is kidnapped and released, leading her father to hire Sebastian Moore as a bodyguard. Despite…",
-   "rating": 6.7,
+   "title": "Bleach",
+   "genre": "Action & Adventure / Animation",
+   "language": "Japanese",
+   "released": "2004-10-05",
+   "review": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows,…",
+   "rating": 8.3,
    "scores": [
     {
      "source": "TMDB",
-     "score": "6.7/10"
+     "score": "8.3/10"
     }
    ],
-   "votes": 33,
-   "verdict": "Worth a watch",
-   "poster": "https://image.tmdb.org/t/p/w342/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
+   "votes": 2271,
+   "verdict": "Must watch",
+   "poster": "https://image.tmdb.org/t/p/w342/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
    "isNew": true,
-   "kind": "movie",
-   "tmdbId": 1440098,
+   "kind": "tv",
+   "tmdbId": 30984,
+   "cert": "U",
+   "trailer": "https://www.youtube.com/watch?v=0c4IoCA5fY0",
+   "providers": [
+    "Netflix",
+    "Crunchyroll",
+    "Sony Liv",
+    "Crunchyroll Amazon Channel"
+   ],
+   "cast": [
+    "Masakazu Morita",
+    "Fumiko Orikasa",
+    "Hiroki Yasumoto",
+    "Yuki Matsuoka"
+   ],
+   "director": null,
+   "runtime": 24,
+   "backdrop": "https://image.tmdb.org/t/p/w780/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+   "fullReview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+   "platform": "Netflix"
+  },
+  {
+   "title": "Slow Horses",
+   "genre": "Crime / Drama",
+   "language": "English",
+   "released": "2022-04-01",
+   "review": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to…",
+   "rating": 8,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "8.0/10"
+    }
+   ],
+   "votes": 982,
+   "verdict": "Must watch",
+   "poster": "https://image.tmdb.org/t/p/w342/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+   "isNew": true,
+   "kind": "tv",
+   "tmdbId": 95480,
+   "cert": "A",
+   "trailer": "https://www.youtube.com/watch?v=O9ZJChzPn0U",
+   "providers": [
+    "Apple TV",
+    "Apple TV Amazon Channel"
+   ],
+   "cast": [
+    "Gary Oldman",
+    "Jack Lowden",
+    "Kristin Scott Thomas",
+    "Hugo Weaving"
+   ],
+   "director": null,
+   "runtime": null,
+   "backdrop": "https://image.tmdb.org/t/p/w780/bDfboQUb45Cv9MYyVBDZw8M8xSM.jpg",
+   "fullReview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+   "platform": "Apple TV"
+  },
+  {
+   "title": "Neagley",
+   "genre": "Drama / Mystery",
+   "language": "English",
+   "released": "2026-09-16",
+   "review": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she…",
+   "rating": 7.9,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "7.9/10"
+    }
+   ],
+   "votes": 44,
+   "verdict": "Must watch",
+   "poster": "https://image.tmdb.org/t/p/w342/lKOPmO0ah17ogQ9hWg7lSd40kIr.jpg",
+   "isNew": true,
+   "kind": "tv",
+   "tmdbId": 273207,
    "cert": null,
-   "trailer": "https://www.youtube.com/watch?v=WlGzP8FvsfY",
+   "trailer": "https://www.youtube.com/watch?v=BOzNaa_o9_g",
    "providers": [
     "Amazon Prime Video",
     "Amazon Prime Video with Ads"
    ],
    "cast": [
-    "Ester Expósito",
-    "Hugo Diego Garcia",
-    "Eric Masip",
-    "Pablo Molinero"
+    "Maria Sten",
+    "Greyston Holt",
+    "Adeline Rudolph",
+    "Matthew Del Negro"
    ],
-   "director": "Óscar Pedraza",
-   "runtime": 104,
-   "backdrop": "https://image.tmdb.org/t/p/w780/i65y7cMae36K0giN0GRaMjAHUru.jpg",
-   "fullReview": "Marfil Cortés, a daughter of a wealthy Spanish businessman, is kidnapped and released, leading her father to hire Sebastian Moore as a bodyguard. Despite initial clashes, they form an irremediable attraction, navigating a world where no one is who they say they are.",
+   "director": "Nick Santora",
+   "runtime": null,
+   "backdrop": "https://image.tmdb.org/t/p/w780/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
+   "fullReview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
    "platform": "Amazon Prime Video"
-  },
-  {
-   "title": "Fauda",
-   "genre": "Drama / Action & Adventure",
-   "language": "he",
-   "released": "2015-02-15",
-   "review": "A top Israeli agent comes out of retirement to hunt for a Palestinian militant he thought he'd killed, setting a chaotic chain of events into motion.",
-   "rating": 7.4,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "7.4/10"
-    }
-   ],
-   "votes": 271,
-   "verdict": "Worth a watch",
-   "poster": "https://image.tmdb.org/t/p/w342/bc6XIKP1TrnugYMzIIUz9YCL8VM.jpg",
-   "isNew": true,
-   "kind": "tv",
-   "tmdbId": 69557,
-   "cert": null,
-   "trailer": "https://www.youtube.com/watch?v=m5zcu25_IG0",
-   "providers": [
-    "Netflix"
-   ],
-   "cast": [
-    "Lior Raz",
-    "Netta Garti",
-    "Doron Ben-David",
-    "Rona-Lee Shimon"
-   ],
-   "director": "Avi Issacharoff",
-   "runtime": 43,
-   "backdrop": "https://image.tmdb.org/t/p/w780/l7BDJsD2zRYHvu3G7qV1v7q5hoF.jpg",
-   "fullReview": "A top Israeli agent comes out of retirement to hunt for a Palestinian militant he thought he'd killed, setting a chaotic chain of events into motion.",
-   "platform": "Netflix"
   }
  ],
  "comingSoon": [
-  {
-   "title": "Enna Vilai",
-   "released": "2026-09-17",
-   "genre": "Drama / Thriller",
-   "language": "Tamil",
-   "review": "",
-   "poster": "https://image.tmdb.org/t/p/w342/cfDAwfo6z4KRAe9Cqv7mOzhc2I5.jpg"
-  },
-  {
-   "title": "Law & Order",
-   "released": "2026-09-18",
-   "genre": "Crime / Thriller",
-   "language": "Malayalam",
-   "review": "",
-   "poster": "https://image.tmdb.org/t/p/w342/kOxmjIcNGx5Yq7Nms4oLWNDWrr1.jpg"
-  },
-  {
-   "title": "Daayra",
-   "released": "2026-09-18",
-   "genre": "Crime / Drama",
-   "language": "Hindi",
-   "review": "Raman, who has had a shady record with staged encounters and police brutality, finds himself cornered as Ajooni…",
-   "poster": "https://image.tmdb.org/t/p/w342/eAsR8oCZGCOqaxDVt0c0WrRFjrn.jpg"
-  },
-  {
-   "title": "Rage",
-   "released": "2026-09-18",
-   "genre": "Thriller",
-   "language": "Tamil",
-   "review": "Anbu, a taxi driver from Kannagi Nagar, meets Regina, a mute IT employee, during his regular trips and falls for her.…",
-   "poster": "https://image.tmdb.org/t/p/w342/AkHcgW99FWcbJWKh7zmbxQaIDMf.jpg"
-  },
-  {
-   "title": "Vibe",
-   "released": "2026-09-18",
-   "genre": "Comedy / Drama",
-   "language": "Hindi",
-   "review": "Two inseparable friends' ordinary, unassuming lives spiral into an unpredictable, high-energy adventure that pushes…",
-   "poster": "https://image.tmdb.org/t/p/w342/1K2cYaK42vcQkg1iITxF6xcbJrs.jpg"
-  },
-  {
-   "title": "NCT 127 5TH TOUR ‘NEO CITY  SEOUL - THE REDLINE’ in CINEMAS",
-   "released": "2026-09-20",
-   "genre": "Music",
-   "language": "Korean",
-   "review": "Back after almost two years, NCT 127's fifth tour,  NCT 127 5TH TOUR ‘NEO CITY : SEOUL - THE REDLINE’, is coming live…",
-   "poster": "https://image.tmdb.org/t/p/w342/yvD0TWLNHlyP9dNHStjFV8v68nP.jpg"
-  },
   {
    "title": "The Paradise",
    "released": "2026-09-24",
@@ -600,12 +558,60 @@
    "poster": "https://image.tmdb.org/t/p/w342/9k5F5Lk2bUP7ODifk1KP5Vw8yGm.jpg"
   },
   {
+   "title": "Hope",
+   "released": "2026-09-25",
+   "genre": "Science Fiction / Mystery",
+   "language": "Korean",
+   "review": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate…",
+   "poster": "https://image.tmdb.org/t/p/w342/1n37BJchWHLiSYQkuFxe5KjB951.jpg"
+  },
+  {
+   "title": "Runner",
+   "released": "2026-09-25",
+   "genre": "Action / Comedy",
+   "language": "English",
+   "review": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely…",
+   "poster": "https://image.tmdb.org/t/p/w342/yBKMAIj7clP42UkFejhGDBBoTpb.jpg"
+  },
+  {
    "title": "Forgotten Island",
    "released": "2026-09-25",
    "genre": "Animation / Adventure",
    "language": "English",
    "review": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a…",
    "poster": "https://image.tmdb.org/t/p/w342/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg"
+  },
+  {
+   "title": "Primetime",
+   "released": "2026-09-25",
+   "genre": "Crime / Drama",
+   "language": "English",
+   "review": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
+   "poster": "https://image.tmdb.org/t/p/w342/lmrulvLbmaejTix1YaMxo1oGhH1.jpg"
+  },
+  {
+   "title": "The Vvaan",
+   "released": "2026-09-25",
+   "genre": "Action / Adventure",
+   "language": "Hindi",
+   "review": "A rational urban man defies his ancestral forbidden forest & awakens a divine goddess, only to realise that some powers…",
+   "poster": "https://image.tmdb.org/t/p/w342/4zj0EEHQrfNtPEnASlqCLNyeQa7.jpg"
+  },
+  {
+   "title": "Meesaya Murukku 2",
+   "released": "2026-09-25",
+   "genre": "Comedy / Romance",
+   "language": "Tamil",
+   "review": "Set in North Chennai, the story brings together three generations of musicians whose lives are shaped by their love for…",
+   "poster": "https://image.tmdb.org/t/p/w342/qD1QwmInB9ezd2peVb5EbhaM4Mo.jpg"
+  },
+  {
+   "title": "Dorothy",
+   "released": "2026-09-25",
+   "genre": "Action / Adventure",
+   "language": "Tamil",
+   "review": "Set in a world shaped by caste, violence, and toxic masculinity, two childhood friends grow up inseparable in rural…",
+   "poster": "https://image.tmdb.org/t/p/w342/3RnxzfJ66aKrb7TIxsozj1DkWtU.jpg"
   }
  ]
 }

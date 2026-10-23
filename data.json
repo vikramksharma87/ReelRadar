@@ -1,7 +1,143 @@
 {
- "generatedAt": "2026-10-16T08:20:11.588Z",
- "pick": "Take Charge of My Heart",
+ "generatedAt": "2026-10-23T08:42:04.269Z",
+ "pick": "The Apothecary Diaries",
  "theatres": [
+  {
+   "title": "Hope",
+   "genre": "Science Fiction / Mystery",
+   "language": "Korean",
+   "released": "2026-09-25",
+   "review": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on…",
+   "rating": 6.9,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "6.9/10"
+    }
+   ],
+   "votes": 298,
+   "verdict": "Worth a watch",
+   "poster": "https://image.tmdb.org/t/p/w342/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
+   "isNew": false,
+   "kind": "movie",
+   "tmdbId": 1058424,
+   "platform": "Theatres",
+   "cert": "A",
+   "trailer": "https://www.youtube.com/watch?v=OFaJzL83y0Q",
+   "providers": [],
+   "cast": [
+    "Hwang Jung-min",
+    "Zo In-sung",
+    "Hoyeon",
+    "Alicia Vikander"
+   ],
+   "director": "Na Hong-jin",
+   "runtime": 157,
+   "backdrop": "https://image.tmdb.org/t/p/w780/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
+   "fullReview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions."
+  },
+  {
+   "title": "Street Fighter",
+   "genre": "Action / Fantasy",
+   "language": "English",
+   "released": "2026-10-16",
+   "review": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior…",
+   "rating": 6.3,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "6.3/10"
+    }
+   ],
+   "votes": 151,
+   "verdict": "Decent one-time watch",
+   "poster": "https://image.tmdb.org/t/p/w342/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
+   "isNew": false,
+   "kind": "movie",
+   "tmdbId": 1153576,
+   "platform": "Theatres",
+   "cert": "U/A 16+",
+   "trailer": "https://www.youtube.com/watch?v=U6sbm1OaJb8",
+   "providers": [],
+   "cast": [
+    "Andrew Koji",
+    "Noah Centineo",
+    "Callina Liang",
+    "David Dastmalchian"
+   ],
+   "director": "Kitao Sakurai",
+   "runtime": 120,
+   "backdrop": "https://image.tmdb.org/t/p/w780/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg",
+   "fullReview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!"
+  },
+  {
+   "title": "Fall 2: Deadpoint",
+   "genre": "Thriller",
+   "language": "English",
+   "released": "2026-09-17",
+   "review": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer…",
+   "rating": 7.3,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "7.3/10"
+    }
+   ],
+   "votes": 615,
+   "verdict": "Worth a watch",
+   "poster": "https://image.tmdb.org/t/p/w342/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+   "isNew": false,
+   "kind": "movie",
+   "tmdbId": 1101412,
+   "platform": "Theatres",
+   "cert": "U/A 13+",
+   "trailer": "https://www.youtube.com/watch?v=Krs0VDIjhmE",
+   "providers": [],
+   "cast": [
+    "Harriet Slater",
+    "Arsema Thomas",
+    "Tom Brittney",
+    "Sahajak Boonthanakit"
+   ],
+   "director": "Michael Spierig",
+   "runtime": 98,
+   "backdrop": "https://image.tmdb.org/t/p/w780/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
+   "fullReview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival."
+  },
+  {
+   "title": "Clayface",
+   "genre": "Horror / Thriller",
+   "language": "English",
+   "released": "2026-10-23",
+   "review": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly…",
+   "rating": 7.5,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "7.5/10"
+    }
+   ],
+   "votes": 62,
+   "verdict": "Worth a watch",
+   "poster": "https://image.tmdb.org/t/p/w342/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
+   "isNew": true,
+   "kind": "movie",
+   "tmdbId": 1400940,
+   "platform": "Theatres",
+   "cert": "A",
+   "trailer": "https://www.youtube.com/watch?v=f7jlCqdtwdM",
+   "providers": [],
+   "cast": [
+    "Tom Rhys Harries",
+    "Naomi Ackie",
+    "Eddie Marsan",
+    "Max Minghella"
+   ],
+   "director": "James Watkins",
+   "runtime": 109,
+   "backdrop": "https://image.tmdb.org/t/p/w780/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
+   "fullReview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge."
+  },
   {
    "title": "Resident Evil",
    "genre": "Horror / Science Fiction",
@@ -15,7 +151,7 @@
      "score": "7.3/10"
     }
    ],
-   "votes": 951,
+   "votes": 1030,
    "verdict": "Worth a watch",
    "poster": "https://image.tmdb.org/t/p/w342/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
    "isNew": false,
@@ -35,13 +171,88 @@
    "runtime": 95,
    "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
    "fullReview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  }
+ ],
+ "ott": [
+  {
+   "title": "Slow Horses",
+   "genre": "Crime / Drama",
+   "language": "English",
+   "released": "2022-04-01",
+   "review": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to…",
+   "rating": 8.1,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "8.1/10"
+    }
+   ],
+   "votes": 1070,
+   "verdict": "Must watch",
+   "poster": "https://image.tmdb.org/t/p/w342/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+   "isNew": true,
+   "kind": "tv",
+   "tmdbId": 95480,
+   "cert": "A",
+   "trailer": "https://www.youtube.com/watch?v=O9ZJChzPn0U",
+   "providers": [
+    "Apple TV",
+    "Apple TV Amazon Channel"
+   ],
+   "cast": [
+    "Gary Oldman",
+    "Jack Lowden",
+    "Kristin Scott Thomas",
+    "Hugo Weaving"
+   ],
+   "director": null,
+   "runtime": null,
+   "backdrop": "https://image.tmdb.org/t/p/w780/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+   "fullReview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+   "platform": "Apple TV"
   },
   {
-   "title": "Runner",
-   "genre": "Action / Comedy",
+   "title": "MobLand",
+   "genre": "Crime / Drama",
    "language": "English",
-   "released": "2026-09-25",
-   "review": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless…",
+   "released": "2025-03-30",
+   "review": "Two mob families clash in a war that threatens to topple empires and lives.",
+   "rating": 8.5,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "8.5/10"
+    }
+   ],
+   "votes": 1071,
+   "verdict": "Must watch",
+   "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+   "isNew": false,
+   "kind": "tv",
+   "tmdbId": 247718,
+   "cert": "A",
+   "trailer": "https://www.youtube.com/watch?v=qKGgw7Ob5f4",
+   "providers": [
+    "JioHotstar"
+   ],
+   "cast": [
+    "Tom Hardy",
+    "Pierce Brosnan",
+    "Paddy Considine",
+    "Joanne Froggatt"
+   ],
+   "director": "Ronan Bennett",
+   "runtime": null,
+   "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+   "fullReview": "Two mob families clash in a war that threatens to topple empires and lives.",
+   "platform": "JioHotstar"
+  },
+  {
+   "title": "Tulsa King",
+   "genre": "Crime / Drama",
+   "language": "English",
+   "released": "2022-11-13",
+   "review": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing…",
    "rating": 8.3,
    "scores": [
     {
@@ -49,167 +260,65 @@
      "score": "8.3/10"
     }
    ],
-   "votes": 575,
+   "votes": 2853,
    "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-   "isNew": false,
-   "kind": "movie",
-   "tmdbId": 1377237,
-   "platform": "Theatres",
-   "cert": "A",
-   "trailer": "https://www.youtube.com/watch?v=B6Z9MM1LhEA",
-   "providers": [],
-   "cast": [
-    "Alan Ritchson",
-    "Owen Wilson",
-    "Rodrigo Santoro",
-    "Leila George"
-   ],
-   "director": "Scott Waugh",
-   "runtime": 97,
-   "backdrop": "https://image.tmdb.org/t/p/w780/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
-   "fullReview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl."
-  },
-  {
-   "title": "Hope",
-   "genre": "Science Fiction / Mystery",
-   "language": "Korean",
-   "released": "2026-09-25",
-   "review": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on…",
-   "rating": 7.1,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "7.1/10"
-    }
-   ],
-   "votes": 184,
-   "verdict": "Worth a watch",
-   "poster": "https://image.tmdb.org/t/p/w342/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
    "isNew": true,
-   "kind": "movie",
-   "tmdbId": 1058424,
-   "platform": "Theatres",
+   "kind": "tv",
+   "tmdbId": 153312,
    "cert": "A",
-   "trailer": "https://www.youtube.com/watch?v=OFaJzL83y0Q",
-   "providers": [],
-   "cast": [
-    "Hwang Jung-min",
-    "Zo In-sung",
-    "Hoyeon",
-    "Alicia Vikander"
+   "trailer": "https://www.youtube.com/watch?v=aaQSScwZPbA",
+   "providers": [
+    "JioHotstar"
    ],
-   "director": "Na Hong-jin",
-   "runtime": 157,
-   "backdrop": "https://image.tmdb.org/t/p/w780/ujUwzNV8ZkOzZonvhhHsc9KOKDf.jpg",
-   "fullReview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions."
+   "cast": [
+    "Sylvester Stallone",
+    "Martin Starr",
+    "Jay Will",
+    "Vincent Piazza"
+   ],
+   "director": "Taylor Sheridan",
+   "runtime": null,
+   "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+   "fullReview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+   "platform": "JioHotstar"
   },
   {
-   "title": "Fall 2: Deadpoint",
-   "genre": "Thriller",
-   "language": "English",
-   "released": "2026-09-17",
-   "review": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer…",
-   "rating": 7.3,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "7.3/10"
-    }
-   ],
-   "votes": 544,
-   "verdict": "Worth a watch",
-   "poster": "https://image.tmdb.org/t/p/w342/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-   "isNew": false,
-   "kind": "movie",
-   "tmdbId": 1101412,
-   "platform": "Theatres",
-   "cert": "U/A 13+",
-   "trailer": "https://www.youtube.com/watch?v=Krs0VDIjhmE",
-   "providers": [],
-   "cast": [
-    "Harriet Slater",
-    "Arsema Thomas",
-    "Tom Brittney",
-    "Virginia Gardner"
-   ],
-   "director": "Michael Spierig",
-   "runtime": 98,
-   "backdrop": "https://image.tmdb.org/t/p/w780/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
-   "fullReview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival."
-  },
-  {
-   "title": "Street Fighter",
-   "genre": "Action / Fantasy",
+   "title": "Masterplan",
+   "genre": "Action / Thriller",
    "language": "English",
    "released": "2026-10-16",
-   "review": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior…",
-   "rating": 6.3,
+   "review": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes,…",
+   "rating": 7,
    "scores": [
     {
      "source": "TMDB",
-     "score": "6.3/10"
+     "score": "7.0/10"
     }
    ],
-   "votes": 29,
-   "verdict": "Decent one-time watch",
-   "poster": "https://image.tmdb.org/t/p/w342/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
+   "votes": 146,
+   "verdict": "Worth a watch",
+   "poster": "https://image.tmdb.org/t/p/w342/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
    "isNew": true,
    "kind": "movie",
-   "tmdbId": 1153576,
-   "platform": "Theatres",
-   "cert": "U/A 16+",
-   "trailer": "https://www.youtube.com/watch?v=U6sbm1OaJb8",
-   "providers": [],
-   "cast": [
-    "Andrew Koji",
-    "Noah Centineo",
-    "Callina Liang",
-    "David Dastmalchian"
-   ],
-   "director": "Kitao Sakurai",
-   "runtime": 120,
-   "backdrop": "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
-   "fullReview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!"
-  }
- ],
- "ott": [
-  {
-   "title": "Matchbox the Movie",
-   "genre": "Action / Comedy",
-   "language": "English",
-   "released": "2026-10-05",
-   "review": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
-   "rating": 7.9,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "7.9/10"
-    }
-   ],
-   "votes": 336,
-   "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
-   "isNew": true,
-   "kind": "movie",
-   "tmdbId": 1148365,
-   "cert": "U/A 16+",
-   "trailer": "https://www.youtube.com/watch?v=7xfqITrMDcI",
+   "tmdbId": 1561726,
+   "cert": null,
+   "trailer": "https://www.youtube.com/watch?v=gc0t8AfMP6k",
    "providers": [
-    "Apple TV",
-    "Apple TV Amazon Channel"
+    "Amazon Prime Video",
+    "Amazon Prime Video with Ads"
    ],
    "cast": [
-    "John Cena",
-    "Jessica Biel",
-    "Arturo Castro",
-    "Sam Richardson"
+    "Stanley Tucci",
+    "Simona Tabasco",
+    "Victor Belmondo",
+    "Eliott Margueron"
    ],
-   "director": "Sam Hargrave",
-   "runtime": 127,
-   "backdrop": "https://image.tmdb.org/t/p/w780/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg",
-   "fullReview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
-   "platform": "Apple TV"
+   "director": "Thomas Vincent",
+   "runtime": 110,
+   "backdrop": "https://image.tmdb.org/t/p/w780/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
+   "fullReview": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century.",
+   "platform": "Amazon Prime Video"
   },
   {
    "title": "Carrie",
@@ -224,7 +333,7 @@
      "score": "8.4/10"
     }
    ],
-   "votes": 285,
+   "votes": 425,
    "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
    "isNew": false,
@@ -249,83 +358,11 @@
    "platform": "Amazon Prime Video"
   },
   {
-   "title": "MobLand",
-   "genre": "Crime / Drama",
-   "language": "English",
-   "released": "2025-03-30",
-   "review": "Two mob families clash in a war that threatens to topple empires and lives.",
-   "rating": 8.5,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "8.5/10"
-    }
-   ],
-   "votes": 1034,
-   "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-   "isNew": false,
-   "kind": "tv",
-   "tmdbId": 247718,
-   "cert": "A",
-   "trailer": "https://www.youtube.com/watch?v=qKGgw7Ob5f4",
-   "providers": [
-    "JioHotstar"
-   ],
-   "cast": [
-    "Tom Hardy",
-    "Pierce Brosnan",
-    "Paddy Considine",
-    "Joanne Froggatt"
-   ],
-   "director": "Ronan Bennett",
-   "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-   "fullReview": "Two mob families clash in a war that threatens to topple empires and lives.",
-   "platform": "JioHotstar"
-  },
-  {
-   "title": "Animals",
-   "genre": "Thriller / Drama",
-   "language": "English",
-   "released": "2026-10-09",
-   "review": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on…",
-   "rating": 7.2,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "7.2/10"
-    }
-   ],
-   "votes": 379,
-   "verdict": "Worth a watch",
-   "poster": "https://image.tmdb.org/t/p/w342/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
-   "isNew": true,
-   "kind": "movie",
-   "tmdbId": 1236045,
-   "cert": "U/A 16+",
-   "trailer": "https://www.youtube.com/watch?v=ZkN2M4ODdys",
-   "providers": [
-    "Netflix"
-   ],
-   "cast": [
-    "Ben Affleck",
-    "Kerry Washington",
-    "Gillian Anderson",
-    "Steven Yeun"
-   ],
-   "director": "Ben Affleck",
-   "runtime": 106,
-   "backdrop": "https://image.tmdb.org/t/p/w780/tzoarEu7TsG959upiELyYPm5kO9.jpg",
-   "fullReview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
-   "platform": "Netflix"
-  },
-  {
-   "title": "Ted Lasso",
-   "genre": "Drama / Comedy",
-   "language": "English",
-   "released": "2020-08-14",
-   "review": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a…",
+   "title": "Bleach",
+   "genre": "Action & Adventure / Animation",
+   "language": "Japanese",
+   "released": "2004-10-05",
+   "review": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows,…",
    "rating": 8.4,
    "scores": [
     {
@@ -333,273 +370,242 @@
      "score": "8.4/10"
     }
    ],
-   "votes": 2760,
+   "votes": 2307,
    "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-   "isNew": false,
+   "poster": "https://image.tmdb.org/t/p/w342/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+   "isNew": true,
    "kind": "tv",
-   "tmdbId": 97546,
+   "tmdbId": 30984,
+   "cert": "U",
+   "trailer": "https://www.youtube.com/watch?v=0c4IoCA5fY0",
+   "providers": [
+    "Netflix",
+    "Crunchyroll",
+    "Sony Liv",
+    "Crunchyroll Amazon Channel"
+   ],
+   "cast": [
+    "Masakazu Morita",
+    "Fumiko Orikasa",
+    "Hiroki Yasumoto",
+    "Yuki Matsuoka"
+   ],
+   "director": null,
+   "runtime": 24,
+   "backdrop": "https://image.tmdb.org/t/p/w780/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+   "fullReview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+   "platform": "Netflix"
+  },
+  {
+   "title": "Cyberpunk: Edgerunners",
+   "genre": "Animation / Action & Adventure",
+   "language": "English",
+   "released": "2022-09-13",
+   "review": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
+   "rating": 8.5,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "8.5/10"
+    }
+   ],
+   "votes": 2070,
+   "verdict": "Must watch",
+   "poster": "https://image.tmdb.org/t/p/w342/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
+   "isNew": true,
+   "kind": "tv",
+   "tmdbId": 105248,
    "cert": "A",
-   "trailer": "https://www.youtube.com/watch?v=BwPcMIDFVKw",
+   "trailer": "https://www.youtube.com/watch?v=JtqIas3bYhg",
    "providers": [
-    "Apple TV",
-    "Apple TV Amazon Channel"
+    "Netflix"
    ],
    "cast": [
-    "Jason Sudeikis",
-    "Hannah Waddingham",
-    "Jeremy Swift",
-    "Brett Goldstein"
+    "Koki Uchiyama",
+    "Momoka Terasawa",
+    "Akari Kito",
+    "Kentaro Tone"
    ],
-   "director": "Bill Lawrence",
+   "director": "Rafał Jaki",
    "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-   "fullReview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-   "platform": "Apple TV"
+   "backdrop": "https://image.tmdb.org/t/p/w780/3UbHGmu9vIMSC5uNfnGt7DjetqT.jpg",
+   "fullReview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
+   "platform": "Netflix"
   },
   {
-   "title": "Lanterns",
-   "genre": "Drama / Mystery",
-   "language": "English",
-   "released": "2026-08-16",
-   "review": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the…",
-   "rating": 8.3,
+   "title": "The Apothecary Diaries",
+   "genre": "Animation / Drama",
+   "language": "Japanese",
+   "released": "2023-10-22",
+   "review": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a…",
+   "rating": 8.7,
    "scores": [
     {
      "source": "TMDB",
-     "score": "8.3/10"
+     "score": "8.7/10"
     }
    ],
-   "votes": 751,
+   "votes": 681,
    "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-   "isNew": false,
+   "poster": "https://image.tmdb.org/t/p/w342/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
+   "isNew": true,
    "kind": "tv",
-   "tmdbId": 95350,
+   "tmdbId": 220542,
    "cert": "U/A 16+",
-   "trailer": "https://www.youtube.com/watch?v=7UIBOsuUwc4",
+   "trailer": "https://www.youtube.com/watch?v=3lfb_KeqdEM",
    "providers": [
-    "JioHotstar"
+    "Netflix",
+    "Crunchyroll",
+    "Sony Liv",
+    "Crunchyroll Amazon Channel"
    ],
    "cast": [
-    "Kyle Chandler",
-    "Aaron Pierre",
-    "Kelly Macdonald"
+    "Aoi Yuuki",
+    "Takeo Otsuka",
+    "Katsuyuki Konishi"
    ],
-   "director": "Damon Lindelof",
-   "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-   "fullReview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-   "platform": "JioHotstar"
-  },
-  {
-   "title": "Take Charge of My Heart",
-   "genre": "Sci-Fi & Fantasy / Comedy",
-   "language": "Korean",
-   "released": "2026-10-09",
-   "review": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
-   "rating": 8.6,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "8.6/10"
-    }
-   ],
-   "votes": 26,
-   "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/ecRrKGXfflZmDZBD4irdkybClT.jpg",
-   "isNew": true,
-   "kind": "tv",
-   "tmdbId": 289423,
-   "cert": "U/A 16+",
-   "trailer": "https://www.youtube.com/watch?v=z_D5uXaDsVU",
-   "providers": [
-    "Netflix"
-   ],
-   "cast": [
-    "Kim Young-kwang",
-    "Chae Soo-bin",
-    "Cha Woo-min"
-   ],
-   "director": "Song You-chae",
-   "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
-   "fullReview": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
+   "director": null,
+   "runtime": 23,
+   "backdrop": "https://image.tmdb.org/t/p/w780/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+   "fullReview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
    "platform": "Netflix"
   },
   {
-   "title": "Below",
-   "genre": "Drama / Mystery",
+   "title": "Sacrifice",
+   "genre": "Adventure / Comedy",
    "language": "English",
-   "released": "2026-10-08",
-   "review": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
-   "rating": 7.3,
+   "released": "2026-04-09",
+   "review": "During a star-studded charity gala brimming with celebrities, billionaires, and empty speeches, a movie star in the midst of an existential crisis is taken…",
+   "rating": 5.1,
    "scores": [
     {
      "source": "TMDB",
-     "score": "7.3/10"
+     "score": "5.1/10"
     }
    ],
-   "votes": 136,
-   "verdict": "Worth a watch",
-   "poster": "https://image.tmdb.org/t/p/w342/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
+   "votes": 64,
+   "verdict": "Skip unless curious",
+   "poster": "https://image.tmdb.org/t/p/w342/SGH7mlgfDyGgRCi2At62Ljg3zV.jpg",
    "isNew": true,
-   "kind": "tv",
-   "tmdbId": 285322,
+   "kind": "movie",
+   "tmdbId": 1284186,
    "cert": null,
-   "trailer": "https://www.youtube.com/watch?v=U57CNxSgoss",
+   "trailer": "https://www.youtube.com/watch?v=g33q_d4_iIU",
    "providers": [
-    "Netflix"
+    "Lionsgate Play Apple TV Channel",
+    "Lionsgate Play Amazon Channel"
    ],
    "cast": [
-    "Josh Hartnett",
-    "Mackenzie Davis",
-    "Charlie Heaton",
-    "Ruby Stokes"
+    "Chris Evans",
+    "Anya Taylor-Joy",
+    "Vincent Cassel",
+    "Salma Hayek Pinault"
    ],
-   "director": "Jesse McKeown",
-   "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
-   "fullReview": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
-   "platform": "Netflix"
+   "director": "Romain Gavras",
+   "runtime": 100,
+   "backdrop": "https://image.tmdb.org/t/p/w780/oAUf1pvGlafCZVlEuPt1JyONHR1.jpg",
+   "fullReview": "During a star-studded charity gala brimming with celebrities, billionaires, and empty speeches, a movie star in the midst of an existential crisis is taken hostage by a radical warrior and her devoted followers. As the night descends into chaos, both an inward journey and an outward adventure ensue, where the line between performance and belief, salvation and sacrifice, begins to blur.",
+   "platform": "Lionsgate Play Apple TV Channel"
   },
   {
-   "title": "The Diplomat",
-   "genre": "Drama / War & Politics",
+   "title": "The Terminal List",
+   "genre": "Action & Adventure / Drama",
    "language": "English",
-   "released": "2023-04-20",
-   "review": "Amid an international crisis, a US diplomat contends with her high-profile job as ambassador to the UK and her strained marriage to a political star.",
-   "rating": 7.6,
+   "released": "2022-06-30",
+   "review": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's…",
+   "rating": 8,
    "scores": [
     {
      "source": "TMDB",
-     "score": "7.6/10"
+     "score": "8.0/10"
     }
    ],
-   "votes": 492,
+   "votes": 1262,
    "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/cUy0ZYme43lop08nOtbQLWL0dX.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
    "isNew": true,
    "kind": "tv",
-   "tmdbId": 203857,
-   "cert": "A",
-   "trailer": "https://www.youtube.com/watch?v=lV6sJlBbhPs",
-   "providers": [
-    "Netflix"
-   ],
-   "cast": [
-    "Keri Russell",
-    "Rufus Sewell",
-    "David Gyasi",
-    "Ali Ahn"
-   ],
-   "director": "Debora Cahn",
-   "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/hzznrBI07C2chXivlLYvEmQESP7.jpg",
-   "fullReview": "Amid an international crisis, a US diplomat contends with her high-profile job as ambassador to the UK and her strained marriage to a political star.",
-   "platform": "Netflix"
-  },
-  {
-   "title": "Doctor X: Mafia in White",
-   "genre": "Mystery / Drama",
-   "language": "Korean",
-   "released": "2026-10-09",
-   "review": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
-   "rating": null,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "New release"
-    }
-   ],
-   "votes": 8,
-   "verdict": "Too new for a verdict",
-   "poster": "https://image.tmdb.org/t/p/w342/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
-   "isNew": true,
-   "kind": "tv",
-   "tmdbId": 293610,
+   "tmdbId": 120911,
    "cert": null,
-   "trailer": "https://www.youtube.com/watch?v=v6KNnhkLnnY",
+   "trailer": "https://www.youtube.com/watch?v=x9FvvsC0B5Q",
    "providers": [
-    "Netflix"
+    "Amazon Prime Video",
+    "Amazon Prime Video with Ads"
    ],
    "cast": [
-    "Kim Ji-won",
-    "Lee Jung-eun",
-    "Son Hyun-joo",
-    "Kim Woo-seok"
+    "Chris Pratt"
    ],
-   "director": "Pyeon Seong-geun",
+   "director": "David DiGilio",
    "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-   "fullReview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
-   "platform": "Netflix"
+   "backdrop": "https://image.tmdb.org/t/p/w780/98mdtfkJ77vVikylIbOQYfJvxpJ.jpg",
+   "fullReview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
+   "platform": "Amazon Prime Video"
   }
  ],
  "comingSoon": [
   {
-   "title": "Clayface",
-   "released": "2026-10-23",
-   "genre": "Horror / Thriller",
-   "language": "English",
-   "review": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime…",
-   "poster": "https://image.tmdb.org/t/p/w342/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg"
+   "title": "Aadarsha Kutumbam House No: 47 - AK47",
+   "released": "2026-10-30",
+   "genre": "Family / Action",
+   "language": "Telugu",
+   "review": "A seemingly flawless family at House No. 47 unravels after an incident reveals hidden tensions.",
+   "poster": "https://image.tmdb.org/t/p/w342/4xyzmQj2SrocgWVlV1aCxeyCDsz.jpg"
   },
   {
-   "title": "Udta Teer",
-   "released": "2026-10-23",
-   "genre": "Comedy / Action",
-   "language": "Hindi",
-   "review": "An amnesiac Pakistani spy wakes up believing he is a patriotic Indian counter-terrorism officer.",
-   "poster": "https://image.tmdb.org/t/p/w342/tvICKypVlW7Iio4KVs7NousbSKi.jpg"
+   "title": "#Cult",
+   "released": "2026-10-30",
+   "genre": "Horror / Action",
+   "language": "Telugu",
+   "review": "A group of young boys head to a party expecting a night of fun, but soon discover the reality is far darker than they…",
+   "poster": "https://image.tmdb.org/t/p/w342/8jPyjKZE2Bnm3esvDmWZyGA8mkr.jpg"
   },
   {
-   "title": "Crime 302",
-   "released": "2026-10-23",
-   "genre": "Crime / Thriller",
-   "language": "Malayalam",
+   "title": "Itllu Arjuna",
+   "released": "2026-10-30",
+   "genre": "Action / Romance",
+   "language": "Telugu",
+   "review": "A mute man with exceptional skills falls in love, proving that true feelings do not always need words.",
+   "poster": "https://image.tmdb.org/t/p/w342/i8WRWBdLhbAI6z3aaQAKuYf5g4T.jpg"
+  },
+  {
+   "title": "Singgaramm",
+   "released": "2026-10-30",
+   "genre": "Drama",
+   "language": "Tamil",
    "review": "",
    "poster": null
   },
   {
-   "title": "Delivery Boy",
-   "released": "2026-10-23",
+   "title": "KillR",
+   "released": "2026-10-30",
    "genre": "Action / Drama",
-   "language": "Tamil",
-   "review": "A young food delivery rider, who dreams of becoming a police officer, is forced to steal money to save his critically…",
-   "poster": "https://image.tmdb.org/t/p/w342/5JykVg5yWm5QiFyeEBq3diDmI5.jpg"
-  },
-  {
-   "title": "418",
-   "released": "2026-10-23",
-   "genre": "Horror / Thriller",
    "language": "Telugu",
-   "review": "Set in a medical college in a dread-stricken village, the film confronts the science behind superstitions, the…",
-   "poster": "https://image.tmdb.org/t/p/w342/aNPNi3qUdAzKdtd1fKwMdUdyUcz.jpg"
+   "review": "",
+   "poster": null
   },
   {
-   "title": "Tu Hai Meri Kiran",
-   "released": "2026-10-23",
-   "genre": "Romance / Thriller",
+   "title": "Ramayana: Rise of a Legend",
+   "released": "2026-11-05",
+   "genre": "Fantasy / Action",
    "language": "Hindi",
-   "review": "When love becomes an obsession, the line between devotion and danger begins to blur.",
-   "poster": "https://image.tmdb.org/t/p/w342/jjlqHKzDTPJXDl0eb77Q20Aipuc.jpg"
+   "review": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a…",
+   "poster": "https://image.tmdb.org/t/p/w342/hX94xNPYwazKOVGGqL1GiwMSNuY.jpg"
   },
   {
-   "title": "Pehla Pyaar Doosri Baar",
-   "released": "2026-10-23",
-   "genre": "Romance / Comedy",
-   "language": "Hindi",
-   "review": "Three friends attend their school reunion and enter into different relationships, discovering the trials, tribulations,…",
-   "poster": "https://image.tmdb.org/t/p/w342/fKIXeluFkRjF9JI68OM7zvVda9O.jpg"
+   "title": "Wild Horse Nine",
+   "released": "2026-11-06",
+   "genre": "Comedy / Crime",
+   "language": "English",
+   "review": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their…",
+   "poster": "https://image.tmdb.org/t/p/w342/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg"
   },
   {
-   "title": "Border Diaries",
-   "released": "2026-10-23",
-   "genre": "Drama / Romance",
-   "language": "Kannada",
-   "review": "Set in an industrial area on the Karnataka-Tamil Nadu border, the story explores the lives of people working there and…",
-   "poster": "https://image.tmdb.org/t/p/w342/8yKOR3VBChqhEEhyhxfFjG0Fz6Y.jpg"
+   "title": "Disco",
+   "released": "2026-11-06",
+   "genre": "Action",
+   "language": "Malayalam",
+   "review": "",
+   "poster": "https://image.tmdb.org/t/p/w342/yZ3AeO4bGYkSVT4onkAbLPTOSXe.jpg"
   }
  ]
 }

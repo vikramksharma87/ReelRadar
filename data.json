@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-10-30T10:15:24.494Z",
- "pick": "VisionQuest",
+ "generatedAt": "2026-11-06T11:12:12.132Z",
+ "pick": "Dexter: Resurrection",
  "theatres": [
   {
    "title": "Hope",
@@ -15,7 +15,7 @@
      "score": "6.8/10"
     }
    ],
-   "votes": 391,
+   "votes": 484,
    "verdict": "Worth a watch",
    "poster": "https://image.tmdb.org/t/p/w342/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
    "isNew": false,
@@ -33,8 +33,76 @@
    ],
    "director": "Na Hong-jin",
    "runtime": 157,
-   "backdrop": "https://image.tmdb.org/t/p/w780/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w780/j96rurZqmBjyY37Fncl3IB0qJNe.jpg",
    "fullReview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions."
+  },
+  {
+   "title": "Verity",
+   "genre": "Mystery / Thriller",
+   "language": "English",
+   "released": "2026-10-02",
+   "review": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove…",
+   "rating": 7,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "7.0/10"
+    }
+   ],
+   "votes": 607,
+   "verdict": "Worth a watch",
+   "poster": "https://image.tmdb.org/t/p/w342/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
+   "isNew": false,
+   "kind": "movie",
+   "tmdbId": 1283515,
+   "platform": "Theatres",
+   "cert": "A",
+   "trailer": "https://www.youtube.com/watch?v=xdPMKhjMSFs",
+   "providers": [],
+   "cast": [
+    "Dakota Johnson",
+    "Anne Hathaway",
+    "Josh Hartnett",
+    "Brady Wagner"
+   ],
+   "director": "Michael Showalter",
+   "runtime": 117,
+   "backdrop": "https://image.tmdb.org/t/p/w780/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+   "fullReview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy."
+  },
+  {
+   "title": "Ramayana: Rise of a Legend",
+   "genre": "Fantasy / Action",
+   "language": "Hindi",
+   "released": "2026-11-05",
+   "review": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty…",
+   "rating": null,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "New release"
+    }
+   ],
+   "votes": 8,
+   "verdict": "Too new for a verdict",
+   "poster": "https://image.tmdb.org/t/p/w342/hz2Hv8tPToHvQ7HaxzqeLvahmcJ.jpg",
+   "isNew": true,
+   "kind": "movie",
+   "tmdbId": 656908,
+   "platform": "Theatres",
+   "cert": "U",
+   "trailer": "https://www.youtube.com/watch?v=AYkPRN874m8",
+   "providers": [],
+   "cast": [
+    "Ranbir Kapoor",
+    "Yash",
+    "Sai Pallavi",
+    "Ravi Dubey"
+   ],
+   "director": "Nitesh Tiwari",
+   "runtime": 208,
+   "backdrop": "https://image.tmdb.org/t/p/w780/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
+   "fullReview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead."
   },
   {
    "title": "Clayface",
@@ -42,15 +110,15 @@
    "language": "English",
    "released": "2026-10-23",
    "review": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly…",
-   "rating": 7.5,
+   "rating": 7.4,
    "scores": [
     {
      "source": "TMDB",
-     "score": "7.5/10"
+     "score": "7.4/10"
     }
    ],
-   "votes": 274,
-   "verdict": "Must watch",
+   "votes": 397,
+   "verdict": "Worth a watch",
    "poster": "https://image.tmdb.org/t/p/w342/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
    "isNew": false,
    "kind": "movie",
@@ -71,87 +139,19 @@
    "fullReview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge."
   },
   {
-   "title": "Verity",
-   "genre": "Mystery / Thriller",
-   "language": "English",
-   "released": "2026-10-02",
-   "review": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove…",
-   "rating": 6.4,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "6.4/10"
-    }
-   ],
-   "votes": 324,
-   "verdict": "Decent one-time watch",
-   "poster": "https://image.tmdb.org/t/p/w342/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
-   "isNew": true,
-   "kind": "movie",
-   "tmdbId": 1283515,
-   "platform": "Theatres",
-   "cert": "A",
-   "trailer": "https://www.youtube.com/watch?v=xdPMKhjMSFs",
-   "providers": [],
-   "cast": [
-    "Dakota Johnson",
-    "Anne Hathaway",
-    "Josh Hartnett",
-    "Brady Wagner"
-   ],
-   "director": "Michael Showalter",
-   "runtime": 117,
-   "backdrop": "https://image.tmdb.org/t/p/w780/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
-   "fullReview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy."
-  },
-  {
-   "title": "Forgotten Island",
-   "genre": "Animation / Adventure",
-   "language": "English",
-   "released": "2026-09-25",
-   "review": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the…",
-   "rating": 7.6,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "7.6/10"
-    }
-   ],
-   "votes": 127,
-   "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
-   "isNew": true,
-   "kind": "movie",
-   "tmdbId": 1465063,
-   "platform": "Theatres",
-   "cert": "U",
-   "trailer": "https://www.youtube.com/watch?v=PhgY8cOJiQA",
-   "providers": [],
-   "cast": [
-    "H.E.R.",
-    "Liza Soberano",
-    "Dave Franco",
-    "Jenny Slate"
-   ],
-   "director": "Januel Mercado",
-   "runtime": 109,
-   "backdrop": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
-   "fullReview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever."
-  },
-  {
    "title": "Street Fighter",
    "genre": "Action / Fantasy",
    "language": "English",
    "released": "2026-10-16",
    "review": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior…",
-   "rating": 6.4,
+   "rating": 6.3,
    "scores": [
     {
      "source": "TMDB",
-     "score": "6.4/10"
+     "score": "6.3/10"
     }
    ],
-   "votes": 197,
+   "votes": 218,
    "verdict": "Decent one-time watch",
    "poster": "https://image.tmdb.org/t/p/w342/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
    "isNew": false,
@@ -175,40 +175,41 @@
  ],
  "ott": [
   {
-   "title": "VisionQuest",
-   "genre": "Sci-Fi & Fantasy / Drama",
-   "language": "English",
-   "released": "2026-10-13",
-   "review": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-   "rating": 8.7,
+   "title": "Apocalypse Z: New World",
+   "genre": "Action / Thriller",
+   "language": "Spanish",
+   "released": "2026-10-09",
+   "review": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of…",
+   "rating": 6.1,
    "scores": [
     {
      "source": "TMDB",
-     "score": "8.7/10"
+     "score": "6.1/10"
     }
    ],
-   "votes": 225,
-   "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+   "votes": 124,
+   "verdict": "Decent one-time watch",
+   "poster": "https://image.tmdb.org/t/p/w342/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
    "isNew": true,
-   "kind": "tv",
-   "tmdbId": 213375,
+   "kind": "movie",
+   "tmdbId": 1507696,
    "cert": null,
-   "trailer": "https://www.youtube.com/watch?v=sXKnmgmbkoE",
+   "trailer": "https://www.youtube.com/watch?v=BIEzwpyawtw",
    "providers": [
-    "JioHotstar"
+    "Amazon Prime Video",
+    "Amazon Prime Video with Ads"
    ],
    "cast": [
-    "Paul Bettany",
-    "James Spader",
-    "Ruaridh Mollica",
-    "Todd Stashwick"
+    "Carlos Alcaide",
+    "Julia Martínez",
+    "José María Yázpik",
+    "Mónica López"
    ],
-   "director": "Terry Matalas",
-   "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg",
-   "fullReview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-   "platform": "JioHotstar"
+   "director": "Carles Torrens",
+   "runtime": 96,
+   "backdrop": "https://image.tmdb.org/t/p/w780/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
+   "fullReview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
+   "platform": "Amazon Prime Video"
   },
   {
    "title": "MobLand",
@@ -223,7 +224,7 @@
      "score": "8.6/10"
     }
    ],
-   "votes": 1126,
+   "votes": 1168,
    "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
    "isNew": false,
@@ -247,41 +248,40 @@
    "platform": "JioHotstar"
   },
   {
-   "title": "Drive - The Pretenders",
-   "genre": "Romance / Thriller",
-   "language": "de",
-   "released": "2026-10-27",
-   "review": "A young race car mechanic fakes an engagement with racing's most scandalous star - officially for his reputation, secretly for her own shot behind the wheel.…",
-   "rating": 7.7,
+   "title": "VisionQuest",
+   "genre": "Sci-Fi & Fantasy / Drama",
+   "language": "English",
+   "released": "2026-10-13",
+   "review": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+   "rating": 8.6,
    "scores": [
     {
      "source": "TMDB",
-     "score": "7.7/10"
+     "score": "8.6/10"
     }
    ],
-   "votes": 32,
+   "votes": 267,
    "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
-   "isNew": true,
-   "kind": "movie",
-   "tmdbId": 1596275,
+   "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+   "isNew": false,
+   "kind": "tv",
+   "tmdbId": 213375,
    "cert": null,
-   "trailer": "https://www.youtube.com/watch?v=-sV69CJwUwU",
+   "trailer": "https://www.youtube.com/watch?v=sXKnmgmbkoE",
    "providers": [
-    "Amazon Prime Video",
-    "Amazon Prime Video with Ads"
+    "JioHotstar"
    ],
    "cast": [
-    "Lisa-Marie Koroll",
-    "Amin Baahmed",
-    "Gustav Schmidt",
-    "Mišel Matičević"
+    "Paul Bettany",
+    "James Spader",
+    "Ruaridh Mollica",
+    "Todd Stashwick"
    ],
-   "director": "Sergej Moya",
-   "runtime": 103,
-   "backdrop": "https://image.tmdb.org/t/p/w780/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
-   "fullReview": "A young race car mechanic fakes an engagement with racing's most scandalous star - officially for his reputation, secretly for her own shot behind the wheel. But soon the lie threatens to destroy everything - including what's already become so much more than just a deal.",
-   "platform": "Amazon Prime Video"
+   "director": "Terry Matalas",
+   "runtime": null,
+   "backdrop": "https://image.tmdb.org/t/p/w780/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+   "fullReview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+   "platform": "JioHotstar"
   },
   {
    "title": "Tulsa King",
@@ -296,9 +296,9 @@
      "score": "8.3/10"
     }
    ],
-   "votes": 2892,
+   "votes": 2915,
    "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
    "isNew": false,
    "kind": "tv",
    "tmdbId": 153312,
@@ -320,76 +320,40 @@
    "platform": "JioHotstar"
   },
   {
-   "title": "Lupin",
-   "genre": "Crime / Drama",
-   "language": "French",
-   "released": "2021-01-08",
-   "review": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
-   "rating": 7.7,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "7.7/10"
-    }
-   ],
-   "votes": 2753,
-   "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
-   "isNew": true,
-   "kind": "tv",
-   "tmdbId": 96677,
-   "cert": "U/A 16+",
-   "trailer": "https://www.youtube.com/watch?v=ga0iTWXCGa0",
-   "providers": [
-    "Netflix"
-   ],
-   "cast": [
-    "Omar Sy",
-    "Ludivine Sagnier",
-    "Antoine Gouy",
-    "Soufiane Guerrab"
-   ],
-   "director": "George Kay",
-   "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
-   "fullReview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
-   "platform": "Netflix"
-  },
-  {
-   "title": "The Terminal List",
-   "genre": "Action & Adventure / Drama",
+   "title": "The Mongoose",
+   "genre": "Action / Thriller",
    "language": "English",
-   "released": "2022-06-30",
-   "review": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's…",
-   "rating": 8,
+   "released": "2026-10-29",
+   "review": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army…",
+   "rating": 6.1,
    "scores": [
     {
      "source": "TMDB",
-     "score": "8.0/10"
+     "score": "6.1/10"
     }
    ],
-   "votes": 1297,
-   "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
-   "isNew": false,
-   "kind": "tv",
-   "tmdbId": 120911,
+   "votes": 50,
+   "verdict": "Decent one-time watch",
+   "poster": "https://image.tmdb.org/t/p/w342/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+   "isNew": true,
+   "kind": "movie",
+   "tmdbId": 1294189,
    "cert": null,
-   "trailer": "https://www.youtube.com/watch?v=x9FvvsC0B5Q",
+   "trailer": "https://www.youtube.com/watch?v=aHrMFtt40_Q",
    "providers": [
     "Amazon Prime Video",
     "Amazon Prime Video with Ads"
    ],
    "cast": [
-    "Chris Pratt",
-    "Constance Wu",
-    "Tom Hopper",
-    "Dar Salim"
+    "Liam Neeson",
+    "Marisa Tomei",
+    "Ving Rhames",
+    "Marcus Thomas"
    ],
-   "director": "David DiGilio",
-   "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/2qS2LGqsAyT1NEDeIj24Hp2IR10.jpg",
-   "fullReview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
+   "director": "Mark Vanselow",
+   "runtime": 99,
+   "backdrop": "https://image.tmdb.org/t/p/w780/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
+   "fullReview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
    "platform": "Amazon Prime Video"
   },
   {
@@ -405,7 +369,7 @@
      "score": "8.4/10"
     }
    ],
-   "votes": 2323,
+   "votes": 2332,
    "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
    "isNew": false,
@@ -432,174 +396,152 @@
    "platform": "Netflix"
   },
   {
-   "title": "American Horror Story",
-   "genre": "Drama / Mystery",
-   "language": "English",
-   "released": "2011-10-05",
-   "review": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak…",
-   "rating": 8.1,
+   "title": "Collision Course",
+   "genre": "Thriller / Drama",
+   "language": "Spanish",
+   "released": "2026-10-30",
+   "review": "Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist.",
+   "rating": 6.5,
    "scores": [
     {
      "source": "TMDB",
-     "score": "8.1/10"
+     "score": "6.5/10"
     }
    ],
-   "votes": 6272,
-   "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+   "votes": 55,
+   "verdict": "Worth a watch",
+   "poster": "https://image.tmdb.org/t/p/w342/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
    "isNew": true,
-   "kind": "tv",
-   "tmdbId": 1413,
-   "cert": "A",
-   "trailer": "https://www.youtube.com/watch?v=nLJR2twdK00",
+   "kind": "movie",
+   "tmdbId": 1571955,
+   "cert": null,
+   "trailer": "https://www.youtube.com/watch?v=8hVLhaK619k",
    "providers": [
-    "JioHotstar"
+    "Netflix"
    ],
    "cast": [
-    "Sarah Paulson",
-    "Evan Peters",
-    "Angela Bassett",
-    "Kathy Bates"
+    "Laia Costa",
+    "Karra Elejalde",
+    "Luis Zahera",
+    "Tamar Novas"
    ],
-   "director": "Ryan Murphy",
-   "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
-   "fullReview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-   "platform": "JioHotstar"
-  },
-  {
-   "title": "The Apothecary Diaries",
-   "genre": "Animation / Drama",
-   "language": "Japanese",
-   "released": "2023-10-22",
-   "review": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a…",
-   "rating": 8.7,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "8.7/10"
-    }
-   ],
-   "votes": 693,
-   "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
-   "isNew": false,
-   "kind": "tv",
-   "tmdbId": 220542,
-   "cert": "U/A 16+",
-   "trailer": "https://www.youtube.com/watch?v=3lfb_KeqdEM",
-   "providers": [
-    "Netflix",
-    "Crunchyroll",
-    "Sony Liv",
-    "Crunchyroll Amazon Channel"
-   ],
-   "cast": [
-    "Aoi Yuki",
-    "Takeo Otsuka",
-    "Katsuyuki Konishi"
-   ],
-   "director": null,
-   "runtime": 23,
-   "backdrop": "https://image.tmdb.org/t/p/w780/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-   "fullReview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
+   "director": "Daniel Sánchez Arévalo",
+   "runtime": 122,
+   "backdrop": "https://image.tmdb.org/t/p/w780/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
+   "fullReview": "Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist.",
    "platform": "Netflix"
   },
   {
-   "title": "Carrie",
-   "genre": "Mystery / Drama",
-   "language": "English",
-   "released": "2026-10-07",
-   "review": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying…",
-   "rating": 8.3,
+   "title": "Dead-End Job",
+   "genre": "Mystery",
+   "language": "Korean",
+   "released": "2026-10-30",
+   "review": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
+   "rating": 7.7,
    "scores": [
     {
      "source": "TMDB",
-     "score": "8.3/10"
+     "score": "7.7/10"
     }
    ],
-   "votes": 502,
+   "votes": 51,
    "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg",
+   "isNew": true,
+   "kind": "tv",
+   "tmdbId": 289517,
+   "cert": "U/A 16+",
+   "trailer": "https://www.youtube.com/watch?v=Sn2ZCxOxsN0",
+   "providers": [
+    "Netflix"
+   ],
+   "cast": [
+    "Lee Jae-wook",
+    "Go Min-si",
+    "Kim Min-ha",
+    "Lee Hee-jun"
+   ],
+   "director": "Han Jun-hee",
+   "runtime": null,
+   "backdrop": "https://image.tmdb.org/t/p/w780/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
+   "fullReview": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
+   "platform": "Netflix"
+  },
+  {
+   "title": "Lupin",
+   "genre": "Crime / Drama",
+   "language": "French",
+   "released": "2021-01-08",
+   "review": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+   "rating": 7.7,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "7.7/10"
+    }
+   ],
+   "votes": 2779,
+   "verdict": "Must watch",
+   "poster": "https://image.tmdb.org/t/p/w342/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
    "isNew": false,
    "kind": "tv",
-   "tmdbId": 288673,
+   "tmdbId": 96677,
+   "cert": "U/A 16+",
+   "trailer": "https://www.youtube.com/watch?v=ga0iTWXCGa0",
+   "providers": [
+    "Netflix"
+   ],
+   "cast": [
+    "Omar Sy",
+    "Ludivine Sagnier",
+    "Antoine Gouy",
+    "Soufiane Guerrab"
+   ],
+   "director": "George Kay",
+   "runtime": null,
+   "backdrop": "https://image.tmdb.org/t/p/w780/jgAZYiuRV37pCxmhx8NTdhE36RL.jpg",
+   "fullReview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+   "platform": "Netflix"
+  },
+  {
+   "title": "Dexter: Resurrection",
+   "genre": "Crime / Drama",
+   "language": "English",
+   "released": "2025-07-13",
+   "review": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down…",
+   "rating": 8.6,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "8.6/10"
+    }
+   ],
+   "votes": 730,
+   "verdict": "Must watch",
+   "poster": "https://image.tmdb.org/t/p/w342/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+   "isNew": true,
+   "kind": "tv",
+   "tmdbId": 259909,
    "cert": null,
-   "trailer": "https://www.youtube.com/watch?v=jkUw2nh6fT0",
+   "trailer": "https://www.youtube.com/watch?v=84o1Q6fB20k",
    "providers": [
     "Amazon Prime Video",
     "Amazon Prime Video with Ads"
    ],
    "cast": [
-    "Summer H. Howell",
-    "Samantha Sloyan",
-    "Siena Agudong",
-    "Alison Thornton"
+    "Michael C. Hall",
+    "Uma Thurman",
+    "Jack Alcott",
+    "Dan Stevens"
    ],
-   "director": "Mike Flanagan",
+   "director": "Clyde Phillips",
    "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-   "fullReview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
+   "backdrop": "https://image.tmdb.org/t/p/w780/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
+   "fullReview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
    "platform": "Amazon Prime Video"
   }
  ],
  "comingSoon": [
-  {
-   "title": "Ramayana: Rise of a Legend",
-   "released": "2026-11-05",
-   "genre": "Fantasy / Action",
-   "language": "Hindi",
-   "review": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a…",
-   "poster": "https://image.tmdb.org/t/p/w342/hz2Hv8tPToHvQ7HaxzqeLvahmcJ.jpg"
-  },
-  {
-   "title": "Wild Horse Nine",
-   "released": "2026-11-06",
-   "genre": "Comedy / Crime",
-   "language": "English",
-   "review": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their…",
-   "poster": "https://image.tmdb.org/t/p/w342/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg"
-  },
-  {
-   "title": "Scene",
-   "released": "2026-11-06",
-   "genre": "Action / Comedy",
-   "language": "Tamil",
-   "review": "Inbaraj, a police officer, is forced to reopen a case he left unfinished years ago. This time, he must solve it with a…",
-   "poster": "https://image.tmdb.org/t/p/w342/kfc4w3OX8QsFm8f9MPUdmGheNl3.jpg"
-  },
-  {
-   "title": "Disco",
-   "released": "2026-11-06",
-   "genre": "Action",
-   "language": "Malayalam",
-   "review": "",
-   "poster": "https://image.tmdb.org/t/p/w342/yZ3AeO4bGYkSVT4onkAbLPTOSXe.jpg"
-  },
-  {
-   "title": "Mookuthi Amman 2",
-   "released": "2026-11-06",
-   "genre": "Fantasy / Drama",
-   "language": "Tamil",
-   "review": "A queen sacrifices herself to protect her son, the prince, from invading enemies.Mookuthi Amman returns to protect the…",
-   "poster": "https://image.tmdb.org/t/p/w342/dNNzsstJeQxnESyH0hZcLGblLMz.jpg"
-  },
-  {
-   "title": "Moon Walk",
-   "released": "2026-11-06",
-   "genre": "Comedy / Drama",
-   "language": "Tamil",
-   "review": "Moonwalk is a family comedy entertainer starring Prabhudeva, Yogi Babu, Aju Varghese, and Arjun Ashokan. Featuring…",
-   "poster": "https://image.tmdb.org/t/p/w342/r6tHsCtTnLJ7aK6B8yl25jY49Jq.jpg"
-  },
-  {
-   "title": "Appa Kutty",
-   "released": "2026-11-06",
-   "genre": "Crime / Thriller",
-   "language": "Tamil",
-   "review": "",
-   "poster": "https://image.tmdb.org/t/p/w342/6h0XuDkjNOTYpmdMop5nDrBREum.jpg"
-  },
   {
    "title": "Ghost Soldier",
    "released": "2026-11-11",
@@ -607,6 +549,62 @@
    "language": "English",
    "review": "Henry “Fitz” Fitzgerald has spent years living quietly off the grid, hiding from a past few people know anything about.…",
    "poster": "https://image.tmdb.org/t/p/w342/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg"
+  },
+  {
+   "title": "Bouma",
+   "released": "2026-11-12",
+   "genre": "Mystery / Thriller",
+   "language": "Malayalam",
+   "review": "",
+   "poster": "https://image.tmdb.org/t/p/w342/l526Yk6NJeEhxSx9dmRMPOwt3tT.jpg"
+  },
+  {
+   "title": "John Doe",
+   "released": "2026-11-13",
+   "genre": "Action / Mystery",
+   "language": "Tamil",
+   "review": "",
+   "poster": null
+  },
+  {
+   "title": "Itllu Arjuna",
+   "released": "2026-11-13",
+   "genre": "Action / Romance",
+   "language": "Telugu",
+   "review": "A mute man with exceptional skills falls in love, proving that true feelings do not always need words.",
+   "poster": "https://image.tmdb.org/t/p/w342/305TOBJYCjuZriRu9FrbRHOprPX.jpg"
+  },
+  {
+   "title": "Donga Naa Koduku",
+   "released": "2026-11-13",
+   "genre": "Comedy / Crime",
+   "language": "Telugu",
+   "review": "A young man with a compulsive stealing habit brings trouble upon his family, who must deal with the consequences of his…",
+   "poster": "https://image.tmdb.org/t/p/w342/ycduYExZfOc2baqjNT3pUf90sQu.jpg"
+  },
+  {
+   "title": "Bachelor Party D'eux",
+   "released": "2026-11-19",
+   "genre": "Action / Comedy",
+   "language": "Malayalam",
+   "review": "",
+   "poster": "https://image.tmdb.org/t/p/w342/kolgxKdxir3Gdr4xUvShAehR7PY.jpg"
+  },
+  {
+   "title": "ENE Repeat",
+   "released": "2026-11-19",
+   "genre": "Comedy / Drama",
+   "language": "Telugu",
+   "review": "A close-knit group of friends embark on another unforgettable journey, where old memories, new adventures, and…",
+   "poster": "https://image.tmdb.org/t/p/w342/qMBlRfQNusaUhhBAIcHmforVTW5.jpg"
+  },
+  {
+   "title": "Godzilla Minus Zero",
+   "released": "2026-11-20",
+   "genre": "Science Fiction / Horror",
+   "language": "Japanese",
+   "review": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has…",
+   "poster": "https://image.tmdb.org/t/p/w342/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg"
   }
  ]
 }

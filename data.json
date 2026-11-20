@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-13T11:16:43.997Z",
- "pick": "One Piece",
+ "generatedAt": "2026-11-20T11:56:36.217Z",
+ "pick": "The Chosen",
  "theatres": [
   {
    "title": "Hope",
@@ -15,7 +15,7 @@
      "score": "6.8/10"
     }
    ],
-   "votes": 628,
+   "votes": 735,
    "verdict": "Worth a watch",
    "poster": "https://image.tmdb.org/t/p/w342/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
    "isNew": false,
@@ -33,7 +33,7 @@
    ],
    "director": "Na Hong-jin",
    "runtime": 157,
-   "backdrop": "https://image.tmdb.org/t/p/w780/j96rurZqmBjyY37Fncl3IB0qJNe.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w780/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
    "fullReview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions."
   },
   {
@@ -49,8 +49,8 @@
      "score": "7.5/10"
     }
    ],
-   "votes": 41,
-   "verdict": "Worth a watch",
+   "votes": 61,
+   "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/vBQ7wks68OhJKlb3RnXSl2yXBXK.jpg",
    "isNew": false,
    "kind": "movie",
@@ -66,7 +66,7 @@
     "Ravi Dubey"
    ],
    "director": "Nitesh Tiwari",
-   "runtime": 201,
+   "runtime": 195,
    "backdrop": "https://image.tmdb.org/t/p/w780/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
    "fullReview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead."
   },
@@ -76,28 +76,28 @@
    "language": "English",
    "released": "2026-11-11",
    "review": "Henry “Fitz” Fitzgerald has spent years living quietly off the grid, hiding from a past few people know anything about. But when a powerful foreign corporation…",
-   "rating": null,
+   "rating": 9.1,
    "scores": [
     {
      "source": "TMDB",
-     "score": "New release"
+     "score": "9.1/10"
     }
    ],
-   "votes": 8,
-   "verdict": "Too new for a verdict",
+   "votes": 28,
+   "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg",
-   "isNew": true,
+   "isNew": false,
    "kind": "movie",
    "tmdbId": 1562642,
    "platform": "Theatres",
-   "cert": "U/A 13+",
+   "cert": "U/A 16+",
    "trailer": "https://www.youtube.com/watch?v=UKaWzMf9Ybc",
    "providers": [],
    "cast": [
     "Jim Caviezel",
+    "Cameron Gayden",
     "Olivia Thirlby",
-    "Beau Knapp",
-    "Garret Dillahunt"
+    "Shea Whigham"
    ],
    "director": "William Eubank",
    "runtime": 90,
@@ -105,55 +105,55 @@
    "fullReview": "Henry “Fitz” Fitzgerald has spent years living quietly off the grid, hiding from a past few people know anything about. But when a powerful foreign corporation moves into his hometown to seize his neighbors’ land for a massive payday, Fitz is forced to reveal who he really is: a former Special Forces soldier and advanced weapons developer. Armed with experimental technology, lethal combat skills, and an unwavering code of justice, Fitz wages a one-man war against an enemy that never saw him coming."
   },
   {
-   "title": "Clayface",
-   "genre": "Horror / Thriller",
-   "language": "English",
-   "released": "2026-10-23",
-   "review": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly…",
-   "rating": 7.4,
+   "title": "Godzilla Minus Zero",
+   "genre": "Science Fiction / Horror",
+   "language": "Japanese",
+   "released": "2026-11-20",
+   "review": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve…",
+   "rating": 7.7,
    "scores": [
     {
      "source": "TMDB",
-     "score": "7.4/10"
+     "score": "7.7/10"
     }
    ],
-   "votes": 433,
-   "verdict": "Worth a watch",
-   "poster": "https://image.tmdb.org/t/p/w342/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
-   "isNew": false,
+   "votes": 271,
+   "verdict": "Must watch",
+   "poster": "https://image.tmdb.org/t/p/w342/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
+   "isNew": true,
    "kind": "movie",
-   "tmdbId": 1400940,
+   "tmdbId": 1381071,
    "platform": "Theatres",
-   "cert": "A",
-   "trailer": "https://www.youtube.com/watch?v=f7jlCqdtwdM",
+   "cert": "U/A 16+",
+   "trailer": "https://www.youtube.com/watch?v=Pu0pH5BuCPM",
    "providers": [],
    "cast": [
-    "Tom Rhys Harries",
-    "Naomi Ackie",
-    "Eddie Marsan",
-    "Max Minghella"
+    "Ryunosuke Kamiki",
+    "Minami Hamabe",
+    "Min Tanaka",
+    "Hidetaka Yoshioka"
    ],
-   "director": "James Watkins",
-   "runtime": 109,
-   "backdrop": "https://image.tmdb.org/t/p/w780/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
-   "fullReview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge."
+   "director": "Takashi Yamazaki",
+   "runtime": 135,
+   "backdrop": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+   "fullReview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here."
   },
   {
    "title": "Street Fighter",
-   "genre": "Action / Fantasy",
+   "genre": "Action / Comedy",
    "language": "English",
    "released": "2026-10-16",
    "review": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior…",
-   "rating": 6.3,
+   "rating": 6.2,
    "scores": [
     {
      "source": "TMDB",
-     "score": "6.3/10"
+     "score": "6.2/10"
     }
    ],
-   "votes": 232,
+   "votes": 253,
    "verdict": "Decent one-time watch",
-   "poster": "https://image.tmdb.org/t/p/w342/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
    "isNew": false,
    "kind": "movie",
    "tmdbId": 1153576,
@@ -169,7 +169,7 @@
    ],
    "director": "Kitao Sakurai",
    "runtime": 120,
-   "backdrop": "https://image.tmdb.org/t/p/w780/w2Gu916zS11X94CZaSLpzvfgHcG.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w780/9vNW8ysMKIbefbEQOFEZIKpMqwZ.jpg",
    "fullReview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!"
   }
  ],
@@ -187,10 +187,10 @@
      "score": "7.2/10"
     }
    ],
-   "votes": 4055,
+   "votes": 4114,
    "verdict": "Worth a watch",
    "poster": "https://image.tmdb.org/t/p/w342/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
-   "isNew": true,
+   "isNew": false,
    "kind": "tv",
    "tmdbId": 84773,
    "cert": null,
@@ -207,47 +207,9 @@
    ],
    "director": "Patrick McKay",
    "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/hVRWuAY03KfLjjAbwmy9QhrfAPs.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w780/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
    "fullReview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
    "platform": "Amazon Prime Video"
-  },
-  {
-   "title": "One Piece",
-   "genre": "Action & Adventure / Comedy",
-   "language": "Japanese",
-   "released": "1999-10-20",
-   "review": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One…",
-   "rating": 8.8,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "8.8/10"
-    }
-   ],
-   "votes": 5647,
-   "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-   "isNew": true,
-   "kind": "tv",
-   "tmdbId": 37854,
-   "cert": "U/A 16+",
-   "trailer": "https://www.youtube.com/watch?v=1KMcoJBMWE4",
-   "providers": [
-    "Crunchyroll",
-    "Sony Liv",
-    "Crunchyroll Amazon Channel"
-   ],
-   "cast": [
-    "Mayumi Tanaka",
-    "Kazuya Nakai",
-    "Mari Yaguchi",
-    "Akemi Okamura"
-   ],
-   "director": null,
-   "runtime": 24,
-   "backdrop": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-   "fullReview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-   "platform": "Crunchyroll"
   },
   {
    "title": "MobLand",
@@ -255,14 +217,14 @@
    "language": "English",
    "released": "2025-03-30",
    "review": "Two mob families clash in a war that threatens to topple empires and lives.",
-   "rating": 8.6,
+   "rating": 8.7,
    "scores": [
     {
      "source": "TMDB",
-     "score": "8.6/10"
+     "score": "8.7/10"
     }
    ],
-   "votes": 1231,
+   "votes": 1276,
    "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
    "isNew": false,
@@ -286,40 +248,42 @@
    "platform": "JioHotstar"
   },
   {
-   "title": "VisionQuest",
-   "genre": "Sci-Fi & Fantasy / Drama",
-   "language": "English",
-   "released": "2026-10-13",
-   "review": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-   "rating": 8.4,
+   "title": "One Piece",
+   "genre": "Action & Adventure / Comedy",
+   "language": "Japanese",
+   "released": "1999-10-20",
+   "review": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One…",
+   "rating": 8.8,
    "scores": [
     {
      "source": "TMDB",
-     "score": "8.4/10"
+     "score": "8.8/10"
     }
    ],
-   "votes": 439,
+   "votes": 5661,
    "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
    "isNew": false,
    "kind": "tv",
-   "tmdbId": 213375,
-   "cert": null,
-   "trailer": "https://www.youtube.com/watch?v=sXKnmgmbkoE",
+   "tmdbId": 37854,
+   "cert": "U/A 16+",
+   "trailer": "https://www.youtube.com/watch?v=1KMcoJBMWE4",
    "providers": [
-    "JioHotstar"
+    "Crunchyroll",
+    "Sony Liv",
+    "Crunchyroll Amazon Channel"
    ],
    "cast": [
-    "Paul Bettany",
-    "James Spader",
-    "Ruaridh Mollica",
-    "Todd Stashwick"
+    "Mayumi Tanaka",
+    "Kazuya Nakai",
+    "Mari Yaguchi",
+    "Akemi Okamura"
    ],
-   "director": "Terry Matalas",
-   "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
-   "fullReview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-   "platform": "JioHotstar"
+   "director": null,
+   "runtime": 24,
+   "backdrop": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+   "fullReview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+   "platform": "Crunchyroll"
   },
   {
    "title": "Tulsa King",
@@ -334,7 +298,7 @@
      "score": "8.3/10"
     }
    ],
-   "votes": 2944,
+   "votes": 2969,
    "verdict": "Must watch",
    "poster": "https://image.tmdb.org/t/p/w342/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
    "isNew": false,
@@ -358,11 +322,47 @@
    "platform": "JioHotstar"
   },
   {
-   "title": "Campus Drivers",
-   "genre": "Drama",
-   "language": "French",
-   "released": "2026-11-06",
-   "review": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached.…",
+   "title": "Never Surrender",
+   "genre": "Action / Crime",
+   "language": "id",
+   "released": "2026-11-11",
+   "review": "When a deadly gang descends on his remote home, a guilt-ridden veteran and the estranged grandchildren he barely knows must unite to survive.",
+   "rating": 7,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "7.0/10"
+    }
+   ],
+   "votes": 54,
+   "verdict": "Worth a watch",
+   "poster": "https://image.tmdb.org/t/p/w342/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
+   "isNew": true,
+   "kind": "movie",
+   "tmdbId": 1616687,
+   "cert": null,
+   "trailer": "https://www.youtube.com/watch?v=o0d1IA85D9o",
+   "providers": [
+    "Netflix"
+   ],
+   "cast": [
+    "Lukman Sardi",
+    "Callista Arum",
+    "Sulthan Hamonangan",
+    "Derby Romero"
+   ],
+   "director": "Sidharta Tata",
+   "runtime": 140,
+   "backdrop": "https://image.tmdb.org/t/p/w780/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg",
+   "fullReview": "When a deadly gang descends on his remote home, a guilt-ridden veteran and the estranged grandchildren he barely knows must unite to survive.",
+   "platform": "Netflix"
+  },
+  {
+   "title": "The Body",
+   "genre": "Mystery / Drama",
+   "language": "English",
+   "released": "2026-11-11",
+   "review": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
    "rating": 7.9,
    "scores": [
     {
@@ -370,84 +370,10 @@
      "score": "7.9/10"
     }
    ],
-   "votes": 35,
+   "votes": 96,
    "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/aa1mDCaRtGNEIHVpZrh2xil03Tq.jpg",
-   "isNew": true,
-   "kind": "tv",
-   "tmdbId": 303044,
-   "cert": null,
-   "trailer": "https://www.youtube.com/watch?v=xybsbjGt1KA",
-   "providers": [
-    "Amazon Prime Video",
-    "Amazon Prime Video with Ads"
-   ],
-   "cast": [
-    "Carmen Kassovitz",
-    "Baptiste Masseline",
-    "Esteban Vial",
-    "Félix Nebel"
-   ],
-   "director": "Thomas Boullé",
-   "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
-   "fullReview": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
-   "platform": "Amazon Prime Video"
-  },
-  {
-   "title": "The Mongoose",
-   "genre": "Action / Thriller",
-   "language": "English",
-   "released": "2026-10-29",
-   "review": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army…",
-   "rating": 6.2,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "6.2/10"
-    }
-   ],
-   "votes": 145,
-   "verdict": "Decent one-time watch",
-   "poster": "https://image.tmdb.org/t/p/w342/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
-   "isNew": false,
-   "kind": "movie",
-   "tmdbId": 1294189,
-   "cert": null,
-   "trailer": "https://www.youtube.com/watch?v=aHrMFtt40_Q",
-   "providers": [
-    "Amazon Prime Video",
-    "Amazon Prime Video with Ads"
-   ],
-   "cast": [
-    "Liam Neeson",
-    "Marisa Tomei",
-    "Ving Rhames",
-    "Marcus Thomas"
-   ],
-   "director": "Mark Vanselow",
-   "runtime": 99,
-   "backdrop": "https://image.tmdb.org/t/p/w780/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
-   "fullReview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
-   "platform": "Amazon Prime Video"
-  },
-  {
-   "title": "The Body",
-   "genre": "Drama / Mystery",
-   "language": "English",
-   "released": "2026-11-11",
-   "review": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
-   "rating": 6.9,
-   "scores": [
-    {
-     "source": "TMDB",
-     "score": "6.9/10"
-    }
-   ],
-   "votes": 20,
-   "verdict": "Worth a watch",
    "poster": "https://image.tmdb.org/t/p/w342/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
-   "isNew": true,
+   "isNew": false,
    "kind": "tv",
    "tmdbId": 291507,
    "cert": "A",
@@ -457,8 +383,8 @@
    ],
    "cast": [
     "Kristina Bogic",
-    "Sara Boustany",
     "Geena Meszaros",
+    "Sara Boustany",
     "Nnamdi Asomugha"
    ],
    "director": "Quinn Shephard",
@@ -468,146 +394,213 @@
    "platform": "Netflix"
   },
   {
-   "title": "Dexter: Resurrection",
-   "genre": "Crime / Drama",
+   "title": "VisionQuest",
+   "genre": "Sci-Fi & Fantasy / Drama",
    "language": "English",
-   "released": "2025-07-13",
-   "review": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down…",
-   "rating": 8.6,
+   "released": "2026-10-13",
+   "review": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+   "rating": 8.2,
    "scores": [
     {
      "source": "TMDB",
-     "score": "8.6/10"
+     "score": "8.2/10"
     }
    ],
-   "votes": 753,
+   "votes": 550,
    "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
    "isNew": false,
    "kind": "tv",
-   "tmdbId": 259909,
+   "tmdbId": 213375,
    "cert": null,
-   "trailer": "https://www.youtube.com/watch?v=84o1Q6fB20k",
+   "trailer": "https://www.youtube.com/watch?v=sXKnmgmbkoE",
    "providers": [
-    "Amazon Prime Video",
-    "Amazon Prime Video with Ads"
+    "JioHotstar"
    ],
    "cast": [
-    "Michael C. Hall",
-    "Uma Thurman",
-    "Jack Alcott",
-    "Dan Stevens"
+    "Paul Bettany",
+    "James Spader",
+    "Ruaridh Mollica",
+    "Todd Stashwick"
    ],
-   "director": "Clyde Phillips",
+   "director": "Terry Matalas",
    "runtime": null,
-   "backdrop": "https://image.tmdb.org/t/p/w780/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
-   "fullReview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
-   "platform": "Amazon Prime Video"
+   "backdrop": "https://image.tmdb.org/t/p/w780/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+   "fullReview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+   "platform": "JioHotstar"
   },
   {
-   "title": "JoJo's Bizarre Adventure",
-   "genre": "Animation / Action & Adventure",
-   "language": "Japanese",
-   "released": "2012-10-06",
-   "review": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
-   "rating": 8.6,
+   "title": "The Chosen",
+   "genre": "Action & Adventure / Family",
+   "language": "English",
+   "released": "2019-04-21",
+   "review": "The life of Christ through the eyes of those who encountered him.",
+   "rating": 8.9,
    "scores": [
     {
      "source": "TMDB",
-     "score": "8.6/10"
+     "score": "8.9/10"
     }
    ],
-   "votes": 1709,
+   "votes": 1078,
    "verdict": "Must watch",
-   "poster": "https://image.tmdb.org/t/p/w342/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
    "isNew": true,
    "kind": "tv",
-   "tmdbId": 45790,
-   "cert": "A",
-   "trailer": "https://www.youtube.com/watch?v=fOvrr5izejw",
+   "tmdbId": 85077,
+   "cert": "U/A 13+",
+   "trailer": "https://www.youtube.com/watch?v=5CVj41dtkIA",
    "providers": [
     "Netflix",
-    "Crunchyroll",
-    "Sony Liv",
-    "Crunchyroll Amazon Channel"
+    "Movie Sphere+"
    ],
    "cast": [
-    "Shogo Sakata",
-    "Yohei Azakami",
-    "Kaito Ishikawa",
-    "Kenta Miyake"
+    "Elizabeth Tabish"
    ],
-   "director": null,
-   "runtime": 24,
-   "backdrop": "https://image.tmdb.org/t/p/w780/l2gc2dPRUPe3bAfYCRTjc6uAMmB.jpg",
-   "fullReview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
+   "director": "Dallas Jenkins",
+   "runtime": 60,
+   "backdrop": "https://image.tmdb.org/t/p/w780/2YQFwn9aF7huTFHxn9lFTAn14F.jpg",
+   "fullReview": "The life of Christ through the eyes of those who encountered him.",
    "platform": "Netflix"
+  },
+  {
+   "title": "Heartland",
+   "genre": "Thriller / Mystery",
+   "language": "English",
+   "released": "2026-11-13",
+   "review": "Former country music legend Misty Jones returns to Nashville to unravel the truth behind her rising-star niece's disappearance.",
+   "rating": 6.3,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "6.3/10"
+    }
+   ],
+   "votes": 102,
+   "verdict": "Decent one-time watch",
+   "poster": "https://image.tmdb.org/t/p/w342/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+   "isNew": true,
+   "kind": "movie",
+   "tmdbId": 1543469,
+   "cert": null,
+   "trailer": "https://www.youtube.com/watch?v=ziIz59enN1c",
+   "providers": [
+    "Netflix"
+   ],
+   "cast": [
+    "Jessica Chastain",
+    "Carter Faith",
+    "Ross Lynch",
+    "John Hawkes"
+   ],
+   "director": "Shana Feste",
+   "runtime": 114,
+   "backdrop": "https://image.tmdb.org/t/p/w780/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+   "fullReview": "Former country music legend Misty Jones returns to Nashville to unravel the truth behind her rising-star niece's disappearance.",
+   "platform": "Netflix"
+  },
+  {
+   "title": "12 12 12",
+   "genre": "Action & Adventure / Crime",
+   "language": "English",
+   "released": "2026-11-12",
+   "review": "A heist takes 12 months to plan, 12 hours to execute—and a thief not caught within 12 days won't be caught at all. Across three pulse-pounding timelines, an…",
+   "rating": 6.1,
+   "scores": [
+    {
+     "source": "TMDB",
+     "score": "6.1/10"
+    }
+   ],
+   "votes": 40,
+   "verdict": "Decent one-time watch",
+   "poster": "https://image.tmdb.org/t/p/w342/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
+   "isNew": true,
+   "kind": "tv",
+   "tmdbId": 254630,
+   "cert": "A",
+   "trailer": "https://www.youtube.com/watch?v=pWdt8WMCqnc",
+   "providers": [
+    "Apple TV",
+    "Apple TV Amazon Channel"
+   ],
+   "cast": [
+    "Anthony Mackie",
+    "Jamie Dornan",
+    "Jack Kesy",
+    "Agathe Rousselle"
+   ],
+   "director": "Dudi Appleton",
+   "runtime": null,
+   "backdrop": "https://image.tmdb.org/t/p/w780/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
+   "fullReview": "A heist takes 12 months to plan, 12 hours to execute—and a thief not caught within 12 days won't be caught at all. Across three pulse-pounding timelines, an FBI agent and a career criminal face off in a deadly game of cat and mouse through Europe.",
+   "platform": "Apple TV"
   }
  ],
  "comingSoon": [
   {
-   "title": "Bachelor Party D'eux",
-   "released": "2026-11-19",
-   "genre": "Action / Comedy",
-   "language": "Malayalam",
-   "review": "",
-   "poster": "https://image.tmdb.org/t/p/w342/jwcM2ESEQXCZQHuLV0BmSuA7Q62.jpg"
-  },
-  {
-   "title": "ENE Repeat",
-   "released": "2026-11-19",
+   "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+   "released": "2026-11-25",
    "genre": "Comedy / Drama",
-   "language": "Telugu",
-   "review": "A close-knit group of friends embark on another unforgettable journey, where old memories, new adventures, and…",
-   "poster": "https://image.tmdb.org/t/p/w342/yVIJDYaLHEheY1A3ofd0fBCOPHu.jpg"
+   "language": "English",
+   "review": "Eight years after the events of Once Upon a Time in... Hollywood, Cliff Booth returns to a changing Los Angeles. Now…",
+   "poster": "https://image.tmdb.org/t/p/w342/thX8Rs7nfgmPHfCgjoFuRovy49l.jpg"
   },
   {
-   "title": "Godzilla Minus Zero",
-   "released": "2026-11-20",
-   "genre": "Science Fiction / Horror",
-   "language": "Japanese",
-   "review": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has…",
-   "poster": "https://image.tmdb.org/t/p/w342/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg"
+   "title": "You Can See Everything",
+   "released": "2026-11-27",
+   "genre": "Documentary",
+   "language": "English",
+   "review": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical…",
+   "poster": "https://image.tmdb.org/t/p/w342/mVh3qkw2NUFxWWyF0G1hg2Wh0K5.jpg"
   },
   {
-   "title": "OM: Chapter 1",
-   "released": "2026-11-20",
-   "genre": "Crime / Action",
-   "language": "Tamil",
-   "review": "Follows a man who saves twenty woodcutters arrested by police in a forest in Tiruvannamalai.",
-   "poster": "https://image.tmdb.org/t/p/w342/gWWedXJXLrEaKCTrC4nMPPumDSb.jpg"
+   "title": "Paper Tiger",
+   "released": "2026-11-27",
+   "genre": "Crime / Drama",
+   "language": "English",
+   "review": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way…",
+   "poster": "https://image.tmdb.org/t/p/w342/p6oLmq5KmuWY6uRXBQBL2q30jia.jpg"
   },
   {
-   "title": "Appa Kutty",
-   "released": "2026-11-20",
-   "genre": "Crime / Thriller",
-   "language": "Tamil",
-   "review": "",
-   "poster": "https://image.tmdb.org/t/p/w342/6h0XuDkjNOTYpmdMop5nDrBREum.jpg"
-  },
-  {
-   "title": "Aakasam Lo Oka Tara",
-   "released": "2026-11-20",
-   "genre": "Drama",
-   "language": "Telugu",
-   "review": "",
-   "poster": "https://image.tmdb.org/t/p/w342/tN7NLrqxwhDsAgXuJSMg3CPmtTj.jpg"
-  },
-  {
-   "title": "Suryaa",
-   "released": "2026-11-20",
-   "genre": "Action / Crime",
+   "title": "Yeh Prem Mol Liya",
+   "released": "2026-11-27",
+   "genre": "Romance / Family",
    "language": "Hindi",
-   "review": "",
-   "poster": "https://image.tmdb.org/t/p/w342/lobwtcLrEDWvGVr3bTXGawpVHQd.jpg"
+   "review": "A heartfelt romantic family drama about two best friends whose close bond slowly turns into love. But one lie creates…",
+   "poster": "https://image.tmdb.org/t/p/w342/kUxkvh6GMZL4AHNgNDty68yTnwQ.jpg"
   },
   {
-   "title": "Pratap",
-   "released": "2026-11-20",
-   "genre": "Action / Thriller",
-   "language": "Hindi",
-   "review": "A decorated encounter specialist is imprisoned for murder, leading to a journey of self-discovery revealing that his…",
-   "poster": "https://image.tmdb.org/t/p/w342/Atmf4lldOmtzSPZw0KC6UAUYpTt.jpg"
+   "title": "Pei Pidichirukku",
+   "released": "2026-11-27",
+   "genre": "Horror",
+   "language": "Tamil",
+   "review": "An irresponsible businessman gets trapped in a dangerous deal with a rival company, triggering a series of mysterious…",
+   "poster": "https://image.tmdb.org/t/p/w342/o1xgEsjV46PYiq1v12nvQHWFOYS.jpg"
+  },
+  {
+   "title": "Mysaa",
+   "released": "2026-11-27",
+   "genre": "Action / Drama",
+   "language": "Telugu",
+   "review": "Unafraid of war and unwilling to stop until she finds that one answer. She carries no doubts. Only the ache of an…",
+   "poster": "https://image.tmdb.org/t/p/w342/rJa7VbffwJcGatv7bFISTlma5FQ.jpg"
+  },
+  {
+   "title": "Delivery Boy",
+   "released": "2026-11-27",
+   "genre": "Action / Drama",
+   "language": "Tamil",
+   "review": "A young food delivery rider, who dreams of becoming a police officer, is forced to steal money to save his critically…",
+   "poster": "https://image.tmdb.org/t/p/w342/5JykVg5yWm5QiFyeEBq3diDmI5.jpg"
+  },
+  {
+   "title": "Cosmic Samson",
+   "released": "2026-11-27",
+   "genre": "Action",
+   "language": "Malayalam",
+   "review": "Aspiring filmmaker working as a pizza delivery guy whose ordinary life takes an extraordinary turn when mysterious…",
+   "poster": "https://image.tmdb.org/t/p/w342/bLZt3m1itByeC8PubRkRQ3Lmqey.jpg"
   }
  ]
 }
